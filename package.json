@@ -1,0 +1,9 @@
+{
+  "name": "manejo-b",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-data.mjs"
+  }
+}
