@@ -1,0 +1,46 @@
+# Questions to confirm against PREGUNTAS.pdf
+
+- q-0019 (PDF page 5): Última opción: 'cruve' parece typo impreso en la fuente ('curve/cruce'); transcrito tal cual.
+- q-0030 (PDF page 6): Tarjeta cortada al borde inferior: solo se ven 2 opciones; probablemente hay una tercera no visible.; incomplete: only 2 options visible in the PDF
+- q-0035 (PDF page 7): Tarjeta cortada al borde inferior; podría haber más opciones no visibles.
+- q-0039 (PDF page 8): El enunciado impreso parece empezar sin signo de apertura '¿' ('En qué situación...'); transcrito según lo visible.
+- q-0054 (PDF page 12): Capítulo incierto; el tema no se ajusta claramente a ninguno.
+- q-0061 (PDF page 13): Opción marcada 'Continuar conduciendo lentamente' parece contraintuitiva; se transcribe según el resaltado verde.
+- q-0094 (PDF page 22): Card cut off at the bottom edge of the page; a third option is probably missing. Highlighted option is the second visible one.; incomplete: only 2 options visible in the PDF
+- q-0102 (PDF page 25): Question text 'desde la izquierda a la derecha, señaliza a la derecha' is blurry; the words 'señaliza a la derecha' could be 'señaliza a la derecha' or similar.
+- q-0126 (PDF page 31): Card marcada con X; correcta tomada de 'Respuesta correcta'. Debajo asoma el borde de otra card cortada.
+- q-0128 (PDF page 32): Card inferior ligeramente cortada en el borde.
+- q-0147 (PDF page 37): Opción 3 ligeramente cortada en el borde inferior de la página; 'podría' sin tilde en el original.
+- q-0156 (PDF page 39): Card marcada con X; correcta tomada de 'Respuesta correcta' (I y II).
+- q-0170 (PDF page 41): Card marcada con X; correcta tomada de 'Respuesta correcta'.
+- q-0171 (PDF page 41): Card marcada con X; correcta tomada de 'Respuesta correcta'.
+- q-0174 (PDF page 42): Card marcada con X; correcta tomada de 'Respuesta correcta'.
+- q-0177 (PDF page 43): Card cut off at bottom edge; third option text may be incomplete.
+- q-0187 (PDF page 46): Question text lacks question marks as printed; verbatim. Correct answer taken from the 'Respuesta correcta' block.
+- q-0194 (PDF page 48): Question refers to an image, but the screenshot shows no picture in the card (probably cropped out of the PDF).
+- q-0198 (PDF page 49): Card shows the wrong selected answer (option 2, red X); the 'Respuesta correcta' block is cut off. Correct answer inferred by content (the false statement is the third option).
+- q-0202 (PDF page 50): Low resolution: option 3 'muertes' vs 'muertos' in the Respuesta correcta block.
+- q-0205 (PDF page 51): Card is cut off at the bottom on the left; options and correct answer taken from the overlapping crop at the top right of the page (same card).
+- q-0209 (PDF page 52): Card cut off at bottom edge; a third option may exist but is not visible.; incomplete: only 2 options visible in the PDF
+- q-0211 (PDF page 52): Card cut off at bottom edge; options after the third (if any) not visible.
+- q-0218 (PDF page 54): Roman-numeral statements are very small and low resolution; wording of II and III may have minor misreadings. Card cut off at bottom.
+- q-0222 (PDF page 55): Card cut off at bottom edge; a third option may exist but is not visible.; incomplete: only 2 options visible in the PDF
+- q-0225 (PDF page 56): Card cut off at bottom edge.
+- q-0232 (PDF page 58): Card cut off at the bottom; a third option may exist but is not visible. Option text 'desiciones' printed as shown.; incomplete: only 2 options visible in the PDF
+- q-0266 (PDF page 67): Card cut off at the bottom; a third option may exist but is not visible.; incomplete: only 2 options visible in the PDF
+- q-0269 (PDF page 68): Card cut off at the bottom; the last option may be incomplete or more options may exist.
+- q-0278 (PDF page 70): Card cut off at the bottom; third option (probably 'I, II y III') not visible.; incomplete: only 2 options visible in the PDF
+- q-0280 (PDF page 71): Banner label hard to read (EXAMEN 6 vs other digit).
+- q-0281 (PDF page 71): Banner label hard to read (EXAMEN 6 vs other digit).
+- q-0282 (PDF page 71): Card cut off at bottom of page; a third option may be missing.; incomplete: only 2 options visible in the PDF
+- q-0283 (PDF page 72): Banner label hard to read (EXAMEN 6 vs other digit).
+- q-0289 (PDF page 73): Banner label hard to read (EXAMEN 6 vs other digit).
+- q-0292 (PDF page 73): Answered wrongly in the source; correct option taken from 'Respuesta correcta' section. Banner label hard to read.
+- q-0294 (PDF page 74): Answered wrongly in the source; correct option taken from 'Respuesta correcta' section.
+- q-0295 (PDF page 74): Answered wrongly in the source; correct option taken from 'Respuesta correcta' section.
+- q-0296 (PDF page 76): Very blurry; question text and option 1 ('cotezazo'?) uncertain. Answered wrongly in the source; correct taken from 'Respuesta correcta'.
+- q-0297 (PDF page 77): Very blurry; option wording uncertain.
+- q-0298 (PDF page 78): Very blurry; question text partly illegible and option 1 wording uncertain.
+- q-0299 (PDF page 79): Very blurry; part of question text illegible. Answered wrongly in the source; correct taken from 'Respuesta correcta'.
+- q-0300 (PDF page 82): Blurry; part of question text uncertain.
+- q-0304 (PDF page 89): Card is cut off at the bottom edge of the screenshot; there may be further options not visible.

@@ -50,3 +50,9 @@ test('rejects unknown chapter slugs when a list is given', () => {
   const errors = validateQuestions([ok({ capitulo: 'nope' })], { chapterSlugs: ['senales'] });
   assert.match(errors.join('\n'), /unknown capitulo/);
 });
+
+test('allows 2 options only when the question is flagged incompleta', () => {
+  assert.deepEqual(validateQuestions([ok({ opciones: ['A', 'B'], correcta: 1, incompleta: true })]), []);
+  assert.match(validateQuestions([ok({ opciones: ['A', 'B'], correcta: 1 })]).join('\n'), /opciones/);
+  assert.match(validateQuestions([ok({ opciones: ['A'], correcta: 0, incompleta: true })]).join('\n'), /opciones/);
+});

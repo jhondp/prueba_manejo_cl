@@ -1,0 +1,4383 @@
+[
+  {
+    "id": "q-0001",
+    "numero": 1,
+    "examen": "EXAMEN 1 PREMIUM",
+    "tema": "Velocidad máxima urbana",
+    "capitulo": "la-velocidad",
+    "enunciado": "En la calle que muestra la imagen no hay señales que establezcan la velocidad máxima permitida. ¿Cuál será entonces dicha velocidad para un conductor de automóvil?",
+    "opciones": [
+      "60 km/h",
+      "50 km/h",
+      "40 km/h"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0001.png"
+  },
+  {
+    "id": "q-0002",
+    "numero": 2,
+    "examen": "EXAMEN 1 PREMIUM",
+    "tema": "Percepción de la realidad",
+    "capitulo": "la-persona-en-el-transito",
+    "enunciado": "¿Cuándo es alto el riesgo de interpretar erróneamente la realidad al conducir?\nI.- Cuando existe una densa niebla\nII.- Cuando se conduce de noche muy cansado\nIII.- Cuando se va por un camino montañoso con sinuosidades",
+    "opciones": [
+      "Sólo I",
+      "II y III",
+      "I, II y III"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0003",
+    "numero": 3,
+    "examen": "EXAMEN 1 PREMIUM",
+    "tema": "Señal peligro deslizamientos",
+    "capitulo": "senales-de-transito-verticales",
+    "enunciado": "¿Qué significa esta señal?",
+    "opciones": [
+      "Peligro de deslizamientos",
+      "Peligro de granizos",
+      "Peligro por río caudaloso"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0003.png"
+  },
+  {
+    "id": "q-0004",
+    "numero": 4,
+    "examen": null,
+    "tema": "Accidentes con más muertes",
+    "capitulo": "libro-cap1-siniestros-de-transito",
+    "enunciado": "¿Qué tipo de accidente es el culpable de la mayor cantidad de muertes en Chile?",
+    "opciones": [
+      "Los volcamientos",
+      "Los atropellos",
+      "Los impactos con objetos fijos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0005",
+    "numero": 5,
+    "examen": "EXAMEN 1 PREMIUM",
+    "tema": "Vía angosta con peatones",
+    "capitulo": "libro-cap3-convivencia-vial",
+    "enunciado": "Si usted es el conductor que va manejando en sentido contrario al vehículo que se observa en la imagen, ¿Qué debería hacer al enfrentarse a esta situación?",
+    "opciones": [
+      "Hacer señales a los peatones para que se alejen de la calzada",
+      "Dejar pasar primero al vehículo que viene en contra y luego continuar pasando junto a los peatones",
+      "Reducir su velocidad y continuar conduciendo"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0005.png"
+  },
+  {
+    "id": "q-0006",
+    "numero": 7,
+    "examen": null,
+    "tema": "Distancia autos estacionados",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "Cuando un conductor circula al lado de autos estacionados, ¿A qué distancia de ellos debe pasar como mínimo?",
+    "opciones": [
+      "A un metro",
+      "A dos metros",
+      "A una equivalente al ancho de una puerta"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0007",
+    "numero": 8,
+    "examen": null,
+    "tema": "Alcoholemia",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "En el organismo la tasa de alcoholemia aumenta muy rápido hasta llegar a su nivel máximo, en promedio, ¿En cuánto tiempo se alcanza a llegar a ese nivel?",
+    "opciones": [
+      "A la hora después de haber tomado",
+      "A las 2 horas después de haber tomado",
+      "A las 4 horas después de haber tomado"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0008",
+    "numero": 11,
+    "examen": null,
+    "tema": "Bomba de bencina",
+    "capitulo": "conductas-que-implican-riesgos",
+    "enunciado": "¿Cuál de las siguientes acciones jamás debe efectuarse en una bomba de bencina?",
+    "opciones": [
+      "Detenerse dejando el motor encendido",
+      "Encender un cigarrillo",
+      "Circular a baja velocidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0009",
+    "numero": 12,
+    "examen": null,
+    "tema": "Adelantamiento a 90 km/h",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "Una persona va conduciendo a 90 km/h, velocidad máxima permitida en esa vía. ¿Qué debe hacer el conductor si a pesar de esto otro vehículo desea adelantarlo?",
+    "opciones": [
+      "No acelerar y conducir lo más a la derecha posible",
+      "Encender las luces de advertencia de peligro",
+      "Desplazarse hacia la berma y circular por ella"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0010",
+    "numero": 9,
+    "examen": null,
+    "tema": "Accidente con motociclista",
+    "capitulo": "como-comportarse-en-caso-de-siniestro",
+    "enunciado": "Se ha producido un accidente en el que ha participado un motociclista. El motociclista yace consciente pero en estado de Shock, ¿De qué hay que asegurarse?",
+    "opciones": [
+      "Que el motociclista se saque el casco",
+      "Que el motociclista no se saque el casco",
+      "Que al motociclista se le ayude a ponerse de pie"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0011",
+    "numero": 13,
+    "examen": null,
+    "tema": "Distancia de seguimiento",
+    "capitulo": "la-velocidad",
+    "enunciado": "Si un conductor circula a 90 km/h, ¿Cuántos metros de distancia deberá llevar con el vehículo que lo antecede para mantener una buena distancia de seguimiento?",
+    "opciones": [
+      "25 metros",
+      "50 metros",
+      "75 metros"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0012",
+    "numero": 10,
+    "examen": null,
+    "tema": "Luces de advertencia",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "¿Cuándo NO corresponde que un conductor use las luces de advertencia de peligro de su vehículo?",
+    "opciones": [
+      "Cuando está en pana obstaculizando el tránsito vehicular",
+      "Cuando está siendo remolcado",
+      "Cuando está retrocediendo en una calle de poco tránsito"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0013",
+    "numero": 14,
+    "examen": null,
+    "tema": "Revisión de frenos",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "¿En dónde NO sería indispensable revisar el estado de los frenos?",
+    "opciones": [
+      "Al realizar viajes largos a alta velocidad por la carretera",
+      "Al pasar por una calle inundada",
+      "Antes de hacer partir el vehículo luego de un largo tiempo sin haberlo utilizado"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0014",
+    "numero": 16,
+    "examen": "EXAMEN 1 PREMIUM",
+    "tema": "Señal Ceda el Paso",
+    "capitulo": "senales-de-transito-verticales",
+    "enunciado": "¿Qué indica la señal de tránsito que se observa en la imagen?",
+    "opciones": [
+      "La obligación de detenerse a la altura de la señal",
+      "Advierte la proximidad de un cruce peligroso",
+      "La obligación de ceder el paso a los vehículos que se aproximen por la otra vía"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0014.png"
+  },
+  {
+    "id": "q-0015",
+    "numero": 18,
+    "examen": null,
+    "tema": "Medicamentos y conducción",
+    "capitulo": "medicamentos-y-conduccion",
+    "enunciado": "¿Cuál de las siguientes afirmaciones es FALSA?",
+    "opciones": [
+      "Algunos antihistamínicos tienen un riesgo de accidentes similar a la conducción con una tasa de alcohol en la sangre de entre 0.5 a 0.8 gr/l",
+      "Los medicamentos NO afectan la capacidad para conducir de forma segura",
+      "Algunos psicofármacos aumentan el tiempo de reacción y la capacidad de coordinar adecuadamente los movimientos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0016",
+    "numero": 17,
+    "examen": null,
+    "tema": "Remolque zigzagueando",
+    "capitulo": "conduccion-con-carga",
+    "enunciado": "Un conductor va en su vehículo tirando un remolque pequeño que comienza a zigzaguear, ¿Qué debería hacer el conductor?",
+    "opciones": [
+      "Aumentar la velocidad para detener el movimiento oscilante del remolque",
+      "Retirar suavemente el pie del acelerador y disminuir la velocidad",
+      "Frenar a fondo, manteniendo la presión sobre el pedal de freno"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0017",
+    "numero": 19,
+    "examen": null,
+    "tema": "Principio de confianza",
+    "capitulo": "libro-cap3-convivencia-vial",
+    "enunciado": "De acuerdo a los conceptos de Convivencia Vial, ¿En qué se basa el principio de confianza?",
+    "opciones": [
+      "En que cada uno haga lo que quiera",
+      "En que los demás van a cumplir con las normas del tránsito",
+      "En que no hay que confiar en ningún usuario de la vía"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0018",
+    "numero": 20,
+    "examen": null,
+    "tema": "Sobreestimar habilidades",
+    "capitulo": "conductas-que-implican-riesgos",
+    "enunciado": "¿Cuál de las siguientes afirmaciones es FALSA?",
+    "opciones": [
+      "Los conductores que sobreestiman sus habilidades de conducción a menudo crean situaciones de riesgo",
+      "Los jóvenes con frecuencia sobreestiman sus habilidades de conducción, teniendo un mayor riesgo de accidentes",
+      "Los conductores que sobreestiman sus habilidades de conducción generalmente conducirán más atentos y concentrados"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0019",
+    "numero": 21,
+    "examen": null,
+    "tema": "Cruces ferroviarios",
+    "capitulo": "cruces-ferroviarios",
+    "enunciado": "Respecto a los cruces ferroviarios a nivel, ¿Cuál de las siguientes opciones es VERDADERA?",
+    "opciones": [
+      "Si ya se ha ingresado a un cruce ferroviario y se aproxima un tren a los lejos, se recomienda continuar avanzando",
+      "Está permitido estacionar a una distancia mínima de 10 metros de un cruce ferroviario",
+      "Si no se siente tren alguno en las proximidades, es lícito efectuar un adelantamiento en un cruve ferroviario"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0020",
+    "numero": 22,
+    "examen": null,
+    "tema": "Charco de agua",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "Luego de pasar sobre un gran charco de agua, ¿Qué parte del automóvil es conveniente accionar repetidamente y en forma suave, para que el calor producido por el roce evapore la humedad?",
+    "opciones": [
+      "El embrague",
+      "La palanca de cambios",
+      "El pedal de freno"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0021",
+    "numero": 25,
+    "examen": null,
+    "tema": "Estacionar en pendiente",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "Cuando un conductor desea estacionar su vehículo en una pendiente fuerte en bajada, ¿En qué marcha NO debería dejar la palanca de cambios?",
+    "opciones": [
+      "En primera",
+      "En neutro",
+      "Retroceso"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0022",
+    "numero": 23,
+    "examen": null,
+    "tema": "Distancia de detención",
+    "capitulo": "la-velocidad",
+    "enunciado": "¿Qué distancia es igual a la distancia de detención?",
+    "opciones": [
+      "La distancia de frenado",
+      "La distancia de reacción más la de frenado",
+      "La distancia recorrida desde que se pisa el pedal de freno hasta que el vehículo se detiene"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0023",
+    "numero": 26,
+    "examen": null,
+    "tema": "Distancia de frenado",
+    "capitulo": "la-velocidad",
+    "enunciado": "¿Qué sucede con la distancia de frenado cuando el conductor aumenta al doble su velocidad?",
+    "opciones": [
+      "Se duplica",
+      "Se triplica",
+      "Se cuadruplica"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0024",
+    "numero": 24,
+    "examen": null,
+    "tema": "Semáforo en amarillo",
+    "capitulo": "los-semaforos",
+    "enunciado": "¿En qué caso un conductor NO debería detenerse cuando el semáforo se pone en amarillo?",
+    "opciones": [
+      "Cuando ya ha ingresado al cruce",
+      "Cuando va demasiado rápido",
+      "Cuando la luz cambia sorpresivamente"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0025",
+    "numero": 27,
+    "examen": null,
+    "tema": "Falla en cruce ferroviario",
+    "capitulo": "cruces-ferroviarios",
+    "enunciado": "Si el vehículo se descompone en un cruce ferroviario, ¿Qué debería hacer el conductor?",
+    "opciones": [
+      "Seguir intentando que el motor encienda",
+      "Salir del vehículo y alejarse de él",
+      "Hacer señas al tren para que se detenga"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0026",
+    "numero": 30,
+    "examen": null,
+    "tema": "Luces con neblina",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "Al conducir con neblina a la luz del día, ¿Qué luces debe encender un conductor?",
+    "opciones": [
+      "Las luces delanteras bajas",
+      "Las luces de advertencia de peligro",
+      "Las delanteras altas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0027",
+    "numero": 28,
+    "examen": null,
+    "tema": "Revisión sistema de frenos",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "¿Con qué frecuencia un conductor debería revisar el sistema de frenos?",
+    "opciones": [
+      "Diariamente",
+      "Cada 6 meses",
+      "Periódicamente, según las indicaciones del fabricante"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0028",
+    "numero": 31,
+    "examen": null,
+    "tema": "Preferencia de paso",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "Al incorporarse a la circulación desde el estacionamiento de un centro comercial, ¿Qué vehículo tiene preferencia de paso?",
+    "opciones": [
+      "El vehículo que circule a mayor velocidad",
+      "El vehículo que viene por la calzada",
+      "El vehículo que se incorpora desde el estacionamiento"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0029",
+    "numero": 29,
+    "examen": null,
+    "tema": "Marchas altas",
+    "capitulo": "conduccion-eficiente",
+    "enunciado": "Mantener marchas altas mientras se conduce ayuda a:",
+    "opciones": [
+      "Consumir menos combustible",
+      "Conducir mas relajado",
+      "Llegar más rápido a destino"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0030",
+    "numero": 32,
+    "examen": null,
+    "tema": "Surco de neumáticos",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Cuál es la profundidad mínima permitida de los surcos de los neumáticos de un automóvil?",
+    "opciones": [
+      "1.0 mm.",
+      "1.6 mm."
+    ],
+    "correcta": 1,
+    "incompleta": true
+  },
+  {
+    "id": "q-0031",
+    "numero": 33,
+    "examen": null,
+    "tema": "Conducir enfermo",
+    "capitulo": "enfermedades-en-la-conduccion",
+    "enunciado": "¿Qué debería hacer una persona que está a punto de conducir y se siente enferma?",
+    "opciones": [
+      "Tomar una medicina antes de conducir",
+      "Acortar el viaje si puede",
+      "No manejar"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0032",
+    "numero": 1,
+    "examen": null,
+    "tema": "Encandilamiento nocturno",
+    "capitulo": "conduccion-en-la-oscuridad",
+    "enunciado": "Al transitar de noche es encandilado por las luces de un vehículo que viene en sentido contrario, ¿Qué debe hacer el conductor en este caso?",
+    "opciones": [
+      "Poner las luces delanteras altas",
+      "Bajar la velocidad y eventualmente detenerse",
+      "Bajar su visor de protección solar"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0033",
+    "numero": 34,
+    "examen": null,
+    "tema": "Conducción defensiva",
+    "capitulo": "seguridad-y-conduccion-eficiente",
+    "enunciado": "¿Qué tipo de conducción es recomendable practicar por su seguridad y la de los demás?",
+    "opciones": [
+      "Una conducción agresiva y temeraria",
+      "Una conducción excesivamente lenta",
+      "Una conducción defensiva y preventiva"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0034",
+    "numero": 2,
+    "examen": null,
+    "tema": "Baja presión neumáticos",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Qué efecto provoca una baja presión de aire en los neumáticos delanteros?",
+    "opciones": [
+      "Inclina al vehículo hacia un lado",
+      "Mejora el rendimiento del combustible",
+      "Hace sentir la dirección más pesada"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0035",
+    "numero": 35,
+    "examen": null,
+    "tema": "Lesiones cervicales",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Cuáles de los siguientes sistemas de seguridad reducen las lesiones cervicales?",
+    "opciones": [
+      "Cinturones de seguridad",
+      "Airbag",
+      "Apoyacabezas bien ajustado"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0036",
+    "numero": 5,
+    "examen": null,
+    "tema": "Patinaje en calzada mojada",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "Si al momento de frenar en una calzada mojada el vehículo comienza a patinar, ¿Qué es lo primero que debe hacer el conductor?",
+    "opciones": [
+      "Tirar rápidamente del freno de mano",
+      "Poner el pie en el pedal del embrague",
+      "Soltar el freno completamente"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0037",
+    "numero": 3,
+    "examen": null,
+    "tema": "Adelantar ovejas",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "¿Qué debería hacer un conductor al adelantar a una manada de ovejas?",
+    "opciones": [
+      "Estar preparado para detenerse",
+      "Adelantar rápidamente y sin vacilaciones",
+      "Tocar la bocina levemente"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0038",
+    "numero": 6,
+    "examen": null,
+    "tema": "Adelantamiento",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "Cuando un conductor alcanza a un auto al que desea adelantar, ¿Cuál de los siguientes aspectos es el más difícil de juzgar?",
+    "opciones": [
+      "La velocidad del auto al que desea adelantar",
+      "La longitud de la distancia de adelantamiento",
+      "Si es suficientemente ancho el espacio a la izquierda del vehículo que va adelante"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0039",
+    "numero": 4,
+    "examen": null,
+    "tema": "Retroceder en cruce",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "En qué situación un conductor puede retroceder con su vehículo en un cruce?",
+    "opciones": [
+      "Si ha quedado detenido sobre el paso de peatones",
+      "Si no hay nadie detrás del vehículo",
+      "Si recibe indicación expresa de un carabinero"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0040",
+    "numero": 7,
+    "examen": null,
+    "tema": "Carga en el techo",
+    "capitulo": "conduccion-con-carga",
+    "enunciado": "Si llevas una carga en el techo de tu vehículo, al momento de hacer una frenada de emergencia, ¿Hacia dónde se va la carga?",
+    "opciones": [
+      "Hacia adelante",
+      "Hacia un costado",
+      "Hacia atrás"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0041",
+    "numero": 8,
+    "examen": null,
+    "tema": "Olor a combustible",
+    "capitulo": "como-comportarse-en-caso-de-siniestro",
+    "enunciado": "Usted va conduciendo por una vía y de pronto comienza a sentir un fuerte olor a combustible, ¿Qué deberías hacer?",
+    "opciones": [
+      "Frenar bruscamente y revisar el origen del olor",
+      "Seguir conduciendo hasta llegar a un lugar seguro",
+      "Detenerse en un lugar seguro y revisar el origen del olor"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0042",
+    "numero": 9,
+    "examen": null,
+    "tema": "Estacionar cerca de paradero",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "Usted va conduciendo por una calle donde no hay demarcación ni señales de tránsito y desea estacionarse. Se ve que en ese lugar hay una parada de buses, ¿A cuántos metros se debe estacionar?",
+    "opciones": [
+      "A 20 metros de la parada de buses",
+      "A 10 metros de la parada de buses",
+      "A 60 metros de la parada de buses"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0043",
+    "numero": 10,
+    "examen": null,
+    "tema": "Niño tras la pelota",
+    "capitulo": "libro-cap3-convivencia-vial",
+    "enunciado": "Usted va conduciendo por la calzada y observa la situación de referencia en la imagen, ¿Qué debería hacer?",
+    "opciones": [
+      "Detenerse y esperar que salga el niño a recoger la pelota",
+      "Detenerse y sacar la mano para hacerle señas a los niños y peatones que busquen la pelota",
+      "Disminuir la velocidad y estar preparado para detenerse porque pueden salir peatones o niños a buscar la pelota"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0043.png"
+  },
+  {
+    "id": "q-0044",
+    "numero": 11,
+    "examen": null,
+    "tema": "Muertes diarias por accidentes",
+    "capitulo": "libro-cap1-siniestros-de-transito",
+    "enunciado": "Según las estadísticas, ¿Cuántas personas fallecen diariamente a causa de los accidentes de tránsito?",
+    "opciones": [
+      "Entre 4 y 5 personas",
+      "Entre 9 y 14 personas",
+      "Entre 20 y 40 personas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0045",
+    "numero": 12,
+    "examen": null,
+    "tema": "Adelantar motociclista",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "¿Cuánto espacio debería dejar un conductor para adelantar a un motociclista?",
+    "opciones": [
+      "1.50 metros",
+      "El ancho de una puerta",
+      "El espacio de una pista de circulación"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0046",
+    "numero": 13,
+    "examen": null,
+    "tema": "Celular al conducir",
+    "capitulo": "conductas-que-implican-riesgos",
+    "enunciado": "Si un conductor es sorprendido utilizando el celular mientras está conduciendo, ¿A qué falta se expone?",
+    "opciones": [
+      "Falta leve",
+      "Falta grave",
+      "Falta gravísima"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0047",
+    "numero": 17,
+    "examen": null,
+    "tema": "Zona de Escuela",
+    "capitulo": "la-velocidad",
+    "enunciado": "¿Cuál afirmación es FALSA en relación a la Zona de Escuela?",
+    "opciones": [
+      "La velocidad máxima es de 30 km/h tanto en ciudad como en zona rural",
+      "Solamente se debe conducir hasta un máximo de 30 km/h en los horarios de entrada y salida de los alumnos",
+      "La velocidad máxima en zona urbana es de 30 km/h y en zona rural de 50 km/h"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0048",
+    "numero": 14,
+    "examen": null,
+    "tema": "Uso del celular",
+    "capitulo": "conductas-que-implican-riesgos",
+    "enunciado": "¿Cuál afirmación es VERDADERA en relación al uso del celular en la conducción?",
+    "opciones": [
+      "Chatear al conducir es similar a manejar tras haber bebido 4 cervezas",
+      "Se prohíben las llamadas por celular, inclusive utilizando un sistema de manos libres",
+      "Está prohibido utilizar aplicaciones de navegación en el celular"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0049",
+    "numero": 18,
+    "examen": null,
+    "tema": "Presión de neumáticos",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Cuál es la presión de aire correcta en el neumático de un vehículo?",
+    "opciones": [
+      "25 PSI",
+      "28 PSI",
+      "La presión indicada por el fabricante del vehículo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0050",
+    "numero": 15,
+    "examen": null,
+    "tema": "Siniestros por desatención",
+    "capitulo": "libro-cap1-siniestros-de-transito",
+    "enunciado": "¿Cuántos siniestros de tránsito se registraron en el año 2021 por conductores que no estuvieron atentos a las condiciones del tránsito?",
+    "opciones": [
+      "No más de 1.600 siniestros",
+      "No más de 3.200 siniestros",
+      "Más de 27.000 siniestros"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0051",
+    "numero": 19,
+    "examen": null,
+    "tema": "Vehículo oscila",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "Si en determinadas circunstancias el vehículo oscila y rebota de forma anormal, ¿Cuál sería la causa mas probable?",
+    "opciones": [
+      "Frenos mal ajustados",
+      "Frenos en mal estado",
+      "Amortiguadores en mal estado"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0052",
+    "numero": 16,
+    "examen": null,
+    "tema": "Interrumpir adelantamiento",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "¿Cuándo se debería interrumpir una maniobra de adelantamiento?",
+    "opciones": [
+      "Cuando el vehículo que se adelanta repentinamente se mueve hacia la derecha",
+      "Cuando el vehículo se adelante enciende sus luces de emergencia",
+      "Cuando repentinamente aparece un vehículo en el sentido contrario"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0053",
+    "numero": 20,
+    "examen": null,
+    "tema": "Cansancio y estrés",
+    "capitulo": "cansancio-sueno-y-fatiga",
+    "enunciado": "El cansancio y el estrés influyen negativamente propiciando conductas como:",
+    "opciones": [
+      "Retraso en el paso de las marchas",
+      "Mayor tiempo de reacción",
+      "A y B son correctas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0054",
+    "numero": 21,
+    "examen": null,
+    "tema": "Personas a caballo",
+    "capitulo": "conduccion-en-la-oscuridad",
+    "enunciado": "Si usted va conduciendo por una zona rural donde el camino es muy angosto, ¿En qué situación sería más difícil ver a personas a caballo que avanzan delante suyo?",
+    "opciones": [
+      "Cuando se va a virar a la derecha",
+      "Cuando se va a virar a la izquierda",
+      "Cuando se está descendiendo un cerro"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0055",
+    "numero": 24,
+    "examen": null,
+    "tema": "Cansancio en la conducción",
+    "capitulo": "cansancio-sueno-y-fatiga",
+    "enunciado": "¿Cuál afirmación es FALSA en relación al cansancio en la conducción?",
+    "opciones": [
+      "Si un conductor está cansado lo más apropiado sería que el acompañante le vaya hablando permanentemente",
+      "Un conductor cansado ve empeorada su capacidad de reacción",
+      "El cansancio es una causa importante en los accidentes que se registran en carretera"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0056",
+    "numero": 22,
+    "examen": null,
+    "tema": "Pista bloqueada",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "Un conductor va circulando por la pista del medio en una calzada de 3 pistas en el mismo sentido y repentinamente la pista derecha se estanca y los autos que circulan por dicha pista comienzan a frenar, ¿Qué debería hacer el conductor?",
+    "opciones": [
+      "Permitir que los autos se integren paulatinamente a la pista central",
+      "Acelerar para despejar prontamente la pista central y acelerar el tránsito",
+      "Pasar por el lado de los vehículos señalizando"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0057",
+    "numero": 25,
+    "examen": null,
+    "tema": "Surco mínimo legal",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Cuál es el surco del neumático mínimo permitido por la ley?",
+    "opciones": [
+      "1.2 mm",
+      "1.3 mm",
+      "1.6 mm"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0058",
+    "numero": 26,
+    "examen": null,
+    "tema": "Accidente con camión",
+    "capitulo": "como-comportarse-en-caso-de-siniestro",
+    "enunciado": "¿Qué debería hacer usted si se ve involucrado en un accidente con un camión donde hay combustibles derramados?",
+    "opciones": [
+      "Bajarse del vehículo y evitar que se siga derramando el líquido del camión",
+      "Bajarse del vehículo y revisar desde cerca los químicos derramados",
+      "Detenerse en un lugar seguro, llamar a los equipos de emergencia e identificar en el mismo camión el registro de carga (números y símbolos)"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0059",
+    "numero": 28,
+    "examen": null,
+    "tema": "Sistema mecánico",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "¿Cuál afirmación sobre el sistema mecánico del vehículo es falsa?",
+    "opciones": [
+      "Si el sistema de refrigeración se estropea, sube la temperatura del motor",
+      "Cuando el motor se está lubricando se enciende una luz en el panel",
+      "Si la batería del auto se agota puede tener problemas al arrancar"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0060",
+    "numero": 27,
+    "examen": null,
+    "tema": "Edad y accidentabilidad",
+    "capitulo": "libro-cap1-siniestros-de-transito",
+    "enunciado": "¿Cuál es el rango etario de mayor accidentabilidad según las estadísticas de tránsito?",
+    "opciones": [
+      "Entre 19 y 29 años",
+      "Entre 40 y 50 años",
+      "Personas de mas de 60 años"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0061",
+    "numero": 1,
+    "examen": "EXAMEN 2",
+    "tema": "Peatón en la calzada",
+    "capitulo": "libro-cap3-convivencia-vial",
+    "enunciado": "En la situación que se ve en la imagen ¿Qué debería hacer el conductor del vehículo?",
+    "opciones": [
+      "Continuar conduciendo lentamente",
+      "Detenerse y esperar a que el peatón cruce",
+      "Indicarle con la mano al peatón termine de cruzar rápidamente"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0061.png"
+  },
+  {
+    "id": "q-0062",
+    "numero": 2,
+    "examen": "EXAMEN 2",
+    "tema": "Señal dos sentidos",
+    "capitulo": "senales-de-transito-verticales",
+    "enunciado": "¿Qué indica esta señal?",
+    "opciones": [
+      "Dos sentidos de tránsito que viene más adelante",
+      "Proximidad de doble calzada",
+      "Preferencia al tránsito que viene en sentido contrario"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0062.png"
+  },
+  {
+    "id": "q-0063",
+    "numero": 3,
+    "examen": "EXAMEN 2",
+    "tema": "Señal confluencia",
+    "capitulo": "senales-de-transito-verticales",
+    "enunciado": "¿Sobre qué peligro le advierte a un conductor esta señal?",
+    "opciones": [
+      "La proximidad de un cruce en que se tiene preferencia sobre los vehículos que se aproximen por la derecha",
+      "La proximidad de un cruce en que se carece de preferencia ante los vehículos que se aproximan por la derecha",
+      "La proximidad de un cruce con un alto flujo de vehículos que se incorporarán a la calzada"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0063.png"
+  },
+  {
+    "id": "q-0064",
+    "numero": 4,
+    "examen": "EXAMEN 2",
+    "tema": "Zona achurada",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "El vehículo amarillo se encuentra detenido sobre una zona achurada, esperando poder virar en U, ¿Sería correcta dicha maniobra?",
+    "opciones": [
+      "No, porque los vehículos no pueden circular ni detenerse por zonas achuradas",
+      "Sí, porque la zona achurada solo separa sentidos de circulación",
+      "No, porque la vía presenta mucho tránsito y dicha maniobra podría ocasionar un accidente"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0064.png"
+  },
+  {
+    "id": "q-0065",
+    "numero": 6,
+    "examen": "EXAMEN 2",
+    "tema": "Franjas amarillas cruce",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "¿Cuándo puede un conductor ingresar a un cruce en cuya calzada se han pintado franjas amarillas diagonales como las que muestra la imagen?",
+    "opciones": [
+      "Sólo cuando haya menos de dos vehículos delante",
+      "Siempre que el semáforo esté en verde",
+      "Cuando en la salida del cruce exista espacio suficiente para no quedar detenido en él"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0065.png"
+  },
+  {
+    "id": "q-0066",
+    "numero": 7,
+    "examen": "EXAMEN 2",
+    "tema": "Choque por detrás",
+    "capitulo": "libro-cap1-siniestros-de-transito",
+    "enunciado": "¿Cuál o cuáles de las siguientes situaciones podrían ser la causa de que un conductor choque por detrás a otro vehículo?\nI Falta de atención al tránsito\nII Conducir muy cerca del vehículo que va delante\nIII Una frenada violenta y sorpresiva del vehículo que va delante",
+    "opciones": [
+      "I y III",
+      "II y III",
+      "I, II y III"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0066.png"
+  },
+  {
+    "id": "q-0067",
+    "numero": 5,
+    "examen": "EXAMEN 2",
+    "tema": "Pista de desaceleración",
+    "capitulo": "conduccion-en-autopistas",
+    "enunciado": "Al costado derecho se observa una marca discontinua que es más ancha que las líneas normales, ¿Qué indica?",
+    "opciones": [
+      "Que hay una pista de desaceleración al costado derecho",
+      "La existencia de una pista para estacionar",
+      "Que hay una para de locomoción colectiva"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0067.png"
+  },
+  {
+    "id": "q-0068",
+    "numero": 8,
+    "examen": "EXAMEN 2",
+    "tema": "Flecha blanca",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Sería correcto que el automóvil indicado con la flecha roja continuara derecho?",
+    "opciones": [
+      "Sí, porque la flecha blanca recomienda solo esa pista para poder doblar",
+      "No, porque la flecha blanca solo indica que se puede doblar",
+      "Sí, porque no hay ningún semáforo ni disco pare que le obligue a detenerse"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0068.png"
+  },
+  {
+    "id": "q-0069",
+    "numero": 9,
+    "examen": "EXAMEN 2",
+    "tema": "Señal cruce peatonal",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Qué indica la señal?",
+    "opciones": [
+      "Advierte la probable presencia de peatones en la vía",
+      "Advierte la proximidad de un cruce peatonal",
+      "Indica que los peatones deben cruzar solamente por el cruce peatonal"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0069.png"
+  },
+  {
+    "id": "q-0070",
+    "numero": 11,
+    "examen": "EXAMEN 2",
+    "tema": "Peligros zona rural",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "Si estás conduciendo en zona rural, como en esta imagen, ¿Qué peligros debes considerar?\nI.- Que venga un vehículo en sentido contrario e invada la pista cortando el paso\nII.- Que después de la curva exista un auto detenido o en pana\nIII.- Que sorpresivamente aparezca un animal",
+    "opciones": [
+      "I y II",
+      "II y III",
+      "I, II y III"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0070.png"
+  },
+  {
+    "id": "q-0071",
+    "numero": 13,
+    "examen": "EXAMEN 2",
+    "tema": "Señales y viraje izquierda",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Frente a cuál de las señales mostradas debe detenerse siempre un conductor antes de virar a la izquierda?",
+    "opciones": [
+      "Ilustración A",
+      "Ilustración B",
+      "Ilustración C"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0071.png"
+  },
+  {
+    "id": "q-0072",
+    "numero": 12,
+    "examen": null,
+    "tema": "Luces de advertencia",
+    "capitulo": "seguridad-y-conduccion-eficiente",
+    "enunciado": "¿Para qué  se deben utilizar las luces de advertencia de peligro ?",
+    "opciones": [
+      "Para advertir a los demás que se tiene prisa",
+      "Para advertir a quienes vienen detrás de un peligro que hay más adelante",
+      "Para advertir de un viraje próximo a quienes vienen detrás"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0073",
+    "numero": 15,
+    "examen": null,
+    "tema": "Sueño nocturno",
+    "capitulo": "cansancio-sueno-y-fatiga",
+    "enunciado": "Para una persona acostumbrada a trabajar de día y dormir durante la noche, ¿En cuál de los siguientes horarios es más fácil que aparezca el sueño al conducir?",
+    "opciones": [
+      "En la madrugada, entre las 3 y 5 horas",
+      "Al atardecer, entre 18 y las 20 horas",
+      "Al anochecer, entre las 21 y 23 horas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0074",
+    "numero": 16,
+    "examen": null,
+    "tema": "Pista izquierda autopista",
+    "capitulo": "conduccion-en-autopistas",
+    "enunciado": "Al conducir por una autopista con poco tránsito, ¿Por cuánto tiempo es razonable utilizar la pista izquierda?",
+    "opciones": [
+      "Permanentemente, mientras no circulen vehículos cerca",
+      "Permanentemente, mientras ningún vehículo quiera sobrepasar",
+      "Exclusivamente mientras se necesite para sobrepasar a otros vehículos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0075",
+    "numero": 14,
+    "examen": null,
+    "tema": "Nieve",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Dónde se forma mayor nieve?",
+    "opciones": [
+      "En las zonas sombrías y húmedas",
+      "En las pendientes y caminos largos",
+      "En las vías rectas con poca rasantes"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0076",
+    "numero": 17,
+    "examen": null,
+    "tema": "Cruce con semáforo",
+    "capitulo": "los-semaforos",
+    "enunciado": "En un cruce regulado por semáforo, si da luz verde pero la pista de circulación no está despejada, ¿Qué debería hacer el conductor?",
+    "opciones": [
+      "El conductor deberá avanzar si pasado el cruce tiene a lo menos 4 metros expeditos en su pista de circulación",
+      "El conductor no deberá avanzar si pasado el cruce no tiene a lo menos 10 metros expeditos en su pista de circulación",
+      "El conductor deberá avanzar si pasado el cruce tiene al menos parte del largo de su vehículo en su pista de circulación"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0077",
+    "numero": 18,
+    "examen": null,
+    "tema": "Estacionar en pendiente",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "El estacionar su vehículo en pendiente ascendente, ¿Qué deberías hacer?",
+    "opciones": [
+      "Poner la marcha en retroceso",
+      "Poner la palanca en neutro",
+      "Poner la marcha en primera"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0078",
+    "numero": 19,
+    "examen": null,
+    "tema": "Marcha alta",
+    "capitulo": "conduccion-eficiente",
+    "enunciado": "¿Por qué es conveniente conducir con una marcha alta?",
+    "opciones": [
+      "Para llegar más pronto a destino",
+      "Para dale más fuerza al motor",
+      "Para consumir menos combustible"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0079",
+    "numero": 22,
+    "examen": null,
+    "tema": "Medicamento para la tos",
+    "capitulo": "medicamentos-y-conduccion",
+    "enunciado": "¿Qué debería hacer una persona que está tomando un medicamento para la tos y no está seguro si el remedio le puede afectar en la conducción?",
+    "opciones": [
+      "Conducir siempre y cuando se sienta bien y seguro para hacerlo",
+      "No conducir hasta consultar con su médico",
+      "Esperar unos minutos después de haber ingerido el medicamento y luego conducir"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0080",
+    "numero": 20,
+    "examen": null,
+    "tema": "Peatones esperando",
+    "capitulo": "usuarios-vulnerables",
+    "enunciado": "¿Qué debe hacer un conductor cuando hay peatones en la vereda esperando para cruzar?",
+    "opciones": [
+      "Dar la pasada sólo a los peatones que sean ancianos o niños",
+      "Tocar la bocina para indicar a los peatones que puedan cruzar",
+      "Disminuir la velocidad y prepararse para detenerse"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0081",
+    "numero": 23,
+    "examen": null,
+    "tema": "Aquaplaning",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "Un conductor transita bajo mucha lluvia y repentinamente siente la dirección del vehículo muy liviana, ¿Qué debe hacer para tener nuevamente el control del vehículo?",
+    "opciones": [
+      "Guiar el vehículo a la parte seca de la calzada",
+      "Cambiar rápidamente a una marcha mas baja",
+      "Soltar el acelerador del vehículo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0082",
+    "numero": 21,
+    "examen": null,
+    "tema": "Sistema de Retención Infantil",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "¿Qué consideraciones deben considerar en la elección del Sistema de Retención Infantil para el transporte de niños en vehículos particulares?",
+    "opciones": [
+      "Edad y sexo",
+      "Peso, talla y edad",
+      "Peso, talla, sexo y edad"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0083",
+    "numero": 25,
+    "examen": null,
+    "tema": "Distancia de frenado tren",
+    "capitulo": "cruces-ferroviarios",
+    "enunciado": "Los trenes no pueden detenerse fácilmente. Un tren que marcha a 100 km/h necesitará...",
+    "opciones": [
+      "Entre 200 a 400 metros para detenerse",
+      "Entre 500 y 600 metros para detenerse",
+      "Entre 800 a 1000 metros para detenerse"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0084",
+    "numero": 24,
+    "examen": null,
+    "tema": "Efectos alta velocidad",
+    "capitulo": "la-velocidad",
+    "enunciado": "De los siguientes efectos, ¿Cuál se presenta al conducir a alta velocidad?",
+    "opciones": [
+      "Menor consumo de líquido de frenos",
+      "Mayor emisión de contaminantes",
+      "Menores niveles de ruido"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0085",
+    "numero": 26,
+    "examen": null,
+    "tema": "Educación vial",
+    "capitulo": "libro-cap3-convivencia-vial",
+    "enunciado": "La educación vial busca alcanzar una mejor convivencia, ¿Qué valores transmite?",
+    "opciones": [
+      "Respeto a mi mismo y pericia al volante",
+      "La arrogancia, el coraje y la destreza al volante",
+      "La solidaridad, la comprensión, el perdón y la tolerancia"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0086",
+    "numero": 27,
+    "examen": null,
+    "tema": "Frenado seguro",
+    "capitulo": "recomendaciones-para-frenadas-fuertes",
+    "enunciado": "¿Cuál es la forma más segura de frenar un automóvil en una situación normal?",
+    "opciones": [
+      "Frenar rápidamente, presionando el pedal de embrague y luego aflojando lentamente el freno antes de detenerse",
+      "Frenar fuertemente, poniendo la palanca de cambios en neutro y luego aflojando rápidamente el freno antes de detenerse",
+      "Frenar suavemente en un inicio y luego un poco más fuerte, aflojando lentamente el freno antes de detenerse"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0087",
+    "numero": 28,
+    "examen": null,
+    "tema": "Infracción gravísima",
+    "capitulo": "responsabilidad-de-la-persona-conductora",
+    "enunciado": "¿Cuál de las siguientes opciones NO corresponde a una infracción gravísima?",
+    "opciones": [
+      "No respetar la luz roja de un semáforo",
+      "No respetar la señal PARE",
+      "No respetar el derecho preferente de un peatón"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0088",
+    "numero": 29,
+    "examen": null,
+    "tema": "Antes de partir",
+    "capitulo": "seguridad-y-conduccion-eficiente",
+    "enunciado": "¿Qué es lo que debería hacer un conductor antes de poner en movimiento su vehículo?",
+    "opciones": [
+      "Mirar a su alrededor y chequear los puntos ciegos",
+      "Retirar el freno de estacionamiento (freno de mano)",
+      "Fijarse si tiene suficiente combustible para llegar a destino"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0089",
+    "numero": 30,
+    "examen": null,
+    "tema": "Tachas reflectantes",
+    "capitulo": "conduccion-en-autopistas",
+    "enunciado": "Vas circulando por una carretera de doble calzada con tres pistas por sentido. Las demarcaciones de pistas y de eje central están reforzadas con tachas reflectantes. Si a su izquierda las tachas son rojas y a su derecha éstas son blancas, ¿por cuál pista va usted?",
+    "opciones": [
+      "Por la pista derecha",
+      "Por la pista del medio",
+      "Por la pista izquierda"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0090",
+    "numero": 31,
+    "examen": null,
+    "tema": "Eliminación del alcohol",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "Aproximadamente, ¿Cuántas horas deben transcurrir para que el organismo de un individuo que presenta 1.0 gr de alcohol por litro de sangre se encuentre libre de alcohol?",
+    "opciones": [
+      "2 a 3 horas",
+      "4 a 6 horas",
+      "7 a 10 horas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0091",
+    "numero": 32,
+    "examen": null,
+    "tema": "Presión de neumáticos",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Cuál es la razón más importante, desde el punto de vista de la Seguridad Vial, por la que se deben mantener los neumáticos a la presión indicada por el fabricante?",
+    "opciones": [
+      "Para mantener al vehículo a la altura correcta sobre la vía",
+      "Para evitar que el automóvil patine",
+      "Para impedir que el automóvil se incline hacia un lado"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0092",
+    "numero": 33,
+    "examen": null,
+    "tema": "Desenganchar el motor",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "¿Por qué NO se debe desenganchar el motor de un vehículo al ir conduciendo?",
+    "opciones": [
+      "Porque imposibilita el frenado del motor",
+      "Porque provoca la detención",
+      "Porque produce vibraciones en el vehículo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0093",
+    "numero": 34,
+    "examen": null,
+    "tema": "Accidente con lesiones leves",
+    "capitulo": "como-comportarse-en-caso-de-siniestro",
+    "enunciado": "Cuando un conductor se ve involucrado en un accidente de tránsito y los del otro vehículo resultan con lesiones leves, ¿debe este comunicar el hecho a la policía?",
+    "opciones": [
+      "No, los accidentes que sólo involucran lesionados leves nunca se informan a la policía",
+      "Sí, se debe dar cuenta del hecho a la policía dentro de los próximos 20 días",
+      "Sí, se debe dar cuenta del hecho a la autoridad policial más inmediata y a la brevedad"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0094",
+    "numero": 35,
+    "examen": "EXAMEN 2",
+    "tema": "Señal de advertencia",
+    "capitulo": "senales-de-transito-verticales",
+    "enunciado": "Este tipo de señal, ¿Para qué sirve?",
+    "opciones": [
+      "Para notificar las prioridades en el uso de las mismas y las prohibiciones",
+      "Para advertir acerca de peligros en la vía"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0094.png",
+    "incompleta": true
+  },
+  {
+    "id": "q-0095",
+    "numero": 1,
+    "examen": "Examen 8",
+    "tema": "Punto de encuentro",
+    "capitulo": "la-velocidad",
+    "enunciado": "El auto azul circula a 70 km/h y el auto rojo a 90 km/h. ¿Dónde es más probable que sus conductores estimen el punto de encuentro?",
+    "opciones": [
+      "El conductor del vehículo azul estimará que el punto de encuentro será en el punto A",
+      "Ambos conductores estimarán que el punto de encuentro será en el punto B",
+      "El conductor del vehículo rojo estimará que el punto de encuentro será en el punto C"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0095.png"
+  },
+  {
+    "id": "q-0096",
+    "numero": 3,
+    "examen": null,
+    "tema": "Adelantar de noche",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "Cuando un conductor adelanta a otro vehículo durante la noche, ¿Qué debe considerar?",
+    "opciones": [
+      "Que se recomienda tocar la bocina dos veces antes de pasar a la pista izquierda",
+      "Que su capacidad visual se verá reducida y por tanto deberá tener más cuidado",
+      "Que durante el adelantamiento debe mantener la velocidad en todo momento"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0097",
+    "numero": 2,
+    "examen": "EXAMEN 8",
+    "tema": "Luces de advertencia",
+    "capitulo": "disposiciones-aplicables-a-los-vehiculos",
+    "enunciado": "¿En cuál de los siguientes casos debe un conductor usar las luces de advertencia de peligro de su vehículo?",
+    "opciones": [
+      "Cuando se encuentra en pana obstruyendo el tránsito",
+      "Cuando se estaciona en doble fila respecto de otro vehículo junto a la cuneta",
+      "Cuando se estaciona junto a una cuneta en la que hay línea amarilla"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0098",
+    "numero": 9,
+    "examen": "Examen 8",
+    "tema": "Distancia a esquina",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "¿A cuántos metros de una esquina es lo más cerca que usted puede estacionar?",
+    "opciones": [
+      "A 3 metros",
+      "A 5 metros",
+      "A 10 metros"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0098.png"
+  },
+  {
+    "id": "q-0099",
+    "numero": 10,
+    "examen": null,
+    "tema": "Adelantamiento en doble calzada",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "En una carretera de doble calzada con 2 pistas por sentido de tránsito, usted desea pasar al vehículo que va delante suyo. Por su espejo retrovisor ve que el auto que viene atrás se está cambiando de pista para sobrepasarlo a usted, ¿Qué debería hacer usted?",
+    "opciones": [
+      "Señalizar y luego cambiar de pista para sobrepasar",
+      "Señalizar para indicarle al conductor que viene atrás que usted también desea sobrepasar",
+      "No señalizar hasta que el auto lo haya pasado"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0100",
+    "numero": 11,
+    "examen": null,
+    "tema": "Panne en autopista",
+    "capitulo": "conduccion-en-autopistas",
+    "enunciado": "Si el vehículo se descompone en medio de una autopista. ¿Qué es lo primero debería hacer el conductor?",
+    "opciones": [
+      "Instalar un triángulo reflectante para advertir a los demás usuarios",
+      "Intentar reparar su vehículo rápidamente",
+      "Encender sus luces de advertencia de peligro"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0101",
+    "numero": 13,
+    "examen": null,
+    "tema": "Velocidad adecuada",
+    "capitulo": "la-velocidad",
+    "enunciado": "¿Cuál sería una velocidad adecuada para conducir?",
+    "opciones": [
+      "Circular al máximo de la velocidad permitida para la vía",
+      "Circular a un poco menos de la velocidad máxima permitida en la vía",
+      "Circular a una velocidad suficiente que permita controlar el vehículo con seguridad"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0102",
+    "numero": 12,
+    "examen": "Examen 8",
+    "tema": "Cruce en T",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "Usted está esperando en un cruce en T. El vehículo de color rojo que se acerca desde la izquierda a la derecha, señaliza a la derecha, ¿Qué debería hacer usted?",
+    "opciones": [
+      "Ponerse en marcha antes de que el vehículo rojo llegue al cruce",
+      "Esperar hasta que el vehículo rojo haya comenzado a virar",
+      "Avanzar lentamente e ingresar a la otra pista"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0102.png"
+  },
+  {
+    "id": "q-0103",
+    "numero": 14,
+    "examen": "Examen 8",
+    "tema": "Prohibido vehículos a motor",
+    "capitulo": "senales-de-transito-verticales",
+    "enunciado": "¿Qué significa esta señal?",
+    "opciones": [
+      "Que está prohibido estacionar",
+      "Que está prohibido adelantar",
+      "Que está prohibida la circulación de vehículos a motor"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0103.png"
+  },
+  {
+    "id": "q-0104",
+    "numero": 16,
+    "examen": null,
+    "tema": "Frenar ante semáforo rojo",
+    "capitulo": "recomendaciones-para-frenadas-fuertes",
+    "enunciado": "¿Cómo sería otra forma segura para frenar y detenerse cuando un conductor se enfrenta un semáforo en rojo?",
+    "opciones": [
+      "Frenar bruscamente",
+      "Ir bajando las marchas",
+      "Apretar el pedal de freno las veces que sea necesario"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0105",
+    "numero": 15,
+    "examen": null,
+    "tema": "Distracciones",
+    "capitulo": "conductas-que-implican-riesgos",
+    "enunciado": "¿Qué podría distraer a un conductor mientras está conduciendo?",
+    "opciones": [
+      "La música en alto volumen",
+      "Leer las señales que aparecen en la vía",
+      "Las plumillas del limpiaparabrisas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0106",
+    "numero": 17,
+    "examen": null,
+    "tema": "Peso en remolque",
+    "capitulo": "conduccion-con-carga",
+    "enunciado": "¿Cómo se debe concentrar el peso en un remolque?",
+    "opciones": [
+      "El peso debe estar concentrado en la parte delantera",
+      "El peso debe estar concentrado en la parte trasera",
+      "El peso debe estar concentrado de forma uniforme"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0107",
+    "numero": 18,
+    "examen": "Examen 8",
+    "tema": "Vía segregada buses",
+    "capitulo": "senales-de-transito-verticales",
+    "enunciado": "¿Qué significa esta señal?",
+    "opciones": [
+      "Que es una vía segregada para buses",
+      "Que está permitido tomar o dejar pasajeros",
+      "Que los taxis deben circular por la pista izquierda"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0107.png"
+  },
+  {
+    "id": "q-0108",
+    "numero": 20,
+    "examen": null,
+    "tema": "Presión de neumáticos",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Cuándo se deben revisar la presión de aire de los neumáticos?",
+    "opciones": [
+      "Después de un viaje largo",
+      "Cuando los neumáticos estén calientes",
+      "Cuando los neumáticos estén fríos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0109",
+    "numero": 19,
+    "examen": null,
+    "tema": "Encandilamiento nocturno",
+    "capitulo": "conduccion-en-la-oscuridad",
+    "enunciado": "Al transitar de noche, un conductor es encandilado por las luces delanteras de un vehículo que se aproxima. ¿Qué debería hacer el conductor en esta circunstancia?",
+    "opciones": [
+      "Hacer parpadear las luces",
+      "Bajar la visera que tiene el vehículo para proteger del sol",
+      "Reducir la velocidad o detenerse"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0110",
+    "numero": 21,
+    "examen": "Examen 8",
+    "tema": "Señal fin de pista",
+    "capitulo": "senales-de-transito-verticales",
+    "enunciado": "¿Qué indica la señal en la imagen?",
+    "opciones": [
+      "Indica que más adelante comienza una bifurcación",
+      "Informa el fin de la pista izquierda en una calzada unidireccional de dos pistas",
+      "Indica que más adelante la pista derecha se encuentra cerrada"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0110.png"
+  },
+  {
+    "id": "q-0111",
+    "numero": 22,
+    "examen": null,
+    "tema": "Consumo de combustible",
+    "capitulo": "conduccion-eficiente",
+    "enunciado": "¿A qué se debe un alto consumo del combustible?",
+    "opciones": [
+      "Al colocar el pie en el pedal del embrague",
+      "Al colocar el pie sobre el pedal del acelerador",
+      "Al conducir tramos largos con marchas bajas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0112",
+    "numero": 24,
+    "examen": null,
+    "tema": "Paso de cebra",
+    "capitulo": "usuarios-vulnerables",
+    "enunciado": "Usted se encuentra detenido en un paso de cebra y observa personas en la vereda que no cruzan, ¿Qué haría usted?",
+    "opciones": [
+      "Retoma la marcha del vehículo",
+      "Espera pacientemente",
+      "Hace señas con las manos para que las personas crucen"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0113",
+    "numero": 23,
+    "examen": "Examen 8",
+    "tema": "Baja presión neumáticos",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Qué sucede con el vehículo cuando los neumáticos delanteros están con baja presión de aire?\nI.- La dirección del vehículo se siente más pesada\nII.- Aumenta el consumo del combustible\nIII.- El vehículo se inclina hacia un lado",
+    "opciones": [
+      "I y II",
+      "I y III",
+      "I, II y III"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0114",
+    "numero": 25,
+    "examen": "Examen 8",
+    "tema": "Testigo luces altas",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "¿Qué indica la señal marcada en la imagen?",
+    "opciones": [
+      "Que hay un problemas con los gases o con la salida de escape",
+      "Que están encendidas las luces altas",
+      "Que hay un problema con las luces"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0114.png"
+  },
+  {
+    "id": "q-0115",
+    "numero": 27,
+    "examen": null,
+    "tema": "Reacción del conductor",
+    "capitulo": "la-persona-en-el-transito",
+    "enunciado": "¿Qué conductor reaccionaría más rápido frente a un evento x mientras está conduciendo?",
+    "opciones": [
+      "Un conductor con experiencia",
+      "Un conductor con licencia reciente",
+      "No hay diferencia alguna"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0116",
+    "numero": 28,
+    "examen": "EXAMEN 8",
+    "tema": "Señal ciclocalle",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Qué significa esta señal?",
+    "opciones": [
+      "Es una ciclocalle, donde la velocidad máxima no debe exceder los 30 km/h",
+      "Es un lugar que permite estacionar bicicletas y vehículos motorizados",
+      "Es una calle donde en la mañana transitan solamente bicicletas y en la tarde vehículos motorizados"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0116.png"
+  },
+  {
+    "id": "q-0117",
+    "numero": 26,
+    "examen": null,
+    "tema": "Seguro obligatorio SOAP",
+    "capitulo": "disposiciones-aplicables-a-los-vehiculos",
+    "enunciado": "En un accidente de tránsito donde hay heridos graves, ¿A quién protege el Seguro Obligatorio de Accidentes Personales?",
+    "opciones": [
+      "Solo al conductor dueño del vehículo asegurado",
+      "Solo al conductor y a los integrantes del vehículo siniestrado",
+      "A todas las personas que resulten heridas en el accidente de tránsito"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0118",
+    "numero": 29,
+    "examen": null,
+    "tema": "Retención infantil",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "¿Cuál de las siguientes situaciones con respecto al Sistema de Retención Infantil es VERDADERA?",
+    "opciones": [
+      "Transportar niños de hasta 8 años de edad sin su sistema de retención obligatorio, es una falta que incluye una suspensión de la licencia por un periodo de 5 a 45 días",
+      "Si el sistema de retención infantil se encuentra anclado al vehículo de forma correcta, no es necesario utilizar en el niño el arnés o cinturón de seguridad",
+      "Los menores de 12 años o menos pueden ir en la parte delantera del vehículo, utilizando el cinturón de seguridad"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0119",
+    "numero": 31,
+    "examen": null,
+    "tema": "Velocidad y visión",
+    "capitulo": "la-velocidad",
+    "enunciado": "¿Qué efecto tiene conducir a 100 km/h sobre la capacidad visual de un conductor?",
+    "opciones": [
+      "Ninguno, ya que la visión siempre se adapta a la velocidad",
+      "Mejora la capacidad visual ya que el conductor estará más atento",
+      "Empeora la percepción de lo que sucede hacia los lados en la vía"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0120",
+    "numero": 30,
+    "examen": null,
+    "tema": "Consumo de combustible",
+    "capitulo": "conduccion-eficiente",
+    "enunciado": "¿Qué acción provoca un alto consumo de combustible?",
+    "opciones": [
+      "Encender el vehículo con el pie presionando hasta el fondo el pedal del embrague",
+      "Encender el vehículo pisando repetidas veces el pedal del acelerador",
+      "Encender el vehículo con la palanca de cambios en neutro"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0121",
+    "numero": 32,
+    "examen": null,
+    "tema": "Carga caída en calzada",
+    "capitulo": "conduccion-con-carga",
+    "enunciado": "Si un camión pierde parte de su carga y cae a la calzada, ¿Qué debería hacer el conductor que va atrás?",
+    "opciones": [
+      "Avanzar hasta encontrar un teléfono de emergencia y avisar sobre lo sucedido",
+      "Seguir al camión para avisarle al conductor que perdió parte de su carga",
+      "Activar las luces de emergencia, parar al lado de la carga y avisar a emergencia"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0122",
+    "numero": 33,
+    "examen": null,
+    "tema": "Atropello y velocidad",
+    "capitulo": "la-velocidad",
+    "enunciado": "¿Qué pasaría si una persona es atropellada por un vehículo que circula a 60km/h?",
+    "opciones": [
+      "En el 80% de los casos la persona queda con secuelas",
+      "En el 70% de los casos quedará con lesiones graves y permanentes",
+      "Lo más probable es que la persona muera"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0123",
+    "numero": 34,
+    "examen": null,
+    "tema": "Lluvia y precauciones",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "En relación a las condiciones climáticas adversas, ¿En qué momento más precauciones debería tener un conductor?",
+    "opciones": [
+      "Con las primeras gotas de lluvia, porque al mezclarse el agua con el polvo o el aceite que se encuentra en el asfalto hace que la calzada se vuelva más resbaladiza",
+      "Cuando llueve muy fino, porque los neumáticos no son capaces de mantener la adherencia con la calzada",
+      "Cuando ya ha finalizado de llover, porque la diferencia de temperatura provoca que los vidrios se empañen con más facilidad"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0124",
+    "numero": 35,
+    "examen": "EXAMEN 8",
+    "tema": "Adelantamiento",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "Cuando un conductor alcanza a un vehículo al que desea adelantar, ¿Cuál de los siguientes aspectos es el más difícil de juzgar?",
+    "opciones": [
+      "La velocidad del vehículo al que desea adelantar",
+      "La longitud de la distancia de adelantamiento",
+      "Si es suficientemente ancho el espacio a la izquierda del vehículo que va adelante"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0125",
+    "numero": 1,
+    "examen": "EXAMEN 3",
+    "tema": "Señal de brazo",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "¿Qué está señalando el conductor que se ve en la ilustración?",
+    "opciones": [
+      "Indica que se está deteniendo",
+      "Indica que lo deben adelantar",
+      "Señala que hará un viraje hacia la derecha"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0125.png"
+  },
+  {
+    "id": "q-0126",
+    "numero": 2,
+    "examen": null,
+    "tema": "Conducción con nieve",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Cuál afirmación es FALSA en relación a la conducción con nieve?",
+    "opciones": [
+      "Si se conduce con una marcha baja se reduce el riesgo de patinaje",
+      "Si se conduce lentamente se reduce el riesgo de patinaje",
+      "Si se conduce con una marcha alta se reduce el riesgo de patinaje"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0127",
+    "numero": 3,
+    "examen": "EXAMEN 3",
+    "tema": "Señal de peaje",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Qué significa esta señal?",
+    "opciones": [
+      "Peaje",
+      "Estación de servicio",
+      "Pesaje obligatorio"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0127.png"
+  },
+  {
+    "id": "q-0128",
+    "numero": 4,
+    "examen": null,
+    "tema": "Viraje con visión obstruida",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "Un conductor pretende doblar a la izquierda en un cruce, sin embargo hay vehículos estacionados que le obstruyen la visión. En esta situación ¿Qué debería hacer el conductor?",
+    "opciones": [
+      "Continuar avanzando a la misma velocidad, preparándose para detener su vehículo",
+      "Detenerse y luego avanzar lentamente hasta que se tenga visión plena",
+      "Tocar la bocina para alertar a otros vehículos de su paso y continuar avanzando"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0129",
+    "numero": 5,
+    "examen": null,
+    "tema": "Estacionar en bajada",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "Al estacionar en una bajada se debe dejar el vehículo con el freno de mano puesto. ¿En qué posición se debe dejar la palanca de cambios?",
+    "opciones": [
+      "En primera",
+      "En neutro",
+      "En retroceso"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0130",
+    "numero": 7,
+    "examen": "EXAMEN 3",
+    "tema": "Tipo de señal",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿A qué tipo de señal corresponde la figura?",
+    "opciones": [
+      "A una señal que advierte peligro",
+      "A una señal que informa acerca de un atractivo turístico",
+      "No es una señal de tránsito"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0130.png"
+  },
+  {
+    "id": "q-0131",
+    "numero": 9,
+    "examen": "EXAMEN EXCLUSIVO 6",
+    "tema": "Demarcación eje calzada",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Qué indica la demarcación del centro de la calzada que muestra la imagen?",
+    "opciones": [
+      "Que el conductor de la pista A no puede traspasar el eje de la calzada",
+      "Que el conductor de la pista B no puede traspasar el eje de la calzada",
+      "Que el conductor de la pista B puede realizar un adelantamiento"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0131.png"
+  },
+  {
+    "id": "q-0132",
+    "numero": 8,
+    "examen": null,
+    "tema": "Cinturón asiento trasero",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "Si su vehículo dispone de cinturones de seguridad en el asiento trasero, es importante que quienes van sentados atrás también los usen, aun cuando ello sea obligatorio sólo si:",
+    "opciones": [
+      "El automóvil es de año de fabricación 1991 o posterior",
+      "El automóvil es de año de fabricación 1998 o posterior",
+      "El automóvil es de año de fabricación 2002 o posterior"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0133",
+    "numero": 10,
+    "examen": null,
+    "tema": "Paso de cebra",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "Si un conductor circula por la pista izquierda y ve que en la pista derecha hay un vehículo detenido antes de un paso de cebra, ¿Qué debería hacer el conductor?",
+    "opciones": [
+      "Debe continuar a la misma velocidad porque la pista izquierda es una pista rápida y si disminuye sería un peligro para los vehículos que vienen detrás",
+      "Debe disminuir la velocidad y estar preparado para detenerse, ya que podría haber peatones que han comenzado a cruzar",
+      "Debe tocar la bocina para alertar a los posibles peatones que desean cruzar y tengan cuidado con el vehículo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0134",
+    "numero": 12,
+    "examen": "EXAMEN 3",
+    "tema": "Elección de SRI",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "¿Cuál de los siguientes elementos influye al momento de elegir un Sistema de Retención Infantil (SRI)?\nI.- El sexo del niño y que sea de fácil instalación\nII.- Que cumpla con las normas reconocidas\nIII.- El peso, la altura y la edad del niño",
+    "opciones": [
+      "I y III",
+      "II y III",
+      "I, II y III"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0134.png"
+  },
+  {
+    "id": "q-0135",
+    "numero": 11,
+    "examen": null,
+    "tema": "Carga sobre parrilla",
+    "capitulo": "conduccion-con-carga",
+    "enunciado": "¿Cuál afirmación es VERDADERA si un conductor desea transportar una carga sobre la parrilla de su vehículo?",
+    "opciones": [
+      "La carga se debe llevar solo en viajes cortos o cuando es estrictamente necesario",
+      "La carga debe estar muy sujeta y no debe presentar un peligro para los demás",
+      "La carga debe ser lo más liviana posible y tapada con un plástico"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0136",
+    "numero": 13,
+    "examen": null,
+    "tema": "Distancia de detención",
+    "capitulo": "la-velocidad",
+    "enunciado": "En qué circunstancias la distancia de detención total de un vehículo es mucho más larga?",
+    "opciones": [
+      "Cuando el vehículo tiene menos peso",
+      "Cuando está lloviendo",
+      "Cuando hay vientos fuertes"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0137",
+    "numero": 14,
+    "examen": "EXAMEN 3",
+    "tema": "Viento fuerte",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "El viento fuerte puede provocar la salida del camino o volcamiento del vehículo, ¿Qué medidas debería adoptar un conductor?\nI.- Reducir la velocidad\nII.- Corregir las desviaciones para corregir la trayectoria\nIII.- Aumentar y superar la velocidad del viento",
+    "opciones": [
+      "I y II",
+      "II y III",
+      "Solo III"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0137.png"
+  },
+  {
+    "id": "q-0138",
+    "numero": 15,
+    "examen": null,
+    "tema": "Detención en vía urbana",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "En una vía urbana sin señales de tránsito que prohiban o autoricen la detención de un vehículo, ¿Cuál de las siguientes opciones es VERDADERA?",
+    "opciones": [
+      "La detención en doble fila puede extenderse el tiempo que tome que sus pasajeros bajen del vehículo",
+      "Está permitida la detención al costado de un bandejón central para permitir la subida de pasajeros",
+      "Se prohibe al conductor abrir las puertas del vehículo antes de su completa detención"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0139",
+    "numero": 16,
+    "examen": null,
+    "tema": "Desvío al frenar",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "Si un vehículo se desvía hacia un lado cuando usted frena, ¿Cuál es la falla más probable que explicaría dicha situación?",
+    "opciones": [
+      "Neumático con presión de aire inadecuada",
+      "Frenos mal ajustados",
+      "Un bajo nivel del líquido de frenos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0140",
+    "numero": 17,
+    "examen": null,
+    "tema": "Distancia de seguimiento",
+    "capitulo": "la-velocidad",
+    "enunciado": "Cuando una persona conduce por una vía rápida en buenas condiciones, ¿Qué distancia debería mantener respecto del vehículo que va delante?",
+    "opciones": [
+      "Una equivalente a la que el conductor recorre en 3 segundos",
+      "Una equivalente al largo de 3 vehículos",
+      "Una equivalente al largo de su propio vehículo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0141",
+    "numero": 19,
+    "examen": null,
+    "tema": "Motociclistas",
+    "capitulo": "usuarios-vulnerables",
+    "enunciado": "¿Dónde se debe tener especial cuidado con los motociclistas?",
+    "opciones": [
+      "En las proximidades de un área de servicio",
+      "En los cruces de calles",
+      "En las autopistas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0142",
+    "numero": 18,
+    "examen": null,
+    "tema": "Distancia de reacción",
+    "capitulo": "la-velocidad",
+    "enunciado": "Un vehículo circula a una velocidad de 70 km/h. Aproximadamente, ¿Qué distancia en metros recorrerá este vehículo desde que el conductor se percatada de un peligro hasta que comienza a frenar?",
+    "opciones": [
+      "5 metros",
+      "10 metros",
+      "20 metros"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0143",
+    "numero": 20,
+    "examen": "EXAMEN 3",
+    "tema": "Distracciones al volante",
+    "capitulo": "conductas-que-implican-riesgos",
+    "enunciado": "De las siguientes afirmaciones, ¿Cuál es VERDADERA?\nI.- Un conductor que va con mucha prisa tiende a ser más cauteloso\nII.- La falta de atención a las condiciones del tránsito es una de las principales causas de los accidentes\nIII.- Discutir con alguien o estar pendiente de la radio aumenta el riesgo de pasar por alto una situación relevante del tránsito",
+    "opciones": [
+      "I y III",
+      "II y III",
+      "I y II"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0143.png"
+  },
+  {
+    "id": "q-0144",
+    "numero": 21,
+    "examen": null,
+    "tema": "Viraje a la derecha",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "Si un conductor desea realizar un viraje hacia la derecha, ¿Cuál de las siguientes opciones es VERDADERA?",
+    "opciones": [
+      "Debe señalizar hacia la derecha con una anticipación suficiente de a lo menos 30 metros",
+      "Se puede realizar el viraje desde cualquier pista siempre y cuando lo haya señalizado con el espacio suficiente",
+      "Al momento de realizar el viraje, los peatones carecen de preferencia hasta que el vehículo realice la maniobra"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0145",
+    "numero": 23,
+    "examen": null,
+    "tema": "Responsabilidad SRI",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "Según la normativa, la responsabilidad del uso de Sistemas de Retención Infantil en un vehículo particular al momento de transportar niños es de:",
+    "opciones": [
+      "Los padres",
+      "El conductor",
+      "Los tutores o apoderados legales"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0146",
+    "numero": 22,
+    "examen": null,
+    "tema": "Presión baja de neumáticos",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "Si uno de los neumáticos del vehículo cuenta con un nivel de presión de aire demasiado bajo, ¿Qué parte de la banda de rodamiento sufrirá mayor desgaste?",
+    "opciones": [
+      "Solo el centro de la banda",
+      "Ambos lados de la banda",
+      "En el centro y ambos lados de la banda"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0147",
+    "numero": 24,
+    "examen": "EXAMEN 3",
+    "tema": "Bus detenido",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "Un conductor va 70km/h que es la velocidad máxima permitida. ¿Qué debe hacer si observa la situación indicada en la fotografía?",
+    "opciones": [
+      "Frenar y ceder el paso al bus, si éste está por salir de la parada",
+      "Aumentar la velocidad para pasar al bus y evitar quedar detrás de él o sobre la calzada",
+      "Prepararse para actuar, porque el bus podría ponerse en marcha"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0147.png"
+  },
+  {
+    "id": "q-0148",
+    "numero": 27,
+    "examen": null,
+    "tema": "Distancia al estacionar",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "¿A qué distancia mínima detrás de otro vehículo debe estacionarse un conductor?",
+    "opciones": [
+      "20 centímetros",
+      "40 centímetros",
+      "60 centímetros"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0149",
+    "numero": 25,
+    "examen": null,
+    "tema": "Alcohol y reacción",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "Respecto al consumo del alcohol y la consecuente disminución en la reacción de un conductor, ¿Cuál de las siguientes afirmaciones es VERDADERA?",
+    "opciones": [
+      "El alcohol afecta la capacidad de reacción porque hace más lenta la comunicación con el sistema nervioso y porque perturba el estado de ánimo",
+      "El alcohol afecta la capacidad de reacción sólo porque hace más lenta la comunicación en el sistema nervioso",
+      "El alcohol afecta la capacidad de reacción sólo porque perturba el estado de ánimo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0150",
+    "numero": 28,
+    "examen": null,
+    "tema": "Valores Educación Vial",
+    "capitulo": "la-persona-en-el-transito",
+    "enunciado": "¿Cuáles son los valores que nos transmite la Educación Vial?",
+    "opciones": [
+      "Respeto, solidaridad, comprensión y la temerosidad",
+      "La tolerancia, la comprensión y la impulsividad",
+      "El respeto, la comprensión y el perdón"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0151",
+    "numero": 26,
+    "examen": null,
+    "tema": "Líquidos del vehículo",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "¿Cuál de los siguientes líquidos de un vehículo podría causar un accidente en el caso estar en un nivel bajo?",
+    "opciones": [
+      "El líquido refrigerante",
+      "El líquido de frenos",
+      "El agua de la batería"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0152",
+    "numero": 29,
+    "examen": null,
+    "tema": "Alcohol y riesgo",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "¿Cuán mayor puede ser el riesgo de accidente para un conductor que presenta una tasa de alcohol en la sangre entre 0,5 y 0,8 g/l?",
+    "opciones": [
+      "2 veces mayor",
+      "3 veces mayor",
+      "5 veces mayor"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0153",
+    "numero": 31,
+    "examen": null,
+    "tema": "Niños sin SRI",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "Trasladar a niños menores de 12 años en el asiento delantero y a niños de 8 años inclusive sin un Sistema de Retención Infantil en el asiento trasero, corresponden a:",
+    "opciones": [
+      "Una falta grave y una falta gravísima respectivamente",
+      "Una falta gravísima y una falta grave respectivamente",
+      "Falta gravísima, en ambas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0154",
+    "numero": 30,
+    "examen": "EXAMEN 3",
+    "tema": "Señal luces bajas",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Qué significa esta señal?",
+    "opciones": [
+      "Obligación de usar las luces altas",
+      "Peaje electrónico más adelante",
+      "Obligación de usar las luces bajas"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0154.png"
+  },
+  {
+    "id": "q-0155",
+    "numero": 32,
+    "examen": null,
+    "tema": "Choque frontal",
+    "capitulo": "la-velocidad",
+    "enunciado": "En un choque frontal, ¿Cuál es la velocidad mínima a la que debe ir el vehículo para que el accidente produzca un impacto sobre los ocupantes equivalente a una caída de un 2do piso?",
+    "opciones": [
+      "30 km/h",
+      "50 km/h",
+      "70 km/h"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0156",
+    "numero": 33,
+    "examen": "EXAMEN 3",
+    "tema": "Marcha atrás",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "¿En qué situación o situaciones una persona puede conducir marcha atrás?\nI.- Para mantener la libre circulación\nII.- Para incorporarse a la circulación\nIII.- En un cruce al traspasar la línea de detención",
+    "opciones": [
+      "I y II",
+      "I y III",
+      "II y III"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0156.png"
+  },
+  {
+    "id": "q-0157",
+    "numero": 34,
+    "examen": null,
+    "tema": "Grupo etario accidentabilidad",
+    "capitulo": "libro-cap1-siniestros-de-transito",
+    "enunciado": "¿Cuál es el grupo etario de mayor accidentabilidad en Chile?",
+    "opciones": [
+      "18 a 29 años",
+      "30 a 50 años",
+      "Más de 50 años"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0158",
+    "numero": 35,
+    "examen": null,
+    "tema": "Infracciones",
+    "capitulo": "responsabilidad-de-la-persona-conductora",
+    "enunciado": "¿Cuál afirmaciones es FALSA?",
+    "opciones": [
+      "Hablar por el celular sin utilizar un sistema de manos libres es una infracción MENOS GRAVE",
+      "No ceder el paso a un peatón es una infracción GRAVE",
+      "No respetar un pare es una infracción GRAVÍSIMA"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0159",
+    "numero": 1,
+    "examen": "EXAMEN 7",
+    "tema": "Señal de peligro",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿De qué peligro advierte la señal?",
+    "opciones": [
+      "De diferencia en el nivel de calzada",
+      "De la posible presencia de piedras en la vía",
+      "De la posible presencia de agua en la calzada"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0159.png"
+  },
+  {
+    "id": "q-0160",
+    "numero": 2,
+    "examen": null,
+    "tema": "Acompañante de joven",
+    "capitulo": "proceso-obtencion-licencia-de-conducir",
+    "enunciado": "¿Cuál de las siguientes opciones corresponde a uno de los requisitos que debe cumplir el acompañante de un joven de 17 años que conduce su vehículo con su licencia al día?",
+    "opciones": [
+      "Ser mayor de 35 años",
+      "Haber egresado de enseñanza media",
+      "Ir sentado en el asiento delantero"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0161",
+    "numero": 3,
+    "examen": null,
+    "tema": "Elección de SRI",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "¿Cuál de los siguientes elementos influye al momento de elegir un Sistema de Retención Infantil (SRI)?",
+    "opciones": [
+      "Características del vehículo",
+      "Sexo del niño",
+      "Extensión y duración del viaje"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0162",
+    "numero": 4,
+    "examen": "EXAMEN 7",
+    "tema": "Detención para pasajero",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "¿En cuál de las situaciones mostradas el conductor se ha detenido de manera incorrecta para recoger un pasajero?",
+    "opciones": [
+      "Fotografía A",
+      "Fotografía B",
+      "Fotografía C"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0162.png"
+  },
+  {
+    "id": "q-0163",
+    "numero": 6,
+    "examen": null,
+    "tema": "Tránsito detenido",
+    "capitulo": "transito-y-medio-ambiente",
+    "enunciado": "En caso de que el tránsito se encuentre detenido por un largo tiempo ¿Cómo puede un conductor cuidar el medio ambiente y ahorrar combustible mientras espera?",
+    "opciones": [
+      "Abriendo las ventanas",
+      "Estando en neutro",
+      "Parando el motor"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0164",
+    "numero": 5,
+    "examen": null,
+    "tema": "Coletazo",
+    "capitulo": "libro-cap2-energia-y-leyes-fisicas",
+    "enunciado": "¿Qué debería hacer un conductor para corregir un coletazo de las ruedas traseras?",
+    "opciones": [
+      "Girar el volante en dirección opuesta al coletazo",
+      "Girar el volante hacia el lado en que se desplaza la cola del vehículo",
+      "Aplicar el freno de mano del vehículo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0165",
+    "numero": 7,
+    "examen": null,
+    "tema": "Cansancio al conducir",
+    "capitulo": "cansancio-sueno-y-fatiga",
+    "enunciado": "¿Qué debería hacer un conductor que comienza a sentirse cansado al ir conduciendo mientras busca un lugar para detenerse?",
+    "opciones": [
+      "Subir el volumen de la radio",
+      "Asegurarse de que entre aire fresco a su vehículo",
+      "Beber líquidos o ingerir algún alimento"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0166",
+    "numero": 8,
+    "examen": null,
+    "tema": "Carga pesada y neumáticos",
+    "capitulo": "conduccion-con-carga",
+    "enunciado": "Si una persona conduce un vehículo con una carga muy pesada, ¿Qué debe hacer con la presión de aire de sus neumáticos?",
+    "opciones": [
+      "Disminuirla",
+      "Mantenerla",
+      "Aumentarla"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0167",
+    "numero": 10,
+    "examen": null,
+    "tema": "Efectos del alcohol",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "Si una persona ha ingerido alcohol, ¿Cuál de los siguientes efectos probablemente NO ocurriría?",
+    "opciones": [
+      "Su capacidad de coordinación se reducirá",
+      "Sus reacciones serán más rápidas",
+      "Su autoestima se incrementará"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0168",
+    "numero": 9,
+    "examen": null,
+    "tema": "Calle inundada",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Qué debe hacer el conductor de un automóvil después de pasar por una calle inundada?",
+    "opciones": [
+      "Revisar si el sistema hidráulico se recalentó",
+      "Parar el vehículo y revisar si entró agua al tubo de escape",
+      "Apretar y soltar los frenos para probar si funcionan correctamente"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0169",
+    "numero": 11,
+    "examen": null,
+    "tema": "Viento y motociclistas",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "Cuando el viento está soplando muy fuerte, ¿Por qué debe usted dejar un espacio lateral extra al adelantar a un motociclista?",
+    "opciones": [
+      "Porque el motociclista podría tambalear o ver desviada su trayectoria a consecuencia del viento",
+      "Porque el motociclista podría detenerse repentinamente",
+      "Porque el motociclista podría ir más rápido de lo normal"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0170",
+    "numero": 12,
+    "examen": null,
+    "tema": "Niebla y adherencia",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿La niebla reduce la adherencia entre la calzada y los neumáticos de un vehículo?",
+    "opciones": [
+      "No, solo reduce la visibilidad",
+      "Sí, porque se moja el pavimento",
+      "Solo si los neumáticos están gastados"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0171",
+    "numero": 14,
+    "examen": null,
+    "tema": "Uso del embrague",
+    "capitulo": "conduccion-eficiente",
+    "enunciado": "¿Por qué NO se debe conducir presionando el embrague durante más del tiempo necesario?",
+    "opciones": [
+      "Porque provoca el desgaste de la caja de cambios",
+      "Porque aumenta el consumo del combustible",
+      "Porque reduce el control sobre el vehículo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0172",
+    "numero": 13,
+    "examen": null,
+    "tema": "Síntomas de somnolencia",
+    "capitulo": "cansancio-sueno-y-fatiga",
+    "enunciado": "Al conducir, ¿Cuál de los siguientes síntomas de somnolencia es el que aparece primero?",
+    "opciones": [
+      "Los párpados pesan y se cierran",
+      "Dificultad para mantener la dirección del vehículo",
+      "Falta de interés en el entorno y aparición de bostezos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0173",
+    "numero": 15,
+    "examen": null,
+    "tema": "Vehículos de emergencia",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "¿Cuál de los siguientes vehículos NO son vehículos de emergencia?",
+    "opciones": [
+      "Las grúas que trasladan vehículos",
+      "Los radiopatrullas",
+      "Los carrobomba"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0174",
+    "numero": 17,
+    "examen": null,
+    "tema": "Pista cerrada",
+    "capitulo": "conduccion-en-autopistas",
+    "enunciado": "Un conductor va circulando por la pista de la derecha en una carretera de doble calzada muy transitada. Una señal le indica que a 800 m su pista se encuentra cerrada, ¿Qué debe hacer?",
+    "opciones": [
+      "Encender las luces de advertencia de peligro y desplazarse hacia la pista de su izquierda",
+      "Desplazarse hacia la pista de su izquierda tan pronto pueda hacerlo en forma segura",
+      "Continuar hasta llegar a la obstrucción y luego cambiarse hacia la pista de la izquierda"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0175",
+    "numero": 16,
+    "examen": "EXAMEN 7",
+    "tema": "Vehículo mal estacionado",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "¿En cuál de las situaciones mostradas, el vehículo gris está mal estacionado?",
+    "opciones": [
+      "Fotografía A",
+      "Fotografía B",
+      "Fotografía C"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0175.png"
+  },
+  {
+    "id": "q-0176",
+    "numero": 18,
+    "examen": "EXAMEN 7",
+    "tema": "Atención en el cruce",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "Si un conductor va circulando por la calle que se observa en la imagen, ¿Hacia qué punto es más importante que mire el conductor en este momento?",
+    "opciones": [
+      "Punto A, donde viene el auto azul en sentido contrario",
+      "Punto B, donde a los lejos un peatón está terminando de cruzar la calzada",
+      "Punto C, donde un peatón está comenzando a cruzar la calzada"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0176.png"
+  },
+  {
+    "id": "q-0177",
+    "numero": 19,
+    "examen": null,
+    "tema": "Sueño al volante",
+    "capitulo": "cansancio-sueno-y-fatiga",
+    "enunciado": "¿Qué debería hacer un conductor que comienza a sentir sueño en un viaje?",
+    "opciones": [
+      "Detenerse en un lugar seguro y dormir una pequeña siesta",
+      "Terminar el viaje y después dormir",
+      "Detenerse inmediatamente y respirar profundo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0178",
+    "numero": 20,
+    "examen": null,
+    "tema": "Resbalamiento con agua",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Cuáles son las 2 causas más comunes de que un vehículo resbale cuando hay agua en la calzada?",
+    "opciones": [
+      "Neumáticos desgastados y exceso de velocidad en relación a las condiciones de la calzada",
+      "Frenos en mal estado y neumáticos desgastados",
+      "Frenos en mal estado y exceso de velocidad en relación a las condiciones de la calzada"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0179",
+    "numero": 21,
+    "examen": null,
+    "tema": "Estacionar en emergencia",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "Ante una emergencia, un conductor requiere estacionar de noche en una carretera sin alumbrado y con buenas bermas, ¿Cuál de las siguientes medidas debe realizar el conductor?",
+    "opciones": [
+      "Mantener encendidas sus luces de estacionamiento",
+      "Ocupar el menor espacio posible de la berma",
+      "Estacionar al costado izquierdo enfrentando la circulación"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0180",
+    "numero": 22,
+    "examen": null,
+    "tema": "Adelantamiento",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "En relación con el adelantamiento, ¿Cuál de las siguientes afirmaciones es FALSA?",
+    "opciones": [
+      "Si se tiene línea continua a la izquierda de la calzada no está permitido",
+      "Es importante que el vehículo adelantado no aumente su velocidad",
+      "Si se tiene línea segmentada o discontinua a la izquierda de la calzada no está permitido adelantar"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0181",
+    "numero": 23,
+    "examen": null,
+    "tema": "Anteojos para conducir",
+    "capitulo": "enfermedades-en-la-conduccion",
+    "enunciado": "¿Qué debería hacer una persona que no encuentra los anteojos que necesita para conducir?",
+    "opciones": [
+      "Pedir prestados los anteojos a alguien para volver conduciendo a casa",
+      "Conducir a casa lentamente por calles tranquilas",
+      "Encontrar una forma segura de llegar a casa sin conducir"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0182",
+    "numero": 24,
+    "examen": null,
+    "tema": "Conducción defensiva",
+    "capitulo": "conductas-que-implican-riesgos",
+    "enunciado": "¿Qué se entiende por conducir a la defensiva?",
+    "opciones": [
+      "Tomar en cuenta los posibles errores de los demás",
+      "Frenar antes de cada cruce",
+      "Hacer valer los propios derechos en todo momento"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0183",
+    "numero": 25,
+    "examen": null,
+    "tema": "Frenado con hielo",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Cuánto puede aumentar aproximadamente la distancia de frenado cuando la calzada está con hielo?",
+    "opciones": [
+      "5 veces más de lo normal",
+      "7 veces más de lo normal",
+      "10 veces más de lo normal"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0184",
+    "numero": 26,
+    "examen": null,
+    "tema": "Distancia al volante",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Cuál es la razón principal por la que la distancia mínima entre el conductor y el volante debe ser de 25 centímetros?",
+    "opciones": [
+      "Porque al sentarse a mayor distancia no tendría suficiente visibilidad",
+      "Porque es la distancia de acción del airbag al explotar",
+      "Respeto solo hacia uno mismo, destreza en el manejo del vehículo y cumplimiento de las normas del tránsito"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0185",
+    "numero": 27,
+    "examen": null,
+    "tema": "Primer en llegar a un accidente",
+    "capitulo": "como-comportarse-en-caso-de-siniestro",
+    "enunciado": "Cuando un conductor es la primera persona en llegar al sitio de un accidente en el que hay heridos graves, ¿Qué debería hacer?",
+    "opciones": [
+      "Sacar de los autos a los heridos",
+      "Dar de beber a los heridos",
+      "Encender las luces de advertencia de peligro"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0186",
+    "numero": 28,
+    "examen": null,
+    "tema": "Semáforo en rojo",
+    "capitulo": "los-semaforos",
+    "enunciado": "¿Qué significa un semáforo en rojo?",
+    "opciones": [
+      "Que el conductor debe disminuir su velocidad y estar preparado para detenerse",
+      "Que el conductor debe detenerse sobre el paso de peatones",
+      "Que el conductor debe detenerse antes de la línea de detención de vehículos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0187",
+    "numero": 29,
+    "examen": null,
+    "tema": "Distancia de detención",
+    "capitulo": "la-velocidad",
+    "enunciado": "En qué circunstancias la distancia de detención total de un vehículo es mucho más larga.",
+    "opciones": [
+      "Cuando hay neblina",
+      "Cuando es de noche",
+      "Cuando hay vientos fuertes"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0188",
+    "numero": 30,
+    "examen": null,
+    "tema": "Descenso de pendiente",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "Al descender una pendiente muy larga, ¿Qué debería hacer un conductor para controlar mejor la velocidad del vehículo?",
+    "opciones": [
+      "Presionar el pedal del embrague",
+      "Tomar el manubrio firmemente",
+      "Seleccionar una marcha baja"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0189",
+    "numero": 31,
+    "examen": null,
+    "tema": "Cinturón de seguridad",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "Respecto al uso del cinturón de seguridad, ¿Cuál de las siguientes afirmaciones es VERDADERA?",
+    "opciones": [
+      "El uso de cinturón de seguridad es menos útil para los pasajeros que van en el asiento trasero",
+      "El uso del cinturón de seguridad disminuye las muertes producidas por accidentes de tránsito",
+      "El uso de cinturón de seguridad es innecesario al circular a una velocidad menor a 30 km/h"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0190",
+    "numero": 32,
+    "examen": null,
+    "tema": "Retención infantil",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "Deberán ser transportados en un Sistema de Retención Infantil en el asiento trasero:",
+    "opciones": [
+      "Los niños hasta 8 años de edad inclusive",
+      "Los niños hasta 12 años de edad inclusive",
+      "Los niños hasta 10 años de edad inclusive"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0191",
+    "numero": 33,
+    "examen": null,
+    "tema": "Hemorragia en pierna",
+    "capitulo": "como-comportarse-en-caso-de-siniestro",
+    "enunciado": "A causa de un accidente, una persona se encuentra con una fuerte hemorragia en la parte inferior de una pierna. En esta situación, ¿Qué debería hacer para ayudar a la persona herida?",
+    "opciones": [
+      "Ayudar a la persona a sentarse mientras se espera que llegue una ambulancia",
+      "Mantener a la persona con la pierna herida en alto",
+      "Tranquilizar a la persona herida y darle algo caliente para beber"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0192",
+    "numero": 34,
+    "examen": null,
+    "tema": "Prevención de accidentes",
+    "capitulo": "libro-cap1-siniestros-de-transito",
+    "enunciado": "Respecto de los accidentes de tránsito hoy en día, ¿Cuál de las siguientes afirmaciones es VERDADERA?",
+    "opciones": [
+      "La mayoría son fortuitos, debidos al azar y a la casualidad",
+      "La mayoría son inevitables, por lo que no podemos hacer nada para prevenirlos",
+      "La mayoría se pueden prevenir, aprendiendo a evitarlos y a minimizar sus consecuencias"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0193",
+    "numero": 35,
+    "examen": null,
+    "tema": "Motociclista en shock",
+    "capitulo": "como-comportarse-en-caso-de-siniestro",
+    "enunciado": "Si un conductor tiene un accidente con un motociclista y este último queda consciente pero en shock, ¿Qué debería hacer el conductor del vehículo para ayudar?",
+    "opciones": [
+      "Sacarle el casco para que el motociclista pueda respirar mejor",
+      "Llamar a los equipos de emergencia y no sacarle el casco",
+      "Ayudarlo a pararse o a moverse"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0194",
+    "numero": 1,
+    "examen": null,
+    "tema": "Preferencia de paso",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "En la imagen se observan 3 vehículos y la dirección hacia la cual van, en esta situación, ¿Cuál de estos vehículos tiene preferencia de paso frente a los otros dos?",
+    "opciones": [
+      "El vehículo amarillo",
+      "El vehículo azul",
+      "El vehículo rojo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0195",
+    "numero": 2,
+    "examen": null,
+    "tema": "Distancia en un segundo",
+    "capitulo": "la-velocidad",
+    "enunciado": "Al circular a una velocidad de 90 km/h, ¿Qué distancia en metros se recorre aproximadamente en un segundo (tiempo de reacción de un conductor promedio)?",
+    "opciones": [
+      "35 metros",
+      "27 metros",
+      "20 metros"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0196",
+    "numero": 3,
+    "examen": "EXAMEN 4",
+    "tema": "Señal velocidad máxima",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Qué significa esta señal?",
+    "opciones": [
+      "Que se debe mantener una velocidad inferior a 70 kilómetros por hora",
+      "Que se debe conducir a un máximo de 70 kilómetros por hora",
+      "Que se debe conducir a un máximo de 70 kilómetros por hora, excepto al adelantar por la izquierda situación en la que se puede aumentar la velocidad en un 10%"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0196.png"
+  },
+  {
+    "id": "q-0197",
+    "numero": 4,
+    "examen": null,
+    "tema": "Estacionar en vía unidireccional",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "Considerando que no hay señalización que permita o prohiba el estacionamiento, ¿En qué sector de una vía urbana de sentido único de tránsito puede estacionar un conductor?",
+    "opciones": [
+      "Al lado izquierdo según el sentido del tránsito",
+      "Al lado derecho según el sentido del tránsito",
+      "A ambos lados de la vía"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0198",
+    "numero": 5,
+    "examen": null,
+    "tema": "Conducción con nieve",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Cuál de estas medidas NO corresponde a la conducción cuando la calzada está con nieve?",
+    "opciones": [
+      "Al entrar a una curva, se debe hacer a una velocidad tal que no sea necesario usar los frenos en todo el desarrollo de ella",
+      "Los frenos, acelerador, embrague, palanca de cambios y dirección deben usarse con extrema delicadeza y suavidad para evitar que el vehículo pierda el control",
+      "Es un error seguir las huellas dejadas por los otros vehículos porque se pierde la adherencia del neumático con la calzada"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0199",
+    "numero": 6,
+    "examen": null,
+    "tema": "Transporte de menores",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "¿Cuál afirmación es VERDADERA en caso de transportar a un niño menor de 12 años en un vehículo?",
+    "opciones": [
+      "La Ley de Tránsito obliga a los automovilistas a transportar a los menores de hasta 7 años en Sistemas de Retención Infantil",
+      "Se puede llevar a un niño menor de 12 años en un vehículo de cabina simple, siempre y cuando use el Sistema de Retención Infantil de acuerdo a su peso y medida",
+      "Está prohibido el traslado de menores de 14 años de edad en los asientos delanteros de los vehículos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0200",
+    "numero": 7,
+    "examen": null,
+    "tema": "Uso de espejos",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿En cuál de los siguientes casos NO es necesario usar los espejos retrovisores de un vehículo?",
+    "opciones": [
+      "Antes de cambiarse de pista",
+      "Antes de hacer partir el auto",
+      "Antes de disminuir la velocidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0201",
+    "numero": 8,
+    "examen": "EXAMEN 4",
+    "tema": "Señales de prohibición",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Cuál de los tipos de señales mostrados le indican a un conductor que no haga algo?",
+    "opciones": [
+      "Ilustración A",
+      "Ilustración B",
+      "Ilustración C"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0201.png"
+  },
+  {
+    "id": "q-0202",
+    "numero": 9,
+    "examen": null,
+    "tema": "Accidentes y muertes",
+    "capitulo": "libro-cap1-siniestros-de-transito",
+    "enunciado": "¿Cuál de las siguientes afirmaciones es VERDADERA?",
+    "opciones": [
+      "La mayor cantidad de accidentes de tránsito y de muertes debidas a estos accidentes se produce en las ciudades",
+      "La mayor cantidad de accidentes de tránsito se produce en áreas rurales, pero la mayor cantidad de muertos en accidentes se produce en las ciudades",
+      "La mayor cantidad de accidentes de tránsito se produce en las ciudades, pero la mayor cantidad de muertes en accidentes se produce en carreteras y caminos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0203",
+    "numero": 10,
+    "examen": null,
+    "tema": "Adelantar en recta",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "Una persona conduce durante largo rato por una calzada recta en muy buen estado y con poco tránsito en contra. En estas circunstancias, el conductor encuentra un vehículo al que desea adelantar. Respecto a esta acción, ¿Cuál de las siguientes afirmaciones es VERDADERA?",
+    "opciones": [
+      "Adelantar en esta situación puede ser peligroso ya que el conductor puede subestimar la velocidad del tránsito que viene en contra",
+      "Adelantar en esta situación es siempre correcto y no implica riesgo alguno",
+      "Adelantar en esta situación no es recomendable, ya que puede cruzarse un peatón de manera sorpresiva"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0204",
+    "numero": 11,
+    "examen": null,
+    "tema": "Ser adelantado",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "¿Qué debe hacer un conductor si está siendo adelantado, y a pesar de que peligrosamente vienen vehículos en contra, el conductor que lo está adelantando NO interrumpe su maniobra?",
+    "opciones": [
+      "Mantenerse en la calzada a una velocidad constante",
+      "Disminuir la velocidad desplazándose lo más que se pueda hacia la derecha",
+      "Tocar la bocina al conductor para que desista de la maniobra"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0205",
+    "numero": 12,
+    "examen": "EXAMEN 4",
+    "tema": "Alcohol y conducción",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "¿Qué aspectos de un conductor se ven afectados si éste consume una pequeña dosis de alcohol?\nI.- Su capacidad motora\nII.- Su capacidad de reacción\nIII.- Su capacidad para percibir el riesgo",
+    "opciones": [
+      "I y II",
+      "II y III",
+      "I, II y III"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0205.png"
+  },
+  {
+    "id": "q-0206",
+    "numero": 13,
+    "examen": null,
+    "tema": "Conducción bajo lluvia",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Cuál de las siguientes situaciones es CORRECTA en cuanto a la conducción bajo la lluvia?",
+    "opciones": [
+      "Se puede eliminar el riesgo de patinaje de los neumáticos verificando el buen estado de los frenos",
+      "El riesgo de que los neumáticos patinen es menor cuando recién ha comenzado a llover",
+      "El riesgo de que los neumáticos patinen es mayor mientras mayor es la velocidad"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0207",
+    "numero": 14,
+    "examen": null,
+    "tema": "Educación vial",
+    "capitulo": "libro-presentacion",
+    "enunciado": "¿Qué es la Educación Vial?",
+    "opciones": [
+      "Es solo aprendizaje de las normas de tránsito",
+      "El conocimiento de las normas de tránsito",
+      "Es la adquisición de valores para alcanzar una mejor convivencia vial"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0208",
+    "numero": 15,
+    "examen": null,
+    "tema": "Efectos del alcohol",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "Si una persona ha ingerido alcohol ¿Cuál efecto probablemente NO le ocurrirá al conducir?",
+    "opciones": [
+      "Empobrecimiento de su juicio sobre la velocidad",
+      "Aumento de la conciencia del peligro",
+      "Aumento de la confianza en sí mismo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0209",
+    "numero": 16,
+    "examen": null,
+    "tema": "Desenganchar el motor",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "¿Por qué no se debe desenganchar el motor de un vehículo al ir conduciendo?",
+    "opciones": [
+      "Porque produce vibraciones en el vehículo",
+      "Porque imposibilita el frenado de motor"
+    ],
+    "correcta": 1,
+    "incompleta": true
+  },
+  {
+    "id": "q-0210",
+    "numero": 17,
+    "examen": "EXAMEN 4",
+    "tema": "Conducción en doble sentido",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "¿Qué debería hacer un conductor si va a 70 kilómetros por hora en una calzada de dos sentidos?\nI.- Frenar en seco\nII.- Disminuir la velocidad\nIII.- Desplazarse hacia la izquierda\nIV.- Seguir por la misma pista conduciendo",
+    "opciones": [
+      "I y III",
+      "II y IV",
+      "III"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0210.png"
+  },
+  {
+    "id": "q-0211",
+    "numero": 18,
+    "examen": null,
+    "tema": "Uso del cinturón",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿En qué ocasión se puede prescindir del uso de cinturón de seguridad?",
+    "opciones": [
+      "Cuando el vehículo tiene airbags o bolsas de aire",
+      "Cuando se realiza un viaje muy corto dentro de la ciudad",
+      "Nunca se debe prescindir del uso del cinturón de seguridad"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0212",
+    "numero": 19,
+    "examen": null,
+    "tema": "Distancia prudente",
+    "capitulo": "conduccion-eficiente",
+    "enunciado": "En términos de conducción eficiente, mantener una distancia prudente con el vehículo de adelante le permitirá:",
+    "opciones": [
+      "Contar con mayor tiempo para manipular la radio del vehículo",
+      "Evitar el acelerar y frenar constantemente",
+      "Mirar la patente del vehículo que va adelante"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0213",
+    "numero": 20,
+    "examen": null,
+    "tema": "Niños menores de 4 años",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "Se recomienda que los niños menores de 4 años de edad:",
+    "opciones": [
+      "Viajen mirando hacia adelante, en el sentido de la marcha del vehículo",
+      "Viajen mirando hacia atrás, contra el sentido de la marcha",
+      "Viajen como queden más cómodos para que no distraigan al conductor"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0214",
+    "numero": 21,
+    "examen": null,
+    "tema": "Adelantar camión con remolque",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "¿Qué debe hacer un conductor para adelantar a un camión con remolque en un camino muy transitado?",
+    "opciones": [
+      "Encender y apagar las luces para que los que vienen en contra la faciliten el adelantamiento",
+      "Desplazarse permanentemente hacia el centro de la calzada para poder ver hacia adelante",
+      "Mantenerse atrás del camión hasta ver que tiene espacio suficiente para adelantar"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0215",
+    "numero": 22,
+    "examen": null,
+    "tema": "Teléfono celular",
+    "capitulo": "conductas-que-implican-riesgos",
+    "enunciado": "¿En qué caso un conductor puede utilizar su teléfono celular al interior de un automóvil si no cuenta con un \"manos libres\"?",
+    "opciones": [
+      "Si se encuentra detenido en un lugar seguro",
+      "Si su vehículo tiene cambio automático",
+      "Si necesita efectuar una llamada de emergencia"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0216",
+    "numero": 23,
+    "examen": null,
+    "tema": "Documentos del vehículo",
+    "capitulo": "disposiciones-aplicables-a-los-vehiculos",
+    "enunciado": "¿Cuál de los documentos que debe tener un conductor en su vehículo NO es obligatorio portar?",
+    "opciones": [
+      "El seguro obligatorio de accidentes personales",
+      "El permiso de circulación",
+      "El certificado de inscripción"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0217",
+    "numero": 24,
+    "examen": null,
+    "tema": "Descenso pronunciado",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "Un conductor está próximo a descender por una calle muy pronunciada, ¿Qué debería hacer para controlar la velocidad de su vehículo?",
+    "opciones": [
+      "Seleccionar un cambio bajo y evitar usar los frenos",
+      "Seleccionar un cambio alto y usar los frenos firmemente",
+      "Seleccionar un cambio bajo y usar los frenos cuidadosamente"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0218",
+    "numero": 25,
+    "examen": "EXAMEN 4",
+    "tema": "Fila de autos",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "¿Qué medidas debe adoptar un conductor cuando va en una fila de autos?\nI.- Estar atento solo a los vehículos que van delante de él en la fila\nII.- Mantener un espacio respecto del vehículo que va delante, permitiendo que otro vehículo puede ingresar a dicho espacio y lo adelante\nIII.- Mirar hacia adelante, eventualmente a través de los cristales de los otros vehículos, a fin de moderar la velocidad a tiempo si alguien frena",
+    "opciones": [
+      "I y II",
+      "II y III",
+      "I, II y III"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0218.png"
+  },
+  {
+    "id": "q-0219",
+    "numero": 26,
+    "examen": null,
+    "tema": "Hemorragia en pierna",
+    "capitulo": "como-comportarse-en-caso-de-siniestro",
+    "enunciado": "A causa de un accidente, una persona se encuentra con una fuerte hemorragia en la parte inferior de la pierna. En esta situación, ¿Qué es lo que NO se debería hacer para ayudar a la persona herida?",
+    "opciones": [
+      "Elevar la pierna para reducir el sangramiento",
+      "Aplicar presión manual firme sobre la herida con un paño limpio y luego vendarla",
+      "Tranquilizar a la persona herida y darle algo caliente para beber"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0220",
+    "numero": 27,
+    "examen": null,
+    "tema": "Efectos del alcohol",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "¿Cómo afecta el consumo de alcohol en el conductor?",
+    "opciones": [
+      "Reduce la concentración",
+      "Acelera las reacciones",
+      "Aumenta la lucidez"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0221",
+    "numero": 28,
+    "examen": null,
+    "tema": "Pana en autopista",
+    "capitulo": "conduccion-en-autopistas",
+    "enunciado": "¿Qué es lo primero que debe hacer un conductor si ha quedado en pana en medio de una autopista?",
+    "opciones": [
+      "Instalar un triángulo reflectante para advertir a los demás usuarios",
+      "Intentar reparar el vehículo rápidamente",
+      "Encender las luces de advertencia de peligro"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0222",
+    "numero": 29,
+    "examen": null,
+    "tema": "Hielo en invierno",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "En épocas de invierno, ¿Dónde es más previsible que haya hielo en la calzada?",
+    "opciones": [
+      "En las intersecciones",
+      "En tramos de vías que pasan entre bosques"
+    ],
+    "correcta": 1,
+    "incompleta": true
+  },
+  {
+    "id": "q-0223",
+    "numero": 30,
+    "examen": null,
+    "tema": "Virar a la izquierda",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "Un conductor va por una calle de doble sentido de tránsito, ¿Dónde debería ubicarse para virar a la izquierda?",
+    "opciones": [
+      "Al centro de la pista donde va transitando",
+      "A la izquierda de la línea del centro de la calzada",
+      "A la derecha de la línea del centro de la calzada"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0224",
+    "numero": 31,
+    "examen": null,
+    "tema": "Pavimento mojado",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "Un conductor transita sobre un pavimento mojado, manteniéndose a una distancia segura del vehículo que va delante de él. De pronto, el conductor es adelantado por otro vehículo que se ubica en el espacio que hay en frente de él. ¿Qué debe hacer el conductor que fue adelantado?",
+    "opciones": [
+      "Disminuir la velocidad hasta recuperar una distancia segura del vehículo que va delante",
+      "Encender y apagar sus luces en señal de advertencia",
+      "Mantener su velocidad y esperar que el vehículo se aleje hasta recuperar una distancia segura"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0225",
+    "numero": 32,
+    "examen": null,
+    "tema": "Distancia mínima",
+    "capitulo": "conduccion-eficiente",
+    "enunciado": "Se debe tener una distancia mínima con el vehículo para:",
+    "opciones": [
+      "No colisionar",
+      "Evitar frenar y acelerar constantemente, con lo que produce un mayor consumo de combustible",
+      "A y B son correctas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0226",
+    "numero": 33,
+    "examen": null,
+    "tema": "Alcohol y riesgo",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "¿Cuán mayor puede ser el riesgo de accidente para un conductor que presenta una tasa de alcohol en la sangre entre 0,3 y 0,5 g/l?",
+    "opciones": [
+      "No hay riesgo de accidente porque esa cantidad no afecta en los sentidos de la persona para conducir",
+      "El riesgo de accidente con esa cantidad de alcohol en la sangre es el doble que si no hubiera bebido",
+      "El riesgo de accidente con esa cantidad de alcohol en la sangre es cinco veces más que si no hubiera bebido"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0227",
+    "numero": 34,
+    "examen": "EXAMEN 4",
+    "tema": "Calzada y demarcaciones",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "¿Cuáles afirmaciones son VERDADERAS en relación a la calzada y sus demarcaciones?\nI.- El eje de calzada, que determina las áreas con sentido de tránsito opuesto, puede estar pintado con línea segmentada o continua\nII.- El eje de calzada puede no estar demarcado. En este caso, la división de la calzada es en dos partes iguales\nIII.- La berma es una franja de seguridad lateral a la calzada, por la que no se debe circular",
+    "opciones": [
+      "I y II",
+      "I y III",
+      "I, II y III"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0227.png"
+  },
+  {
+    "id": "q-0228",
+    "numero": 35,
+    "examen": null,
+    "tema": "Desenganchar motor",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "¿Qué efecto tiene desenganchar el motor del vehículo?",
+    "opciones": [
+      "Permite realizar maniobras con mayor facilidad",
+      "Aumenta el consumo de combustible del vehículo",
+      "Reduce el control del conductor sobre el vehículo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0229",
+    "numero": 1,
+    "examen": "EXAMEN 5",
+    "tema": "Señal no adelantar",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Qué significa esta señal?",
+    "opciones": [
+      "No adelantar",
+      "Mantenga su derecha",
+      "No cambiar de pista"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0229.png"
+  },
+  {
+    "id": "q-0230",
+    "numero": 3,
+    "examen": null,
+    "tema": "Estacionamiento",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "¿Cuál afirmación es VERDADERA en relación al estacionamiento?",
+    "opciones": [
+      "Si es en subida, las ruedas deben apuntar hacia la derecha y debe haber un espacio mínimo de 60 cm entre vehículos",
+      "Si es en bajada, las ruedas deben apuntar hacia la izquierda y no puede haber más de 30 cm desde el neumático y la solera",
+      "Se debe hacer de forma paralela a la solera, si es en bajada, las ruedas deben apuntar hacia la derecha"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0231",
+    "numero": 2,
+    "examen": null,
+    "tema": "Medicamentos y conducción",
+    "capitulo": "medicamentos-y-conduccion",
+    "enunciado": "Respecto del uso de medicamentos en la conducción, ¿Cuál de las siguientes afirmaciones es FALSA?",
+    "opciones": [
+      "Algunos medicamentos afectan la capacidad para poder conducir con normalidad",
+      "Algunos medicamentos disminuyen la atención y aumentan el tiempo de reacción del conductor",
+      "En ningún caso se debe conducir mientras se toman medicamentos"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0232",
+    "numero": 4,
+    "examen": null,
+    "tema": "Convivencia vial",
+    "capitulo": "libro-cap3-convivencia-vial",
+    "enunciado": "Si cada conductor cumple con respetar las normas de convivencia y comportamiento vial, contribuye con:",
+    "opciones": [
+      "Que el resto de los conductores pueda tomar decisiones confiando en el comportamiento de los demás (principio de confianza)",
+      "Que el resto de los conductores se sienta con desconfianza al tomar desiciones"
+    ],
+    "correcta": 0,
+    "incompleta": true
+  },
+  {
+    "id": "q-0233",
+    "numero": 5,
+    "examen": null,
+    "tema": "Airbag",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Qué opción es VERDADERA con respecto al airbag o bolsa de aire de un vehículo?",
+    "opciones": [
+      "Reduce el campo visual del conductor",
+      "Disminuye la probabilidad de un accidente",
+      "Complementa el uso del cinturón de seguridad"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0234",
+    "numero": 6,
+    "examen": null,
+    "tema": "Adelantar a caballos",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "¿Cómo debería un conductor adelantar a personas que va a caballo?",
+    "opciones": [
+      "Manteniendo la velocidad a la que va para no espantar a los caballos",
+      "Tocando la bocina una vez para advertir su presencia y luego adelantarlos rápidamente",
+      "Conduciendo lentamente y dejando bastante espacio lateral"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0235",
+    "numero": 7,
+    "examen": "EXAMEN 5",
+    "tema": "Alcohol y reacción",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "¿Cuáles de las siguientes razones explican que el consumo de alcohol disminuya la capacidad de reacción de un conductor?\nI.- Inhibe la capacidad de distinguir entre diferentes estímulos\nII.- Hace más lenta la comunicación con el sistema nervioso\nIII.- Perturba el estado de ánimo",
+    "opciones": [
+      "I y II",
+      "I y III",
+      "I, II y III"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0235.png"
+  },
+  {
+    "id": "q-0236",
+    "numero": 8,
+    "examen": null,
+    "tema": "Zona achurada",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "Un conductor está buscando un lugar para estacionarse durante un corto período de tiempo y observa un espacio vacío que está achurado con líneas oblicuas, ¿Qué debe hacer el conductor?",
+    "opciones": [
+      "Continuar buscando un lugar para estacionarse, ya que está prohibido hacerlo en la zona achurada",
+      "Estacionarse en la zona achurada ya que está permitido hacerlo sobre ella por un máximo de 30 minutos",
+      "Estacionarse en el espacio achurado, ya que ésta es una zona destinada especialmente para estacionar"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0237",
+    "numero": 11,
+    "examen": null,
+    "tema": "Tiempo de reacción",
+    "capitulo": "la-persona-en-el-transito",
+    "enunciado": "En promedio, el tiempo de reacción de una persona en condiciones psicofísicas normales es de:",
+    "opciones": [
+      "Un segundo",
+      "Dos segundos",
+      "Tres segundos"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0238",
+    "numero": 13,
+    "examen": "EXAMEN 5",
+    "tema": "Señal con el brazo",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Qué señalización con el brazo debe realizar un conductor para indicar que está disminuyendo su marcha?",
+    "opciones": [
+      "Ilustración A",
+      "Ilustración B",
+      "Ilustración C"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0238.png"
+  },
+  {
+    "id": "q-0239",
+    "numero": 12,
+    "examen": null,
+    "tema": "Concentración de alcohol",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "Si una persona ingiere la misma cantidad de alcohol en dos ocasiones, ¿Cuál de las siguientes afirmaciones es FALSA en cuanto a la concentración de alcohol en su sangre?",
+    "opciones": [
+      "Dependerá del tiempo que dure la ingestión de alcohol en cada ocasión",
+      "Dependerá de la cantidad de comida ingerida en cada ocasión",
+      "Nada la hace variar, siempre que la ingesta de alcohol sea igual en cada ocasión"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0240",
+    "numero": 14,
+    "examen": null,
+    "tema": "Sueño al conducir",
+    "capitulo": "cansancio-sueno-y-fatiga",
+    "enunciado": "Para una persona acostumbrada a trabajar de día y dormir durante la noche, ¿En cuál de los siguientes horarios es más probable que aparezca el sueño al conducir?",
+    "opciones": [
+      "Entre las 3 y 5 horas y entre las 14 y 16 horas",
+      "Entre las 8 y 10 horas y entre las 20 y 22 horas",
+      "Entre las 11 y 12 horas y entre las 18 y 20 horas"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0241",
+    "numero": 15,
+    "examen": null,
+    "tema": "Cinturón en niños",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "Se recomienda que un niño use el cinturón de seguridad:",
+    "opciones": [
+      "Cuando al sentarse apoyando correctamente la espalda en el respaldo del asiento trasero, los pies quedan completamente en el suelo y el cinturón queda completamente ajustado",
+      "Cuando el sistema de retención infantil que posee le queda pequeño o estrecho",
+      "Cuando ya no quiera viajar mas en un sistema de retención infantil"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0242",
+    "numero": 16,
+    "examen": null,
+    "tema": "Madurez personal",
+    "capitulo": "equilibrio-emocional",
+    "enunciado": "¿Cuál de las siguientes características indica que un conductor tiene un alto grado de madurez personal?",
+    "opciones": [
+      "Sobreestima sus habilidades y las pone a prueba constantemente",
+      "Conoce bien las normas que regulan en tránsito",
+      "Sabe y acepta que otros pueden cometer errores"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0243",
+    "numero": 17,
+    "examen": "EXAMEN 5",
+    "tema": "Fuerza centrífuga",
+    "capitulo": "libro-cap2-energia-y-leyes-fisicas",
+    "enunciado": "Cuando un conductor toma una curva, se observa el fenómeno llamado \"fuerza centrífuga\", que provoca que el vehículo se desvíe hacia el exterior de la curva. Teniendo esto en cuenta, ¿Cuál o cuáles de las siguientes afirmaciones influye(n) en la magnitud de la fuerza centrífuga en las curvas?\nI.- El viento\nII.- La velocidad\nIII.- El radio de la curva",
+    "opciones": [
+      "I y II",
+      "II y III",
+      "I, II y III"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0243.png"
+  },
+  {
+    "id": "q-0244",
+    "numero": 18,
+    "examen": null,
+    "tema": "Distancia entre vehículos",
+    "capitulo": "libro-cap2-energia-y-leyes-fisicas",
+    "enunciado": "Dos vehículos circulan en sentido contrario a 90 km/h cada uno. ¿A una razón de cuánto se reduce la distancia entre ambos vehículos?",
+    "opciones": [
+      "270 km/h",
+      "180 km/h",
+      "90 km/h"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0245",
+    "numero": 19,
+    "examen": null,
+    "tema": "Velocidad en ciudad",
+    "capitulo": "la-velocidad",
+    "enunciado": "¿Cuál es el límite de velocidad permitida al circular en ciudad en un automóvil?",
+    "opciones": [
+      "40 km/h",
+      "50 km/h",
+      "60 km/h"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0246",
+    "numero": 21,
+    "examen": "EXAMEN 5",
+    "tema": "Distancia de frenado",
+    "capitulo": "la-velocidad",
+    "enunciado": "De las siguientes variables, ¿Cuáles influyen en la distancia de frenado en un vehículo?\nI.- La velocidad\nII.- El estado de alerta del conductor\nIII.- Las condiciones climáticas\nIV.- El estado de los frenos y neumáticos",
+    "opciones": [
+      "I, II y IV",
+      "I, II y III",
+      "I, III y IV"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0246.png"
+  },
+  {
+    "id": "q-0247",
+    "numero": 20,
+    "examen": null,
+    "tema": "Niños en maletero",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "¿En cuál de las siguientes condiciones sería seguro transportar niños pequeños en el espacio que queda detrás de los asientos traseros?",
+    "opciones": [
+      "Cuando se realiza un viaje corto dentro de la ciudad",
+      "Bajo ninguna condición",
+      "Al circular por calles o caminos de poco tránsito"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0248",
+    "numero": 22,
+    "examen": null,
+    "tema": "Alcohol y percepción",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "El consumo de bebidas alcohólicas, incluso en cantidades pequeñas, ¿Qué efectos produce?",
+    "opciones": [
+      "Reduce la percepción del entorno",
+      "Agudiza los reflejos",
+      "Mejora la precisión y la coordinación"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0249",
+    "numero": 24,
+    "examen": null,
+    "tema": "Calzado apropiado",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Por qué es importante usar zapatos apropiados al conducir un vehículo?",
+    "opciones": [
+      "Para tener un adecuado control sobre los pedales",
+      "Para efectuar los cambios de marcha adecuadamente",
+      "Para evitar el desgaste acelerado de las gomas de los pedales"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0250",
+    "numero": 23,
+    "examen": null,
+    "tema": "Cinturón de seguridad",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Cuál de las siguientes afirmaciones referidas al uso de cinturón de seguridad es FALSA?",
+    "opciones": [
+      "El uso de un cinturón de seguridad bien tensado entrega mayor seguridad que uno menos tensado",
+      "Para quienes viajan en el asiento trasero el uso del cinturón de seguridad no brinda mayor seguridad",
+      "Es un acto inseguro que un adulto lleve a un niño pequeño incluyéndolo en su cinturón de seguridad"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0251",
+    "numero": 25,
+    "examen": "EXAMEN 5",
+    "tema": "Señal de autopista",
+    "capitulo": "conduccion-en-autopistas",
+    "enunciado": "¿Qué indica la siguiente señal?",
+    "opciones": [
+      "Que hay una salida antes de ingresar a la autopista",
+      "Que hay un paso de nivel antes de salir de la autopista",
+      "Que es el fin de la autopista o autovía"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0251.png"
+  },
+  {
+    "id": "q-0252",
+    "numero": 26,
+    "examen": null,
+    "tema": "Frenos mojados",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Por qué un conductor de un automóvil debe probar el funcionamiento de los frenos después de pasar por una calle inundada?",
+    "opciones": [
+      "Porque el sistema hidráulico puede haberse estropeado",
+      "Porque el carburador puede haberse ahogado",
+      "Porque los frenos pueden haberse mojado"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0253",
+    "numero": 27,
+    "examen": null,
+    "tema": "Detención obligatoria",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "¿En cuál de las siguientes ocasiones un conductor debe detener obligatoriamente su vehículo?",
+    "opciones": [
+      "Al verse involucrado en un accidente de tránsito",
+      "Al enfrentar una señal de CEDA EL PASO",
+      "Ante un cruce de cebra en el que no hay peatones cruzando"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0254",
+    "numero": 28,
+    "examen": null,
+    "tema": "Aparición de fatiga",
+    "capitulo": "cansancio-sueno-y-fatiga",
+    "enunciado": "¿Cuál de las siguientes circunstancias NO se relaciona con la aparición de la fatiga?",
+    "opciones": [
+      "Circular por una vía conocida y de poco tránsito",
+      "Circular bajo condiciones climáticas",
+      "Circular por una vía cuyo pavimento está en muy mal estado"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0255",
+    "numero": 29,
+    "examen": "EXAMEN 5",
+    "tema": "Estacionamiento izquierdo",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "¿Por qué el vehículo gris que se ve en la imagen está correctamente estacionado al costado izquierdo de la calle?",
+    "opciones": [
+      "Porque hay otro vehículo estacionado en el mismo lugar",
+      "Porque no obstruye el paso de otros vehículos que deseen circular por la calle",
+      "Porque una señal expresamente indica que se puede estacionar"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0255.png"
+  },
+  {
+    "id": "q-0256",
+    "numero": 31,
+    "examen": null,
+    "tema": "Seguros de niños",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "¿Para qué sirven los seguros de niños de los vehículos?",
+    "opciones": [
+      "Para fijar las hebillas que tienen los cinturones de seguridad",
+      "Para impedir que las puertas puedan abrirse desde el interior",
+      "Para bloquear las ventanas traseras manteniéndolas cerradas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0257",
+    "numero": 30,
+    "examen": null,
+    "tema": "Velocidad constante",
+    "capitulo": "conduccion-eficiente",
+    "enunciado": "Si desea circular a una velocidad constante, debe preferir:",
+    "opciones": [
+      "Usar la marcha más alta posible que le permita un menor consumo de combustible",
+      "Usar cualquier marcha, pues el consumo no depende de la velocidad de circulación",
+      "Usar la marcha más baja posible que le permita mantener tracción sobre la calzada"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0258",
+    "numero": 32,
+    "examen": null,
+    "tema": "Sistema de frenado",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "En relación al sistema de frenado en un vehículo, ¿Cuál afirmación es VERDADERA?",
+    "opciones": [
+      "Al conducir a una mayor velocidad aumenta el consumo del líquido de frenos",
+      "Los frenos ABS impiden que las ruedas queden bloqueadas al frenar",
+      "El consumo del líquido de frenos depende de la intensidad con que se frena"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0259",
+    "numero": 33,
+    "examen": null,
+    "tema": "Semáforo y Carabinero",
+    "capitulo": "los-semaforos",
+    "enunciado": "Un conductor llega a una intersección regulada por un semáforo que se encuentra en rojo. ¿Qué debe hacer si, al mismo tiempo un Carabinero le ordena que avance?",
+    "opciones": [
+      "Detenerse, porque la luz roja del semáforo se lo está indicando",
+      "Avanzar, solo si está seguro que la luz roja está próxima a cambiar a verde",
+      "Avanzar, porque la instrucción del Carabinero prevalece sobre las señales del tránsito"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0260",
+    "numero": 35,
+    "examen": "EXAMEN 5",
+    "tema": "Afirmaciones falsas",
+    "capitulo": "libro-cap1-siniestros-de-transito",
+    "enunciado": "De las siguientes afirmaciones, ¿Cuáles son FALSAS?\nI.- Un conductor que va con mucha prisa tiende a ser más cauteloso\nII.- La falta de atención a las condiciones del tránsito es una de las principales causas de los accidentes\nIII.- Discutir con alguien o estar pendiente de la radio no aumenta el riesgo de pasar por alto una situación relevante del tránsito\nIV.- Cerca de un 90% de los accidentes de tránsito son por fallas mecánicas",
+    "opciones": [
+      "II y III",
+      "I, III y IV",
+      "I, II y IV"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0260.png"
+  },
+  {
+    "id": "q-0261",
+    "numero": 34,
+    "examen": null,
+    "tema": "Muertes por accidentes",
+    "capitulo": "libro-cap1-siniestros-de-transito",
+    "enunciado": "Aproximadamente, ¿Cuántas muertes se originan al año por causa de los accidentes de tránsito?",
+    "opciones": [
+      "Entre 500 y 700",
+      "Entre 1200 y 2500",
+      "Entre 3500 y 4500"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0262",
+    "numero": 1,
+    "examen": "EXAMEN 6",
+    "tema": "Señal 100 m autopista",
+    "capitulo": "conduccion-en-autopistas",
+    "enunciado": "¿Qué significa esta señal?",
+    "opciones": [
+      "Que a 100 metros hay una pasarela peatonal sobre la autopista",
+      "Que a 100 metros comienza una pista de desaceleración",
+      "Que a 100 metros converge una pista de aceleración para entrar en la autopista"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0262.png"
+  },
+  {
+    "id": "q-0263",
+    "numero": 2,
+    "examen": null,
+    "tema": "Sanción por ebriedad",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "La conducción en estado de ebriedad se sanciona con:",
+    "opciones": [
+      "Se sanciona solamente con multas",
+      "Se sanciona con multas y cancelación de licencia",
+      "Se sanciona con multas, cancelación de licencia y presidio"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0264",
+    "numero": 3,
+    "examen": "EXAMEN 6",
+    "tema": "Ceder el paso",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "¿Quién debe ceder el paso en la situación que se ve en la imagen?",
+    "opciones": [
+      "El conductor del vehículo rojo que pretende virar a la izquierda",
+      "El conductor que más lentamente se acerca al cruce",
+      "El conductor del vehículo amarillo que se aproxima al cruce por la derecha"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0264.png"
+  },
+  {
+    "id": "q-0265",
+    "numero": 4,
+    "examen": "EXAMEN 6",
+    "tema": "Incorporación a la vía",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "En la imagen se ve a un vehículo que quiere incorporarse a la vía, ¿qué obligación tiene el conductor que va por el camino principal respecto a dicho vehículo?",
+    "opciones": [
+      "Cederle el paso, ya que se incorpora por la derecha",
+      "Cederle el paso, ya que se incorpora de un camino de tierra",
+      "No tiene ninguna obligación, ya que el otro vehículo es quien debe cederle el paso"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0265.png"
+  },
+  {
+    "id": "q-0266",
+    "numero": 5,
+    "examen": null,
+    "tema": "Cima con poca visibilidad",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "¿Qué debería hacer un conductor al aproximarse a una cima y tiene poca visibilidad?",
+    "opciones": [
+      "Aumentar la velocidad para reducir el tiempo de poca visibilidad",
+      "Reducir obligatoriamente la velocidad y mantenerse a la derecha"
+    ],
+    "correcta": 1,
+    "incompleta": true
+  },
+  {
+    "id": "q-0267",
+    "numero": 6,
+    "examen": null,
+    "tema": "Conducir con nieve",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Por qué se recomienda conducir lentamente manteniéndose en la marcha más alta posible cuando hay nieve?",
+    "opciones": [
+      "Para dejar disponible una marcha baja en el caso de que las ruedas patinen",
+      "Para ayudar a evitar que las ruedas patinen",
+      "Para evitar que el patinaje de las ruedas haga que el motor funcione demasiado rápido"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0268",
+    "numero": 7,
+    "examen": "EXAMEN 6",
+    "tema": "Desvío de calzada",
+    "capitulo": "conductas-que-implican-riesgos",
+    "enunciado": "¿Qué factores pueden hacer que un conductor se desvíe de la calzada?\nI.- El exceso de velocidad\nII.- Neumáticos en mal estado\nIII.- El cansancio",
+    "opciones": [
+      "Solo II",
+      "I y II",
+      "I, II y III"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0268.png"
+  },
+  {
+    "id": "q-0269",
+    "numero": 8,
+    "examen": null,
+    "tema": "Sistema de retención infantil",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "¿Desde qué edad un niño debe utilizar un SRI (sistema de retención infantil)?",
+    "opciones": [
+      "Desde los 0 años",
+      "Desde que pueden mover el cuello",
+      "Desde los 6 meses en adelante"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0270",
+    "numero": 10,
+    "examen": "EXAMEN 6",
+    "tema": "Conducción eficiente",
+    "capitulo": "conduccion-eficiente",
+    "enunciado": "¿Cuáles son los beneficios de una conducción eficiente?\nI.- Menos estrés durante la conducción y mayor seguridad\nII.- Un menor consumo de combustible\nIII.- Menor costo en peajes",
+    "opciones": [
+      "I y III",
+      "I y II",
+      "I, II y III"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0270.png"
+  },
+  {
+    "id": "q-0271",
+    "numero": 9,
+    "examen": null,
+    "tema": "Lugares de estacionamiento",
+    "capitulo": "estacionamiento-y-detencion",
+    "enunciado": "¿En cuál de los siguientes lugares el estacionamiento de un vehículo NO causa obstrucción a otros usuarios de la vía?",
+    "opciones": [
+      "A una distancia de al menos 10 metros de un cruce",
+      "En un paso de peatones",
+      "Frente a la entrada de autos de una propiedad"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0272",
+    "numero": 11,
+    "examen": null,
+    "tema": "Curva con hielo",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Cómo se debe conducir en una curva cuando hay hielo en la calzada?",
+    "opciones": [
+      "Maniobrando lenta y suavemente",
+      "Frenando a medida que va tomando la curva",
+      "Usando el embrague y el freno al mismo tiempo"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0273",
+    "numero": 12,
+    "examen": null,
+    "tema": "Uso del cinturón",
+    "capitulo": "libro-cap2-elementos-de-seguridad",
+    "enunciado": "¿Cuál de las siguientes afirmaciones referidas al uso del cinturón de seguridad es VERDADERA?",
+    "opciones": [
+      "El uso de cinturón de seguridad es igual de importante para los pasajeros que van en el asiento trasero",
+      "El uso del cinturón de seguridad no disminuye las muertes por accidentes causados por exceso de velocidad",
+      "El uso del cinturón de seguridad es innecesario al circular a una velocidad menor a 30 km/h"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0274",
+    "numero": 13,
+    "examen": "EXAMEN 6",
+    "tema": "Señal de ciclistas",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Qué significa esta señal?",
+    "opciones": [
+      "Indica la proximidad de un cruce con una cicloruta",
+      "Indica la probable presencia de ciclistas circulando por la vía",
+      "Indica que los ciclistas deben transitar solamente en sentido contrario"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0274.png"
+  },
+  {
+    "id": "q-0275",
+    "numero": 14,
+    "examen": null,
+    "tema": "Primer en llegar siniestro",
+    "capitulo": "como-comportarse-en-caso-de-siniestro",
+    "enunciado": "Cuando un conductor es la primera persona en llegar al sitio de un accidente en el que hay heridos graves, ¿Qué debería hacer?",
+    "opciones": [
+      "Sacar de los autos a los heridos",
+      "Dar algo de beber a los heridos",
+      "Encender las luces de advertencia de peligro"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0276",
+    "numero": 15,
+    "examen": "EXAMEN 6",
+    "tema": "Conductor seguro",
+    "capitulo": "equilibrio-emocional",
+    "enunciado": "¿Cuáles de las siguientes características distinguen a un conductor seguro?\nI.- Conduce siempre haciendo que los demás respeten sus derechos\nII.- Conduce con prudencia y hace todo lo posible para evitar accidentes\nIII.- Es respetuoso, no obstaculiza ni perturba a los demás conductores y peatones",
+    "opciones": [
+      "I y II",
+      "II y III",
+      "I, II y III"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0276.png"
+  },
+  {
+    "id": "q-0277",
+    "numero": 16,
+    "examen": null,
+    "tema": "Distancia de detención",
+    "capitulo": "la-velocidad",
+    "enunciado": "¿En qué circunstancias la distancia de detención total de un vehículo es mucho más larga?",
+    "opciones": [
+      "Cuando hay neblina",
+      "Cuando está lloviendo",
+      "Cuando hay vientos fuertes"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0278",
+    "numero": 17,
+    "examen": "EXAMEN 6",
+    "tema": "Alcohol y reacción",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "¿Cuál de las siguientes opciones explican que el consumo de alcohol disminuya la capacidad de reacción en un conductor?\nI.- Inhibe la capacidad de distinguir entre diferentes estímulos\nII.- Hace más rápida la comunicación con el sistema nervioso\nIII.- Perturba el estado de ánimo",
+    "opciones": [
+      "I y II",
+      "I y III"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0278.png",
+    "incompleta": true
+  },
+  {
+    "id": "q-0279",
+    "numero": 18,
+    "examen": null,
+    "tema": "Conducción bajo lluvia",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Cuáles de las siguientes afirmaciones es correcta en cuanto a la conducción bajo la lluvia?",
+    "opciones": [
+      "El riesgo de que los neumáticos patinen es menor cuando recién a comenzado a llover",
+      "El riesgo de que los neumáticos patinen es mayor mientras mayor es la velocidad",
+      "Se puede eliminar el riesgo de patinaje de los neumáticos verificando el buen estado de los frenos"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0280",
+    "numero": 19,
+    "examen": "EXAMEN 6",
+    "tema": "Riesgos en la calzada",
+    "capitulo": "conductas-que-implican-riesgos",
+    "enunciado": "Si un conductor va circulando por la calzada que se observa en la imagen, ¿A cuál riesgo debería poner MENOS atención?",
+    "opciones": [
+      "A la puertas de autos que pueden ser abiertas",
+      "A los niños que puedan salir a la calzada por entre los autos",
+      "Al tránsito en la intersección que hay más adelante"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0280.png"
+  },
+  {
+    "id": "q-0281",
+    "numero": 21,
+    "examen": "EXAMEN 6",
+    "tema": "Sistema de Retención Infantil",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "Para trasladar seguros a los niños en un vehículo, el Sistema de Retención Infantil (SRI) debe ser escogido considerando, entre otras características:\nI.- La certificación y la acreditación que posea\nII.- Tipo de vehículo donde se instalará el SRI\nIII.- Anclajes que posee el SRI y el vehículo",
+    "opciones": [
+      "Solo I",
+      "I y II",
+      "I, II y III"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0281.png"
+  },
+  {
+    "id": "q-0282",
+    "numero": 22,
+    "examen": null,
+    "tema": "Distancia de detención",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Cuál es la principal razón por la cual la distancia de detención total de un vehículo es mayor después de una lluvia torrencial?",
+    "opciones": [
+      "Porque los neumáticos tienen menos adherencia sobre la calzada",
+      "Porque el agua sobre el parabrisas nubla la visión sobre la calzada"
+    ],
+    "correcta": 0,
+    "incompleta": true
+  },
+  {
+    "id": "q-0283",
+    "numero": 23,
+    "examen": "EXAMEN 6",
+    "tema": "Señal zona de curvas",
+    "capitulo": "senales-de-transito-verticales",
+    "enunciado": "¿Cuál de estas imágenes te indica que más adelante hay una zona de curvas?",
+    "opciones": [
+      "Señal 1",
+      "Señal 2",
+      "Señal 3"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0283.png"
+  },
+  {
+    "id": "q-0284",
+    "numero": 25,
+    "examen": null,
+    "tema": "Rotondas",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "¿Cuál afirmación es correcta en relación al uso de rotondas y mini-rotondas?",
+    "opciones": [
+      "Al ingresar a una rotonda un conductor debe ceder el paso a los vehículos que circulan en ella, sin embargo este conductor tiene preferencia al ingresar a una mini-rotonda",
+      "Tanto en una mini-rotonda como en una rotonda el conductor que ingresa tiene preferencia sobre otros vehículos que circulan por ellas",
+      "Tanto en una mini-rotonda como en una rotonda, el conductor que ingresa debe siempre ceder el paso a los vehículos que circulan por ellas"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0285",
+    "numero": 24,
+    "examen": null,
+    "tema": "Convivencia vial",
+    "capitulo": "libro-cap3-convivencia-vial",
+    "enunciado": "¿Cuál es la cualidad que deben tener todos los conductores para que colaboren con la convivencia vial?",
+    "opciones": [
+      "Solo conocer la normativa vigente",
+      "Tener un nivel adecuado de Educación Vial",
+      "Velar por uno mismo, sin interesarse por los demás"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0286",
+    "numero": 26,
+    "examen": null,
+    "tema": "Alcoholemia",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "¿Qué aspecto NO afecta en la prueba de alcoholemia en un conductor que ha ingerido alcohol?",
+    "opciones": [
+      "El tiempo transcurrido desde que bebió alcohol",
+      "El peso corporal de la persona",
+      "El haber fumado mientras consumía alcohol"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0287",
+    "numero": 27,
+    "examen": null,
+    "tema": "Causas de siniestros",
+    "capitulo": "libro-cap1-siniestros-de-transito",
+    "enunciado": "De los siguientes factores, ¿Cuál es el que con mayor frecuencia se presenta en los accidentes de tránsito?",
+    "opciones": [
+      "Las condiciones climáticas",
+      "Los errores del conductor",
+      "Las fallas mecánicas"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0288",
+    "numero": 29,
+    "examen": null,
+    "tema": "Conductores inexpertos",
+    "capitulo": "la-persona-en-el-transito",
+    "enunciado": "En relación con los conductores inexpertos, ¿Cuál afirmación es VERDADERA?",
+    "opciones": [
+      "Los conductores inexpertos concentran su mirada en puntos fijos",
+      "Los conductores inexpertos aprovechan al máximo su visión periférica",
+      "Los conductores inexpertos observan el entorno de manera sistemática"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0289",
+    "numero": 28,
+    "examen": "EXAMEN 6",
+    "tema": "Cruce con cuadrícula amarilla",
+    "capitulo": "senales-de-transito",
+    "enunciado": "¿Qué debería hacer el conductor que se observa en la imagen?",
+    "opciones": [
+      "Continuar con precaución",
+      "Retroceder para salir del cruce",
+      "Esperar en el mismo lugar hasta tener luz verde"
+    ],
+    "correcta": 0,
+    "imagen": "assets/img/q-0289.png"
+  },
+  {
+    "id": "q-0290",
+    "numero": 30,
+    "examen": null,
+    "tema": "Prioridad en cruce",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "Un conductor se aproxima a un cruce de calles no señalizado. Por la otra calle también se aproxima un vehículo que pretende pasar el cruce, acercándose por el lado derecho del primer conductor. En este caso, ¿Quién tiene la prioridad para pasar?",
+    "opciones": [
+      "El vehículo más grande",
+      "El vehículo que va a mayor velocidad",
+      "El vehículo que viene por el lado derecho del conductor"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0291",
+    "numero": 31,
+    "examen": null,
+    "tema": "Fuerza centrífuga",
+    "capitulo": "libro-cap2-energia-y-leyes-fisicas",
+    "enunciado": "Cuando un conductor toma una curva, ¿Cuál de estas opciones NO influye en la fuerza centrífuga?",
+    "opciones": [
+      "La velocidad",
+      "El viento",
+      "El radio de la curva"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0292",
+    "numero": 33,
+    "examen": "EXAMEN 6",
+    "tema": "Refugio o isleta central",
+    "capitulo": "las-reglas-del-transito",
+    "enunciado": "Cuando en una vía urbana de sentido único existe un refugio o isleta central, ¿por cuál parte de la calzada debe circular un conductor?",
+    "opciones": [
+      "Únicamente por la parte de la calzada que queda a la izquierda del refugio o isleta",
+      "Por cualquiera de las dos que rodean el refugio o la isleta",
+      "Únicamente por la parte de la calzada que queda a la derecha del refugio o isleta"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0292.png"
+  },
+  {
+    "id": "q-0293",
+    "numero": 32,
+    "examen": null,
+    "tema": "Calzada con hielo",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "¿Cómo se puede evitar que el vehículo patine cuando la calzada está cubierta por una capa de hielo?",
+    "opciones": [
+      "Conduciendo en un cambio bajo todo el tiempo",
+      "Conduciendo a una velocidad baja en el cambio más alto posible",
+      "Usando el freno de mano si las ruedas comienzan a resbalar"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0294",
+    "numero": 34,
+    "examen": null,
+    "tema": "Retención infantil",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "¿Cuál de las siguientes aseveraciones es VERDADERA?",
+    "opciones": [
+      "Según la normativa, es responsabilidad de los padres transportar a los niños menores de hasta 10 años en un Sistema de Retención Infantil",
+      "Si se instala mal un Sistema de Retención Infantil, éste no entregará la protección para que los niños viajen seguro",
+      "Está permitido transportar a menores de 12 años de edad en los asientos delanteros"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0295",
+    "numero": 35,
+    "examen": null,
+    "tema": "Vehículo lento",
+    "capitulo": "encuentros-y-adelantamientos",
+    "enunciado": "¿Qué debe hacer el conductor de un vehículo de marcha lenta que transita por un camino angosto y sinuoso?",
+    "opciones": [
+      "Circular cerca del centro de la calzada para evitar que otros lo adelanten peligrosamente",
+      "Moverse hacia la derecha cuando pueda hacerlo en forma segura, para permitir que otros lo adelanten",
+      "Hacer indicaciones con la mano a los otros conductores cuando crea que podrán adelantarlo rápidamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0296",
+    "numero": 5,
+    "examen": null,
+    "tema": "Corregir patinaje trasero",
+    "capitulo": "libro-cap2-energia-y-leyes-fisicas",
+    "enunciado": "¿Qué debería hacer un conductor para corregir un patinaje de las ruedas traseras?",
+    "opciones": [
+      "Girar el volante en dirección opuesta al cotezazo",
+      "Girar el volante hacia el lado en que se desplaza la cola del vehículo",
+      "Aplicar el freno de mano del vehículo"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0297",
+    "numero": 10,
+    "examen": null,
+    "tema": "Efectos del alcohol",
+    "capitulo": "alcohol-en-la-conduccion",
+    "enunciado": "Si una persona ha ingerido alcohol, ¿Cuál de los siguientes efectos probablemente NO ocurriría?",
+    "opciones": [
+      "Su capacidad de coordinación se reduciría",
+      "Sus reacciones serían más rápidas",
+      "Su autoestima se incrementaría"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0298",
+    "numero": 11,
+    "examen": null,
+    "tema": "Viento y motociclistas",
+    "capitulo": "conduccion-en-distintas-condiciones-climaticas",
+    "enunciado": "Cuando el viento está soplando muy fuerte, ¿Por qué debe uno dejar un espacio lateral extra al adelantar a un motociclista?",
+    "opciones": [
+      "Porque el motociclista podría tambalear o ser desviado su trayectoria a consecuencia del viento",
+      "Porque el motociclista podría detenerse repentinamente",
+      "Porque el motociclista podría ir más rápido de lo normal"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0299",
+    "numero": 14,
+    "examen": null,
+    "tema": "Embrague",
+    "capitulo": "libro-cap2-funcionamiento-del-automovil",
+    "enunciado": "¿Por qué NO se debe conducir presionando el embrague durante más tiempo del necesario?",
+    "opciones": [
+      "Porque provoca el desgaste de la caja de cambios",
+      "Porque aumenta el consumo del combustible",
+      "Porque reduce el control sobre el vehículo"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0300",
+    "numero": 18,
+    "examen": "EXAMEN 7",
+    "tema": "Observación en la calle",
+    "capitulo": "libro-cap3-convivencia-vial",
+    "enunciado": "Si un conductor va circulando por la calle que se observa en la imagen, ¿Hacia qué punto es más importante que mire el conductor en este momento?",
+    "opciones": [
+      "Punto A, donde viene el auto azul en sentido contrario",
+      "Punto B, donde a lo lejos un peatón está terminando de cruzar la calzada",
+      "Punto C, donde un peatón está comenzando a cruzar la calzada"
+    ],
+    "correcta": 2,
+    "imagen": "assets/img/q-0300.png"
+  },
+  {
+    "id": "q-0301",
+    "numero": 4,
+    "examen": "EXAMEN 8",
+    "tema": "Distancia de detención",
+    "capitulo": "la-velocidad",
+    "enunciado": "Suponga que para un conductor en una situación específica:\n· Su distancia de reacción es de 10 metros\n· Su distancia de frenado es de 8 metros\n· Su distancia de detención es de 18 metros\n¿Cuál sería su distancia de detención si sigue conduciendo en idénticas características y condiciones, pero aumenta al doble su velocidad?",
+    "opciones": [
+      "46 metros",
+      "52 metros",
+      "64 metros"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "q-0302",
+    "numero": 5,
+    "examen": "EXAMEN 8",
+    "tema": "Riesgo de motociclistas",
+    "capitulo": "usuarios-vulnerables",
+    "enunciado": "¿Por qué los motociclistas son especialmente riesgosos en el tránsito?\nI. Porque son difíciles de ver\nII. Porque es fácil estimar su velocidad\nIII. Porque en caso de accidente tienen un alto riesgo de sufrir lesiones",
+    "opciones": [
+      "I y III",
+      "I y II",
+      "Solo I"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0303",
+    "numero": 6,
+    "examen": "EXAMEN 8",
+    "tema": "Riesgo en calzada",
+    "capitulo": "libro-cap3-convivencia-vial",
+    "enunciado": "Si un conductor va circulando por la calzada que se observa en la imagen, ¿A cuál riesgo debería estar más atento?",
+    "opciones": [
+      "A los vehículos que puedan venir detrás suyo",
+      "Al ciclista que viene en sentido contrario",
+      "A irregularidades en la superficie de la calzada"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0303.png"
+  },
+  {
+    "id": "q-0304",
+    "numero": 7,
+    "examen": "EXAMEN 8",
+    "tema": "Pista izquierda",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "En una carretera de doble calzada con dos pistas por sentido, ¿En cuál situación el conductor debería conducir por la pista izquierda?",
+    "opciones": [
+      "Al pasar a otro vehículo que va más lento",
+      "Al conducir a una velocidad muy baja",
+      "Al circular normalmente"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0305",
+    "numero": 8,
+    "examen": "EXAMEN 8",
+    "tema": "Niño en el vehículo",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "¿Cuál es la forma más segura para llevar a un niño de 3 años en su vehículo?",
+    "opciones": [
+      "En la falda de un adulto compartiendo un mismo cinturón de seguridad",
+      "En la falda de un adulto que va con su cinturón de seguridad",
+      "En el asiento trasero y en un sistema de retención infantil"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "q-0306",
+    "numero": 12,
+    "examen": "EXAMEN 8",
+    "tema": "Cruce en T",
+    "capitulo": "normas-de-circulacion",
+    "enunciado": "Usted está esperando en un cruce en T. El vehículo de color rojo que se acerca desde la izquierda señaliza a la derecha, ¿Qué debería hacer usted?",
+    "opciones": [
+      "Ponerse en marcha antes de que el vehículo rojo llegue al cruce",
+      "Esperar hasta que el vehículo rojo haya comenzado a virar",
+      "Avanzar lentamente e ingresar a la otra pista"
+    ],
+    "correcta": 1,
+    "imagen": "assets/img/q-0306.png"
+  },
+  {
+    "id": "q-0307",
+    "numero": 29,
+    "examen": "EXAMEN 8",
+    "tema": "Sistema de retención infantil",
+    "capitulo": "ninas-y-ninos-en-el-automovil",
+    "enunciado": "¿Cuál de las siguientes situaciones con respecto al Sistema de Retención Infantil es VERDADERA?",
+    "opciones": [
+      "Transportar niños de hasta 8 años de edad sin su sistema de retención obligatorio, es una falta que incluye una suspensión de la licencia por un periodo de 5 a 45 días",
+      "Si el sistema de retención infantil se encuentra anclado de forma correcta al vehículo, no es necesario utilizar en el niño el arnés o cinturón de seguridad",
+      "Los menores de 12 años o menos pueden ir en la parte delantera del vehículo, utilizando el cinturón de seguridad"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "q-0308",
+    "numero": 30,
+    "examen": "EXAMEN 8",
+    "tema": "Consumo de combustible",
+    "capitulo": "conduccion-eficiente",
+    "enunciado": "¿Qué acción provoca un alto consumo de combustible?",
+    "opciones": [
+      "Encender el vehículo con el pie presionando hasta el fondo el pedal del embrague",
+      "Encender el vehículo pisando repetidas veces el el pedal del acelerador",
+      "Encender el vehículo con la palanca de cambios en neutro"
+    ],
+    "correcta": 1
+  }
+]

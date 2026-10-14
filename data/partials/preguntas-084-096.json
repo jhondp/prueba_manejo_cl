@@ -1,0 +1,547 @@
+[
+ {
+  "page": 84,
+  "numero": 26,
+  "examen": null,
+  "tema": "Distancia al volante",
+  "capitulo": "libro-cap2-elementos-de-seguridad",
+  "enunciado": "¿Cuál es la razón principal por la que la distancia mínima entre el conductor y el volante debe ser de 25 centímetros?",
+  "opciones": [
+   "Porque al sentarse a mayor distancia no tendría suficiente visibilidad",
+   "Porque es la distancia de acción del airbag al explotar",
+   "Respeto solo hacia uno mismo, destreza en el manejo del vehículo y cumplimiento de las normas del tránsito"
+  ],
+  "correcta": 1
+ },
+ {
+  "page": 84,
+  "numero": 27,
+  "examen": null,
+  "tema": "Primeros auxilios",
+  "capitulo": "como-comportarse-en-caso-de-siniestro",
+  "enunciado": "Cuando un conductor es la primera persona en llegar al sitio de un accidente en el que hay heridos graves, ¿Qué debería hacer?",
+  "opciones": [
+   "Sacar de los autos a los heridos",
+   "Dar de beber a los heridos",
+   "Encender las luces de advertencia de peligro"
+  ],
+  "correcta": 2
+ },
+ {
+  "page": 84,
+  "numero": 28,
+  "examen": null,
+  "tema": "Semáforo en rojo",
+  "capitulo": "los-semaforos",
+  "enunciado": "¿Qué significa un semáforo en rojo?",
+  "opciones": [
+   "Que el conductor debe disminuir su velocidad y estar preparado para detenerse",
+   "Que el conductor debe detenerse sobre el paso de peatones",
+   "Que el conductor debe detenerse antes de la línea de detención de vehículos"
+  ],
+  "correcta": 2,
+  "duda": "Card is cut off at the bottom edge of the screenshot; there may be further options not visible."
+ },
+ {
+  "page": 85,
+  "numero": 29,
+  "examen": null,
+  "tema": "Distancia de detención",
+  "capitulo": "la-velocidad",
+  "enunciado": "En qué circunstancias la distancia de detención total de un vehículo es mucho más larga?",
+  "opciones": [
+   "Cuando hay neblina",
+   "Cuando es de noche",
+   "Cuando hay vientos fuertes"
+  ],
+  "correcta": 0,
+  "duda": "Question text starts 'En qué circunstancias' without opening ¿ (as printed)."
+ },
+ {
+  "page": 85,
+  "numero": 30,
+  "examen": null,
+  "tema": "Descenso de pendiente",
+  "capitulo": "conduccion-eficiente",
+  "enunciado": "Al descender una pendiente muy larga, ¿Qué debería hacer un conductor para controlar mejor la velocidad del vehículo?",
+  "opciones": [
+   "Presionar el pedal del embrague",
+   "Tomar el manubrio firmemente",
+   "Seleccionar una marcha baja"
+  ],
+  "correcta": 2
+ },
+ {
+  "page": 85,
+  "numero": 31,
+  "examen": null,
+  "tema": "Cinturón de seguridad",
+  "capitulo": "libro-cap2-elementos-de-seguridad",
+  "enunciado": "Respecto al uso del cinturón de seguridad, ¿Cuál de las siguientes afirmaciones es VERDADERA?",
+  "opciones": [
+   "El uso de cinturón de seguridad es menos útil para los pasajeros que van en el asiento trasero",
+   "El uso del cinturón de seguridad disminuye las muertes producidas por accidentes de tránsito",
+   "El uso de cinturón de seguridad es innecesario al circular a una velocidad menor a 30 km/h"
+  ],
+  "correcta": 1
+ },
+ {
+  "page": 86,
+  "numero": 32,
+  "examen": null,
+  "tema": "Retención infantil",
+  "capitulo": "ninas-y-ninos-en-el-automovil",
+  "enunciado": "Deberán ser transportados en un Sistema de Retención Infantil en el asiento trasero:",
+  "opciones": [
+   "Los niños hasta 8 años de edad inclusive",
+   "Los niños hasta 12 años de edad inclusive",
+   "Los niños hasta 10 años de edad inclusive"
+  ],
+  "correcta": 0
+ },
+ {
+  "page": 86,
+  "numero": 33,
+  "examen": null,
+  "tema": "Hemorragia",
+  "capitulo": "como-comportarse-en-caso-de-siniestro",
+  "enunciado": "A causa de un accidente, una persona se encuentra con una fuerte hemorragia en la parte inferior de una pierna. En esta situación, ¿Qué debería hacer para ayudar a la persona herida?",
+  "opciones": [
+   "Ayudar a la persona a sentarse mientras se espera que llegue una ambulancia",
+   "Mantener a la persona con la pierna herida en alto",
+   "Tranquilizar a la persona herida y darle algo caliente para beber"
+  ],
+  "correcta": 1
+ },
+ {
+  "page": 86,
+  "numero": 34,
+  "examen": null,
+  "tema": "Prevención de accidentes",
+  "capitulo": "libro-cap1-siniestros-de-transito",
+  "enunciado": "Respecto de los accidentes de tránsito hoy en día, ¿Cuál de las siguientes afirmaciones es VERDADERA?",
+  "opciones": [
+   "La mayoría son fortuitos, debidos al azar y a la casualidad",
+   "La mayoría son inevitables, por lo que no podemos hacer nada para prevenirlos",
+   "La mayoría se pueden prevenir, aprendiendo a evitarlos y a minimizar sus consecuencias"
+  ],
+  "correcta": 2,
+  "duda": "Card is cut off at the bottom edge of the screenshot; there may be further options not visible."
+ },
+ {
+  "page": 86,
+  "numero": 35,
+  "examen": null,
+  "tema": "Accidente con motociclista",
+  "capitulo": "como-comportarse-en-caso-de-siniestro",
+  "enunciado": "Si un conductor tiene un accidente con un motociclista y este último queda consciente pero en shock, ¿Qué debería hacer el conductor del vehículo para ayudar?",
+  "opciones": [
+   "Sacarle el casco para que el motociclista pueda respirar mejor",
+   "Llamar a los equipos de emergencia y no sacarle el casco",
+   "Ayudarlo a pararse o a moverse"
+  ],
+  "correcta": 1
+ },
+ {
+  "page": 87,
+  "numero": 1,
+  "examen": "EXAMEN 8",
+  "tema": "Punto de encuentro",
+  "capitulo": "la-velocidad",
+  "enunciado": "El auto azul circula a 70 km/h y el auto rojo a 90 km/h. ¿Dónde es más probable que sus conductores estimen el punto de encuentro?",
+  "opciones": [
+   "El conductor del vehículo azul estimará que el punto de encuentro será en el punto A",
+   "Ambos conductores estimarán que el punto de encuentro será en el punto B",
+   "El conductor del vehículo rojo estimará que el punto de encuentro será en el punto C"
+  ],
+  "correcta": 1,
+  "imageRef": {
+   "page": 87,
+   "bbox": [
+    186,
+    158,
+    606,
+    392
+   ]
+  }
+ },
+ {
+  "page": 87,
+  "numero": 2,
+  "examen": "EXAMEN 8",
+  "tema": "Luces de advertencia",
+  "capitulo": "disposiciones-aplicables-a-los-vehiculos",
+  "enunciado": "¿En cuál de los siguientes casos debe un conductor usar las luces de advertencia de peligro de su vehículo?",
+  "opciones": [
+   "Cuando se encuentra en pana obstruyendo el tránsito",
+   "Cuando se estaciona en doble fila respecto de otro vehículo junto a la cuneta",
+   "Cuando se estaciona junto a una cuneta en la que hay línea amarilla"
+  ],
+  "correcta": 0
+ },
+ {
+  "page": 87,
+  "numero": 3,
+  "examen": "EXAMEN 8",
+  "tema": "Adelantar de noche",
+  "capitulo": "conduccion-en-la-oscuridad",
+  "enunciado": "Cuando un conductor adelanta a otro vehículo durante la noche, ¿Qué debe considerar?",
+  "opciones": [
+   "Que se recomienda tocar la bocina dos veces antes de pasar a la pista izquierda",
+   "Que su capacidad visual se verá reducida y por tanto deberá tener más cuidado",
+   "Que durante el adelantamiento debe mantener la velocidad en todo momento"
+  ],
+  "correcta": 1
+ },
+ {
+  "page": 88,
+  "numero": 4,
+  "examen": "EXAMEN 8",
+  "tema": "Distancia de detención",
+  "capitulo": "la-velocidad",
+  "enunciado": "Suponga que para un conductor en una situación específica:\n· Su distancia de reacción es de 10 metros\n· Su distancia de frenado es de 8 metros\n· Su distancia de detención es de 18 metros\n¿Cuál sería su distancia de detención si sigue conduciendo en idénticas características y condiciones, pero aumenta al doble su velocidad?",
+  "opciones": [
+   "46 metros",
+   "52 metros",
+   "64 metros"
+  ],
+  "correcta": 1
+ },
+ {
+  "page": 88,
+  "numero": 5,
+  "examen": "EXAMEN 8",
+  "tema": "Riesgo de motociclistas",
+  "capitulo": "usuarios-vulnerables",
+  "enunciado": "¿Por qué los motociclistas son especialmente riesgosos en el tránsito?\nI. Porque son difíciles de ver\nII. Porque es fácil estimar su velocidad\nIII. Porque en caso de accidente tienen un alto riesgo de sufrir lesiones",
+  "opciones": [
+   "I y III",
+   "I y II",
+   "Solo I"
+  ],
+  "correcta": 0
+ },
+ {
+  "page": 89,
+  "numero": 6,
+  "examen": "EXAMEN 8",
+  "tema": "Riesgo en calzada",
+  "capitulo": "libro-cap3-convivencia-vial",
+  "enunciado": "Si un conductor va circulando por la calzada que se observa en la imagen, ¿A cuál riesgo debería estar más atento?",
+  "opciones": [
+   "A los vehículos que puedan venir detrás suyo",
+   "Al ciclista que viene en sentido contrario",
+   "A irregularidades en la superficie de la calzada"
+  ],
+  "correcta": 1,
+  "imageRef": {
+   "page": 89,
+   "bbox": [
+    268,
+    192,
+    630,
+    444
+   ]
+  }
+ },
+ {
+  "page": 89,
+  "numero": 7,
+  "examen": "EXAMEN 8",
+  "tema": "Pista izquierda",
+  "capitulo": "normas-de-circulacion",
+  "enunciado": "En una carretera de doble calzada con dos pistas por sentido, ¿En cuál situación el conductor debería conducir por la pista izquierda?",
+  "opciones": [
+   "Al pasar a otro vehículo que va más lento",
+   "Al conducir a una velocidad muy baja",
+   "Al circular normalmente"
+  ],
+  "correcta": 0,
+  "duda": "Card is cut off at the bottom edge of the screenshot; there may be further options not visible."
+ },
+ {
+  "page": 90,
+  "numero": 8,
+  "examen": "EXAMEN 8",
+  "tema": "Niño en el vehículo",
+  "capitulo": "ninas-y-ninos-en-el-automovil",
+  "enunciado": "¿Cuál es la forma más segura para llevar a un niño de 3 años en su vehículo?",
+  "opciones": [
+   "En la falda de un adulto compartiendo un mismo cinturón de seguridad",
+   "En la falda de un adulto que va con su cinturón de seguridad",
+   "En el asiento trasero y en un sistema de retención infantil"
+  ],
+  "correcta": 2
+ },
+ {
+  "page": 90,
+  "numero": 9,
+  "examen": "EXAMEN 8",
+  "tema": "Estacionar en esquina",
+  "capitulo": "estacionamiento-y-detencion",
+  "enunciado": "¿A cuántos metros de una esquina es lo más cerca que usted puede estacionar?",
+  "opciones": [
+   "A 3 metros",
+   "A 5 metros",
+   "A 10 metros"
+  ],
+  "correcta": 2,
+  "imageRef": {
+   "page": 90,
+   "bbox": [
+    168,
+    356,
+    542,
+    642
+   ]
+  }
+ },
+ {
+  "page": 91,
+  "numero": 10,
+  "examen": "EXAMEN 8",
+  "tema": "Adelantamiento",
+  "capitulo": "encuentros-y-adelantamientos",
+  "enunciado": "En una carretera de doble calzada con 2 pistas por sentido de tránsito, usted desea pasar al vehículo que va delante suyo. Por su espejo retrovisor ve que el auto que viene atrás se está cambiando de pista para sobrepasarlo a usted, ¿Qué debería hacer usted?",
+  "opciones": [
+   "Señalizar y luego cambiar de pista para sobrepasar",
+   "Señalizar para indicarle al conductor que viene atrás que usted también desea sobrepasar",
+   "No señalizar hasta que el auto lo haya pasado"
+  ],
+  "correcta": 2
+ },
+ {
+  "page": 91,
+  "numero": 11,
+  "examen": "EXAMEN 8",
+  "tema": "Panne en autopista",
+  "capitulo": "conduccion-en-autopistas",
+  "enunciado": "Si el vehículo se descompone en medio de una autopista. ¿Qué es lo primero debería hacer el conductor?",
+  "opciones": [
+   "Instalar un triángulo reflectante para advertir a los demás usuarios",
+   "Intentar reparar su vehículo rápidamente",
+   "Encender sus luces de advertencia de peligro"
+  ],
+  "correcta": 2,
+  "duda": "Card is cut off at the bottom edge of the screenshot; there may be further options not visible."
+ },
+ {
+  "page": 92,
+  "numero": 12,
+  "examen": "EXAMEN 8",
+  "tema": "Cruce en T",
+  "capitulo": "normas-de-circulacion",
+  "enunciado": "Usted está esperando en un cruce en T. El vehículo de color rojo que se acerca desde la izquierda señaliza a la derecha, ¿Qué debería hacer usted?",
+  "opciones": [
+   "Ponerse en marcha antes de que el vehículo rojo llegue al cruce",
+   "Esperar hasta que el vehículo rojo haya comenzado a virar",
+   "Avanzar lentamente e ingresar a la otra pista"
+  ],
+  "correcta": 1,
+  "imageRef": {
+   "page": 92,
+   "bbox": [
+    158,
+    224,
+    660,
+    602
+   ]
+  }
+ },
+ {
+  "page": 92,
+  "numero": 13,
+  "examen": "EXAMEN 8",
+  "tema": "Velocidad adecuada",
+  "capitulo": "la-velocidad",
+  "enunciado": "¿Cuál sería una velocidad adecuada para conducir?",
+  "opciones": [
+   "Circular al máximo de la velocidad permitida para la vía",
+   "Circular a un poco menos de la velocidad máxima permitida en la vía",
+   "Circular a una velocidad suficiente que permita controlar el vehículo con seguridad"
+  ],
+  "correcta": 2,
+  "duda": "Card is cut off at the bottom edge of the screenshot; there may be further options not visible."
+ },
+ {
+  "page": 93,
+  "numero": 14,
+  "examen": "EXAMEN 8",
+  "tema": "Señal de prohibición",
+  "capitulo": "senales-de-transito",
+  "enunciado": "¿Qué significa esta señal?",
+  "opciones": [
+   "Que está prohibido estacionar",
+   "Que está prohibido adelantar",
+   "Que está prohibida la circulación de vehículos a motor"
+  ],
+  "correcta": 2,
+  "imageRef": {
+   "page": 93,
+   "bbox": [
+    334,
+    222,
+    480,
+    366
+   ]
+  }
+ },
+ {
+  "page": 93,
+  "numero": 15,
+  "examen": "EXAMEN 8",
+  "tema": "Distracciones",
+  "capitulo": "conductas-que-implican-riesgos",
+  "enunciado": "¿Qué podría distraer a un conductor mientras está conduciendo?",
+  "opciones": [
+   "La música en alto volumen",
+   "Leer las señales que aparecen en la vía",
+   "Las plumillas del limpiaparabrisas"
+  ],
+  "correcta": 0
+ },
+ {
+  "page": 93,
+  "numero": 16,
+  "examen": "EXAMEN 8",
+  "tema": "Frenar en semáforo",
+  "capitulo": "los-semaforos",
+  "enunciado": "¿Cómo sería otra forma segura para frenar y detenerse cuando un conductor se enfrenta un semáforo en rojo?",
+  "opciones": [
+   "Frenar bruscamente",
+   "Ir bajando las marchas",
+   "Apretar el pedal de freno las veces que sea necesario"
+  ],
+  "correcta": 1
+ },
+ {
+  "page": 94,
+  "numero": 17,
+  "examen": "EXAMEN 8",
+  "tema": "Peso en remolque",
+  "capitulo": "conduccion-con-carga",
+  "enunciado": "¿Cómo se debe concentrar el peso en un remolque?",
+  "opciones": [
+   "El peso debe estar concentrado en la parte delantera",
+   "El peso debe estar concentrado en la parte trasera",
+   "El peso debe estar concentrado de forma uniforme"
+  ],
+  "correcta": 2
+ },
+ {
+  "page": 94,
+  "numero": 18,
+  "examen": "EXAMEN 8",
+  "tema": "Vía segregada",
+  "capitulo": "senales-de-transito",
+  "enunciado": "¿Qué significa esta señal?",
+  "opciones": [
+   "Que es una vía segregada para buses",
+   "Que está permitido tomar o dejar pasajeros",
+   "Que los taxis deben circular por la pista izquierda"
+  ],
+  "correcta": 0,
+  "imageRef": {
+   "page": 94,
+   "bbox": [
+    298,
+    376,
+    432,
+    572
+   ]
+  }
+ },
+ {
+  "page": 95,
+  "numero": 19,
+  "examen": "EXAMEN 8",
+  "tema": "Encandilamiento",
+  "capitulo": "conduccion-en-la-oscuridad",
+  "enunciado": "Al transitar de noche, un conductor es encandilado por las luces delanteras de un vehículo que se aproxima. ¿Qué debería hacer el conductor en esta circunstancia?",
+  "opciones": [
+   "Hacer parpadear las luces",
+   "Bajar la visera que tiene el vehículo para proteger del sol",
+   "Reducir la velocidad o detenerse"
+  ],
+  "correcta": 2
+ },
+ {
+  "page": 95,
+  "numero": 20,
+  "examen": "EXAMEN 8",
+  "tema": "Presión de neumáticos",
+  "capitulo": "disposiciones-aplicables-a-los-vehiculos",
+  "enunciado": "¿Cuándo se deben revisar la presión de aire de los neumáticos?",
+  "opciones": [
+   "Después de un viaje largo",
+   "Cuando los neumáticos estén calientes",
+   "Cuando los neumáticos estén fríos"
+  ],
+  "correcta": 2
+ },
+ {
+  "page": 95,
+  "numero": 21,
+  "examen": "EXAMEN 8",
+  "tema": "Señal de pista",
+  "capitulo": "senales-de-transito",
+  "enunciado": "¿Qué indica la señal en la imagen?",
+  "opciones": [
+   "Indica que más adelante comienza una bifurcación",
+   "Informa el fin de la pista izquierda en una calzada unidireccional de dos pistas",
+   "Indica que más adelante la pista derecha se encuentra cerrada"
+  ],
+  "correcta": 1,
+  "imageRef": {
+   "page": 95,
+   "bbox": [
+    292,
+    538,
+    362,
+    645
+   ]
+  }
+ },
+ {
+  "page": 95,
+  "numero": 22,
+  "examen": "EXAMEN 8",
+  "tema": "Consumo de combustible",
+  "capitulo": "conduccion-eficiente",
+  "enunciado": "¿A qué se debe un alto consumo del combustible?",
+  "opciones": [
+   "Al colocar el pie en el pedal del embrague",
+   "Al colocar el pie sobre el pedal del acelerador",
+   "Al conducir tramos largos con marchas bajas"
+  ],
+  "correcta": 2
+ },
+ {
+  "page": 96,
+  "numero": 23,
+  "examen": "EXAMEN 8",
+  "tema": "Neumáticos baja presión",
+  "capitulo": "disposiciones-aplicables-a-los-vehiculos",
+  "enunciado": "¿Qué sucede con el vehículo cuando los neumáticos delanteros están con baja presión de aire?\nI.- La dirección del vehículo se siente más pesada\nII.- Aumenta el consumo del combustible\nIII.- El vehículo se inclina hacia un lado",
+  "opciones": [
+   "I y II",
+   "I y III",
+   "I, II y III"
+  ],
+  "correcta": 2
+ },
+ {
+  "page": 96,
+  "numero": 24,
+  "examen": "EXAMEN 8",
+  "tema": "Paso de cebra",
+  "capitulo": "normas-de-circulacion",
+  "enunciado": "Usted se encuentra detenido en un paso de cebra y observa personas en la vereda que no cruzan, ¿Qué haría usted?",
+  "opciones": [
+   "Retoma la marcha del vehículo",
+   "Espera pacientemente",
+   "Hace señas con las manos para que las personas crucen"
+  ],
+  "correcta": 1
+ }
+]

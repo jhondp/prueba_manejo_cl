@@ -16,7 +16,8 @@ export function validateQuestions(list, { imageExists = () => true, chapterSlugs
     if (!isText(q.enunciado)) fail('missing enunciado');
     if (!isText(q.tema)) fail('missing tema');
     const opts = q.opciones;
-    if (!Array.isArray(opts) || opts.length < 3 || opts.length > 4 || !opts.every(isText)) {
+    const minOptions = q.incompleta === true ? 2 : 3;
+    if (!Array.isArray(opts) || opts.length < minOptions || opts.length > 4 || !opts.every(isText)) {
       fail('opciones must be 3-4 non-empty strings');
     } else if (!Number.isInteger(q.correcta) || q.correcta < 0 || q.correcta >= opts.length) {
       fail('correcta must be a valid option index');
