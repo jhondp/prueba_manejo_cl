@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "s-001",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Pare",
+    "imagen": "assets/signs/s-001.png"
+  },
+  {
+    "id": "s-002",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Ceda el paso",
+    "imagen": "assets/signs/s-002.png"
+  },
+  {
+    "id": "s-003",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Pare niños",
+    "imagen": "assets/signs/s-003.png"
+  },
+  {
+    "id": "s-004",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "No entrar",
+    "imagen": "assets/signs/s-004.png"
+  },
+  {
+    "id": "s-005",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "No virar izquierda",
+    "imagen": "assets/signs/s-005.png"
+  },
+  {
+    "id": "s-006",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "No virar derecha",
+    "imagen": "assets/signs/s-006.png"
+  },
+  {
+    "id": "s-007",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "No virar en U",
+    "imagen": "assets/signs/s-007.png"
+  },
+  {
+    "id": "s-008",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "No adelantar",
+    "imagen": "assets/signs/s-008.png"
+  },
+  {
+    "id": "s-009",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "No cambiar de pista",
+    "imagen": "assets/signs/s-009.png"
+  },
+  {
+    "id": "s-010",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Preferencia ciclistas al virar derecha",
+    "imagen": "assets/signs/s-010.png"
+  },
+  {
+    "id": "s-011",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Preferencia ciclistas al virar izquierda",
+    "imagen": "assets/signs/s-011.png"
+  },
+  {
+    "id": "s-012",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Preferencia ciclistas al cambiar de pista",
+    "imagen": "assets/signs/s-012.png"
+  },
+  {
+    "id": "s-013",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Preferencia ciclistas al cambiar de pista",
+    "imagen": "assets/signs/s-013.png"
+  },
+  {
+    "id": "s-014",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Prohibida circulación de vehículos de carga",
+    "imagen": "assets/signs/s-014.png"
+  },
+  {
+    "id": "s-015",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Prohibida circulación de vehículos motorizados",
+    "imagen": "assets/signs/s-015.png"
+  },
+  {
+    "id": "s-016",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Prohibida circulación de carros de mano",
+    "imagen": "assets/signs/s-016.png"
+  },
+  {
+    "id": "s-017",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Prohibida circulación de buses",
+    "imagen": "assets/signs/s-017.png"
+  },
+  {
+    "id": "s-018",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Prohibida circulación de bicicletas",
+    "imagen": "assets/signs/s-018.png"
+  },
+  {
+    "id": "s-019",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Prohibida circulación de motocicletas",
+    "imagen": "assets/signs/s-019.png"
+  },
+  {
+    "id": "s-020",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Prohibida circulación de maquinaria agrícola",
+    "imagen": "assets/signs/s-020.png"
+  },
+  {
+    "id": "s-021",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Prohibida circulación de vehículos de tracción animal",
+    "imagen": "assets/signs/s-021.png"
+  },
+  {
+    "id": "s-022",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Silencio",
+    "imagen": "assets/signs/s-022.png"
+  },
+  {
+    "id": "s-023",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "No bloquear cruce",
+    "imagen": "assets/signs/s-023.png"
+  },
+  {
+    "id": "s-024",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Prohibido estacionar y detenerse",
+    "imagen": "assets/signs/s-024.png"
+  },
+  {
+    "id": "s-025",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Prohibido estacionar",
+    "imagen": "assets/signs/s-025.png"
+  },
+  {
+    "id": "s-026",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Prohibido estacionar",
+    "imagen": "assets/signs/s-026.png"
+  },
+  {
+    "id": "s-027",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "No peatones",
+    "imagen": "assets/signs/s-027.png"
+  },
+  {
+    "id": "s-028",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Velocidad máxima",
+    "imagen": "assets/signs/s-028.png"
+  },
+  {
+    "id": "s-029",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Velocidad mínima",
+    "imagen": "assets/signs/s-029.png"
+  },
+  {
+    "id": "s-030",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Velocidad máxima zona 30",
+    "imagen": "assets/signs/s-030.png"
+  },
+  {
+    "id": "s-031",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Largo máximo",
+    "imagen": "assets/signs/s-031.png"
+  },
+  {
+    "id": "s-032",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Peso máximo permitido",
+    "imagen": "assets/signs/s-032.png"
+  },
+  {
+    "id": "s-033",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Peso máximo por eje",
+    "imagen": "assets/signs/s-033.png"
+  },
+  {
+    "id": "s-034",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Altura máxima",
+    "imagen": "assets/signs/s-034.png"
+  },
+  {
+    "id": "s-035",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Ancho máximo",
+    "imagen": "assets/signs/s-035.png"
+  },
+  {
+    "id": "s-036",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Fin prohibición o restricción",
+    "imagen": "assets/signs/s-036.png"
+  },
+  {
+    "id": "s-037",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Solo televía o sistema complementario",
+    "imagen": "assets/signs/s-037.png"
+  },
+  {
+    "id": "s-038",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Tránsito en un solo sentido",
+    "imagen": "assets/signs/s-038.png"
+  },
+  {
+    "id": "s-039",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Tránsito en ambos sentidos",
+    "imagen": "assets/signs/s-039.png"
+  },
+  {
+    "id": "s-040",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Tránsito peatonal",
+    "imagen": "assets/signs/s-040.png"
+  },
+  {
+    "id": "s-041",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Tránsito de peatones",
+    "imagen": "assets/signs/s-041.png"
+  },
+  {
+    "id": "s-042",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Mantenga su derecha",
+    "imagen": "assets/signs/s-042.png"
+  },
+  {
+    "id": "s-043",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Vehículo pesado mantenga su derecha",
+    "imagen": "assets/signs/s-043.png"
+  },
+  {
+    "id": "s-044",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Dirección obligada",
+    "imagen": "assets/signs/s-044.png"
+  },
+  {
+    "id": "s-045",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Preferencia al sentido contrario",
+    "imagen": "assets/signs/s-045.png"
+  },
+  {
+    "id": "s-046",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Circulación en ambos sentidos",
+    "imagen": "assets/signs/s-046.png"
+  },
+  {
+    "id": "s-047",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Minirrotonda",
+    "imagen": "assets/signs/s-047.png"
+  },
+  {
+    "id": "s-048",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Paso obligado derecha",
+    "imagen": "assets/signs/s-048.png"
+  },
+  {
+    "id": "s-049",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Paso obligado izquierda",
+    "imagen": "assets/signs/s-049.png"
+  },
+  {
+    "id": "s-050",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Paso vértice",
+    "imagen": "assets/signs/s-050.png"
+  },
+  {
+    "id": "s-051",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Control",
+    "imagen": "assets/signs/s-051.png"
+  },
+  {
+    "id": "s-052",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Uso obligatorio de cadenas",
+    "imagen": "assets/signs/s-052.png"
+  },
+  {
+    "id": "s-053",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Luces encendidas",
+    "imagen": "assets/signs/s-053.png"
+  },
+  {
+    "id": "s-054",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Solo motocicletas",
+    "imagen": "assets/signs/s-054.png"
+  },
+  {
+    "id": "s-055",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Vía segregada buses",
+    "imagen": "assets/signs/s-055.png"
+  },
+  {
+    "id": "s-056",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Vía segregada buses",
+    "imagen": "assets/signs/s-056.png"
+  },
+  {
+    "id": "s-057",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Solo transporte público",
+    "imagen": "assets/signs/s-057.png"
+  },
+  {
+    "id": "s-058",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Superficie segregada motorizados - ciclos",
+    "imagen": "assets/signs/s-058.png"
+  },
+  {
+    "id": "s-059",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Superficie segregada peatones-ciclos",
+    "imagen": "assets/signs/s-059.png"
+  },
+  {
+    "id": "s-060",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Reservado",
+    "imagen": "assets/signs/s-060.png"
+  },
+  {
+    "id": "s-061",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Permitido virar derecha con luz roja",
+    "imagen": "assets/signs/s-061.png"
+  },
+  {
+    "id": "s-062",
+    "categoria": "Señales Reglamentarias",
+    "nombre": "Permitido virar izquierda con luz roja",
+    "imagen": "assets/signs/s-062.png"
+  },
+  {
+    "id": "s-063",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Curva a la derecha",
+    "imagen": "assets/signs/s-063.png"
+  },
+  {
+    "id": "s-064",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Curva a la izquierda",
+    "imagen": "assets/signs/s-064.png"
+  },
+  {
+    "id": "s-065",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Curva cerrada a la derecha",
+    "imagen": "assets/signs/s-065.png"
+  },
+  {
+    "id": "s-066",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Curva cerrada a la izquierda",
+    "imagen": "assets/signs/s-066.png"
+  },
+  {
+    "id": "s-067",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Zona de curvas a la derecha",
+    "imagen": "assets/signs/s-067.png"
+  },
+  {
+    "id": "s-068",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Zona de curvas a la izquierda",
+    "imagen": "assets/signs/s-068.png"
+  },
+  {
+    "id": "s-069",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Curva y contracurva a la derecha",
+    "imagen": "assets/signs/s-069.png"
+  },
+  {
+    "id": "s-070",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Curva y contracurva a la izquierda",
+    "imagen": "assets/signs/s-070.png"
+  },
+  {
+    "id": "s-071",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Curva y contracurva cerrada a la derecha",
+    "imagen": "assets/signs/s-071.png"
+  },
+  {
+    "id": "s-072",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Curva y contracurva cerrada a la izquierda",
+    "imagen": "assets/signs/s-072.png"
+  },
+  {
+    "id": "s-073",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Curva muy cerrada a la derecha",
+    "imagen": "assets/signs/s-073.png"
+  },
+  {
+    "id": "s-074",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Curva muy cerrada a la izquierda",
+    "imagen": "assets/signs/s-074.png"
+  },
+  {
+    "id": "s-075",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Pendiente fuerte en bajada",
+    "imagen": "assets/signs/s-075.png"
+  },
+  {
+    "id": "s-076",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Pendiente fuerte en bajada",
+    "imagen": "assets/signs/s-076.png"
+  },
+  {
+    "id": "s-077",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Proximidad de túnel",
+    "imagen": "assets/signs/s-077.png"
+  },
+  {
+    "id": "s-078",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Pendiente fuerte en subida",
+    "imagen": "assets/signs/s-078.png"
+  },
+  {
+    "id": "s-079",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Pendiente fuerte en subida",
+    "imagen": "assets/signs/s-079.png"
+  },
+  {
+    "id": "s-080",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Ribera sin protección",
+    "imagen": "assets/signs/s-080.png"
+  },
+  {
+    "id": "s-081",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Aeropuerto o aeródromo",
+    "imagen": "assets/signs/s-081.png"
+  },
+  {
+    "id": "s-082",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Viento lateral",
+    "imagen": "assets/signs/s-082.png"
+  },
+  {
+    "id": "s-083",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Angostamiento a ambos lados",
+    "imagen": "assets/signs/s-083.png"
+  },
+  {
+    "id": "s-084",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Angostamiento a la derecha",
+    "imagen": "assets/signs/s-084.png"
+  },
+  {
+    "id": "s-085",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Angostamiento a la izquierda",
+    "imagen": "assets/signs/s-085.png"
+  },
+  {
+    "id": "s-086",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Puente angosto",
+    "imagen": "assets/signs/s-086.png"
+  },
+  {
+    "id": "s-087",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Ensanchamiento a ambos lados",
+    "imagen": "assets/signs/s-087.png"
+  },
+  {
+    "id": "s-088",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Ensanchamiento a la derecha",
+    "imagen": "assets/signs/s-088.png"
+  },
+  {
+    "id": "s-089",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Ensanchamiento a la izquierda",
+    "imagen": "assets/signs/s-089.png"
+  },
+  {
+    "id": "s-090",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Peso máximo",
+    "imagen": "assets/signs/s-090.png"
+  },
+  {
+    "id": "s-091",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Altura máxima",
+    "imagen": "assets/signs/s-091.png"
+  },
+  {
+    "id": "s-092",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Ancho máximo",
+    "imagen": "assets/signs/s-092.png"
+  },
+  {
+    "id": "s-093",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Largo máximo",
+    "imagen": "assets/signs/s-093.png"
+  },
+  {
+    "id": "s-094",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Inicio de mediana",
+    "imagen": "assets/signs/s-094.png"
+  },
+  {
+    "id": "s-095",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Proximidad de cables de alta tensión",
+    "imagen": "assets/signs/s-095.png"
+  },
+  {
+    "id": "s-096",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Resalto",
+    "imagen": "assets/signs/s-096.png"
+  },
+  {
+    "id": "s-097",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Ubicación resalto",
+    "imagen": "assets/signs/s-097.png"
+  },
+  {
+    "id": "s-098",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Resaltos sucesivos",
+    "imagen": "assets/signs/s-098.png"
+  },
+  {
+    "id": "s-099",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Badén",
+    "imagen": "assets/signs/s-099.png"
+  },
+  {
+    "id": "s-100",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Proyección de gravilla",
+    "imagen": "assets/signs/s-100.png"
+  },
+  {
+    "id": "s-101",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Zona de avalancha",
+    "imagen": "assets/signs/s-101.png"
+  },
+  {
+    "id": "s-102",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Peligro",
+    "imagen": "assets/signs/s-102.png"
+  },
+  {
+    "id": "s-103",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Barreras",
+    "imagen": "assets/signs/s-103.png"
+  },
+  {
+    "id": "s-104",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Señal fin mediana",
+    "imagen": "assets/signs/s-104.png"
+  },
+  {
+    "id": "s-105",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruce ferroviario a nivel sin barreras",
+    "imagen": "assets/signs/s-105.png"
+  },
+  {
+    "id": "s-106",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruce ferroviario a nivel con barreras",
+    "imagen": "assets/signs/s-106.png"
+  },
+  {
+    "id": "s-107",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruce de San Andrés",
+    "imagen": "assets/signs/s-107.png"
+  },
+  {
+    "id": "s-108",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Proximidad rotonda",
+    "imagen": "assets/signs/s-108.png"
+  },
+  {
+    "id": "s-109",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruces bifurcaciones y convergencias",
+    "imagen": "assets/signs/s-109.png"
+  },
+  {
+    "id": "s-110",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruces bifurcaciones y convergencias",
+    "imagen": "assets/signs/s-110.png"
+  },
+  {
+    "id": "s-111",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruces bifurcaciones y convergencias",
+    "imagen": "assets/signs/s-111.png"
+  },
+  {
+    "id": "s-112",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruces bifurcaciones y convergencias",
+    "imagen": "assets/signs/s-112.png"
+  },
+  {
+    "id": "s-113",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruces bifurcaciones y convergencias",
+    "imagen": "assets/signs/s-113.png"
+  },
+  {
+    "id": "s-114",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruces bifurcaciones y convergencias",
+    "imagen": "assets/signs/s-114.png"
+  },
+  {
+    "id": "s-115",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruces bifurcaciones y convergencias",
+    "imagen": "assets/signs/s-115.png"
+  },
+  {
+    "id": "s-116",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruces bifurcaciones y convergencias",
+    "imagen": "assets/signs/s-116.png"
+  },
+  {
+    "id": "s-117",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruces bifurcaciones y convergencias",
+    "imagen": "assets/signs/s-117.png"
+  },
+  {
+    "id": "s-118",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Dos sentidos de tránsito",
+    "imagen": "assets/signs/s-118.png"
+  },
+  {
+    "id": "s-119",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Ciclistas en la vía",
+    "imagen": "assets/signs/s-119.png"
+  },
+  {
+    "id": "s-120",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Maquinaria agrícola",
+    "imagen": "assets/signs/s-120.png"
+  },
+  {
+    "id": "s-121",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Carretelas en la vía",
+    "imagen": "assets/signs/s-121.png"
+  },
+  {
+    "id": "s-122",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Animales en la vía",
+    "imagen": "assets/signs/s-122.png"
+  },
+  {
+    "id": "s-123",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Animales en la vía",
+    "imagen": "assets/signs/s-123.png"
+  },
+  {
+    "id": "s-124",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Zona de peatones",
+    "imagen": "assets/signs/s-124.png"
+  },
+  {
+    "id": "s-125",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Proximidad de paso de cebra",
+    "imagen": "assets/signs/s-125.png"
+  },
+  {
+    "id": "s-126",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Zona de escuela",
+    "imagen": "assets/signs/s-126.png"
+  },
+  {
+    "id": "s-127",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Niños jugando",
+    "imagen": "assets/signs/s-127.png"
+  },
+  {
+    "id": "s-128",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Proximidad de semáforo",
+    "imagen": "assets/signs/s-128.png"
+  },
+  {
+    "id": "s-129",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Proximidad de señal “Ceda el paso”",
+    "imagen": "assets/signs/s-129.png"
+  },
+  {
+    "id": "s-130",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Proximidad de señal “Pare”",
+    "imagen": "assets/signs/s-130.png"
+  },
+  {
+    "id": "s-131",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Cruce ciclista",
+    "imagen": "assets/signs/s-131.png"
+  },
+  {
+    "id": "s-132",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Salida carro bomberos",
+    "imagen": "assets/signs/s-132.png"
+  },
+  {
+    "id": "s-133",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Zona de derrumbes",
+    "imagen": "assets/signs/s-133.png"
+  },
+  {
+    "id": "s-134",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Pavimento resbaladizo",
+    "imagen": "assets/signs/s-134.png"
+  },
+  {
+    "id": "s-135",
+    "categoria": "Señales de Advertencia de Peligro",
+    "nombre": "Desnivel severo",
+    "imagen": "assets/signs/s-135.png"
+  },
+  {
+    "id": "s-136",
+    "categoria": "Señales Informativas",
+    "nombre": "Ruta alternativa",
+    "imagen": "assets/signs/s-136.png"
+  },
+  {
+    "id": "s-137",
+    "categoria": "Señales Informativas",
+    "nombre": "Salida inmediata",
+    "imagen": "assets/signs/s-137.png"
+  },
+  {
+    "id": "s-138",
+    "categoria": "Señales Informativas",
+    "nombre": "Balizas de acercamiento",
+    "imagen": "assets/signs/s-138.png"
+  },
+  {
+    "id": "s-139",
+    "categoria": "Señales Informativas",
+    "nombre": "Nombre y numeración de calle",
+    "imagen": "assets/signs/s-139.png"
+  },
+  {
+    "id": "s-140",
+    "categoria": "Señales Informativas",
+    "nombre": "De confirmación",
+    "imagen": "assets/signs/s-140.png"
+  },
+  {
+    "id": "s-141",
+    "categoria": "Señales Informativas",
+    "nombre": "De dirección",
+    "imagen": "assets/signs/s-141.png"
+  },
+  {
+    "id": "s-142",
+    "categoria": "Señales Informativas",
+    "nombre": "De localización",
+    "imagen": "assets/signs/s-142.png"
+  },
+  {
+    "id": "s-143",
+    "categoria": "Señales Informativas",
+    "nombre": "Escudo numeración de caminos",
+    "imagen": "assets/signs/s-143.png"
+  },
+  {
+    "id": "s-144",
+    "categoria": "Señales Informativas · Servicios",
+    "nombre": "Aeropuerto",
+    "imagen": "assets/signs/s-144.png"
+  },
+  {
+    "id": "s-145",
+    "categoria": "Señales Informativas · Servicios",
+    "nombre": "Alimentación restaurant",
+    "imagen": "assets/signs/s-145.png"
+  },
+  {
+    "id": "s-146",
+    "categoria": "Señales Informativas · Servicios",
+    "nombre": "Alojamiento",
+    "imagen": "assets/signs/s-146.png"
+  },
+  {
+    "id": "s-147",
+    "categoria": "Señales Informativas · Servicios",
+    "nombre": "Teléfono público",
+    "imagen": "assets/signs/s-147.png"
+  },
+  {
+    "id": "s-148",
+    "categoria": "Señales Informativas · Servicios",
+    "nombre": "Primeros auxilios hospital",
+    "imagen": "assets/signs/s-148.png"
+  },
+  {
+    "id": "s-149",
+    "categoria": "Señales Informativas · Servicios",
+    "nombre": "Servicios higiénicos",
+    "imagen": "assets/signs/s-149.png"
+  },
+  {
+    "id": "s-150",
+    "categoria": "Señales Informativas · Atractivo turístico",
+    "nombre": "Acantilado",
+    "imagen": "assets/signs/s-150.png"
+  },
+  {
+    "id": "s-151",
+    "categoria": "Señales Informativas · Atractivo turístico",
+    "nombre": "Casino",
+    "imagen": "assets/signs/s-151.png"
+  },
+  {
+    "id": "s-152",
+    "categoria": "Señales Informativas · Atractivo turístico",
+    "nombre": "Cabalgata",
+    "imagen": "assets/signs/s-152.png"
+  },
+  {
+    "id": "s-153",
+    "categoria": "Señales Informativas · Atractivo turístico",
+    "nombre": "Artesanía",
+    "imagen": "assets/signs/s-153.png"
+  },
+  {
+    "id": "s-154",
+    "categoria": "Señales Informativas · Atractivo turístico",
+    "nombre": "Buseo",
+    "imagen": "assets/signs/s-154.png"
+  },
+  {
+    "id": "s-155",
+    "categoria": "Señales Informativas · Atractivo turístico",
+    "nombre": "Canopy/tirolesa",
+    "imagen": "assets/signs/s-155.png"
+  },
+  {
+    "id": "s-156",
+    "categoria": "Señales Informativas · Autopistas",
+    "nombre": "Salida lateral derecha",
+    "imagen": "assets/signs/s-156.png"
+  },
+  {
+    "id": "s-157",
+    "categoria": "Señales Informativas · Autopistas",
+    "nombre": "Inicio de autopista",
+    "imagen": "assets/signs/s-157.png"
+  },
+  {
+    "id": "s-158",
+    "categoria": "Señales Informativas · Autopistas",
+    "nombre": "Fin de autopista",
+    "imagen": "assets/signs/s-158.png"
+  },
+  {
+    "id": "s-159",
+    "categoria": "Señales Informativas · Autopistas",
+    "nombre": "Retorno en autopista",
+    "imagen": "assets/signs/s-159.png"
+  },
+  {
+    "id": "s-160",
+    "categoria": "Señales Informativas · Autopistas",
+    "nombre": "Teléfono de emergencia",
+    "imagen": "assets/signs/s-160.png"
+  },
+  {
+    "id": "s-161",
+    "categoria": "Señales Informativas · Autopistas",
+    "nombre": "Autopista con televía o sistema complementario",
+    "imagen": "assets/signs/s-161.png"
+  },
+  {
+    "id": "s-162",
+    "categoria": "Señales Informativas · Otras informaciones",
+    "nombre": "Estacionamiento permitido",
+    "imagen": "assets/signs/s-162.png"
+  },
+  {
+    "id": "s-163",
+    "categoria": "Señales Informativas · Otras informaciones",
+    "nombre": "Plaza de peaje",
+    "imagen": "assets/signs/s-163.png"
+  },
+  {
+    "id": "s-164",
+    "categoria": "Señales Informativas · Otras informaciones",
+    "nombre": "Parada mixta",
+    "imagen": "assets/signs/s-164.png"
+  },
+  {
+    "id": "s-165",
+    "categoria": "Señales Informativas · Otras informaciones",
+    "nombre": "Pista solo buses",
+    "imagen": "assets/signs/s-165.png"
+  },
+  {
+    "id": "s-166",
+    "categoria": "Señales Informativas · Otras informaciones",
+    "nombre": "Control fotográfico",
+    "imagen": "assets/signs/s-166.png"
+  },
+  {
+    "id": "s-167",
+    "categoria": "Señales Informativas · Otras informaciones",
+    "nombre": "Control con cámara",
+    "imagen": "assets/signs/s-167.png"
+  },
+  {
+    "id": "s-168",
+    "categoria": "Señales Informativas · Otras informaciones",
+    "nombre": "Zona espera especial ciclos",
+    "imagen": "assets/signs/s-168.png"
+  },
+  {
+    "id": "s-169",
+    "categoria": "Señales Informativas · Otras informaciones",
+    "nombre": "Zona espera especial ciclos",
+    "imagen": "assets/signs/s-169.png"
+  },
+  {
+    "id": "s-170",
+    "categoria": "Señales Informativas · Otras informaciones",
+    "nombre": "Zona de espera adelantada motos",
+    "imagen": "assets/signs/s-170.png"
+  },
+  {
+    "id": "s-171",
+    "categoria": "Señales Informativas · Otras informaciones",
+    "nombre": "Zona de espera adelantada motos",
+    "imagen": "assets/signs/s-171.png"
+  },
+  {
+    "id": "s-172",
+    "categoria": "Señales Informativas · Ciclistas",
+    "nombre": "Zona 30",
+    "imagen": "assets/signs/s-172.png"
+  },
+  {
+    "id": "s-173",
+    "categoria": "Señales Informativas · Ciclistas",
+    "nombre": "Fin zona 30",
+    "imagen": "assets/signs/s-173.png"
+  },
+  {
+    "id": "s-174",
+    "categoria": "Señales Informativas · Ciclistas",
+    "nombre": "Solo bicicletas",
+    "imagen": "assets/signs/s-174.png"
+  },
+  {
+    "id": "s-175",
+    "categoria": "Señales Informativas · Ciclistas",
+    "nombre": "Inicio ciclobanda",
+    "imagen": "assets/signs/s-175.png"
+  },
+  {
+    "id": "s-176",
+    "categoria": "Señales Informativas · Ciclistas",
+    "nombre": "Fin ciclobanda",
+    "imagen": "assets/signs/s-176.png"
+  },
+  {
+    "id": "s-177",
+    "categoria": "Señales Informativas · Ciclistas",
+    "nombre": "Fin ciclovía",
+    "imagen": "assets/signs/s-177.png"
+  },
+  {
+    "id": "s-178",
+    "categoria": "Señales Informativas · Ciclistas",
+    "nombre": "Ciclocalle",
+    "imagen": "assets/signs/s-178.png"
+  },
+  {
+    "id": "s-179",
+    "categoria": "Señales Informativas · Ciclistas",
+    "nombre": "Superficie segregada motorizados-ciclos",
+    "imagen": "assets/signs/s-179.png"
+  },
+  {
+    "id": "s-180",
+    "categoria": "Señales Informativas · Ciclistas",
+    "nombre": "Superficie segregada motorizados-ciclos",
+    "imagen": "assets/signs/s-180.png"
+  },
+  {
+    "id": "s-181",
+    "categoria": "Señales Informativas · Ciclistas",
+    "nombre": "Zona espera especial ciclos",
+    "imagen": "assets/signs/s-181.png"
+  },
+  {
+    "id": "s-182",
+    "categoria": "Señales Informativas · Ciclistas",
+    "nombre": "Zona espera especial ciclos",
+    "imagen": "assets/signs/s-182.png"
+  },
+  {
+    "id": "s-183",
+    "categoria": "Señales Transitorias",
+    "nombre": "Trabajos en la vía",
+    "imagen": "assets/signs/s-183.png"
+  },
+  {
+    "id": "s-184",
+    "categoria": "Señales Transitorias",
+    "nombre": "Fin trabajos en la vía",
+    "imagen": "assets/signs/s-184.png"
+  },
+  {
+    "id": "s-185",
+    "categoria": "Señales Transitorias",
+    "nombre": "Banderero",
+    "imagen": "assets/signs/s-185.png"
+  },
+  {
+    "id": "s-186",
+    "categoria": "Señales Transitorias",
+    "nombre": "Tránsito de maquinaria",
+    "imagen": "assets/signs/s-186.png"
+  },
+  {
+    "id": "s-187",
+    "categoria": "Señales Transitorias",
+    "nombre": "Curva a la derecha",
+    "imagen": "assets/signs/s-187.png"
+  },
+  {
+    "id": "s-188",
+    "categoria": "Señales Transitorias",
+    "nombre": "Curva muy cerrada a la izquierda",
+    "imagen": "assets/signs/s-188.png"
+  },
+  {
+    "id": "s-189",
+    "categoria": "Señales Transitorias",
+    "nombre": "Badén",
+    "imagen": "assets/signs/s-189.png"
+  },
+  {
+    "id": "s-190",
+    "categoria": "Señales Transitorias",
+    "nombre": "Ancho máximo",
+    "imagen": "assets/signs/s-190.png"
+  },
+  {
+    "id": "s-191",
+    "categoria": "Señales Transitorias",
+    "nombre": "Zona de derrumbes",
+    "imagen": "assets/signs/s-191.png"
+  },
+  {
+    "id": "s-192",
+    "categoria": "Señales Transitorias",
+    "nombre": "Proyección de gravilla",
+    "imagen": "assets/signs/s-192.png"
+  },
+  {
+    "id": "s-193",
+    "categoria": "Señales Transitorias",
+    "nombre": "Peligro",
+    "imagen": "assets/signs/s-193.png"
+  },
+  {
+    "id": "s-194",
+    "categoria": "Señales Transitorias",
+    "nombre": "Desvío",
+    "imagen": "assets/signs/s-194.png"
+  },
+  {
+    "id": "s-195",
+    "categoria": "Señales Transitorias",
+    "nombre": "Proximidad de desvío",
+    "imagen": "assets/signs/s-195.png"
+  },
+  {
+    "id": "s-196",
+    "categoria": "Señales Transitorias",
+    "nombre": "Fin de desvío",
+    "imagen": "assets/signs/s-196.png"
+  }
+]

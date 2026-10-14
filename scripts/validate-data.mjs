@@ -30,14 +30,32 @@ export function validateQuestions(list, { imageExists = () => true, chapterSlugs
   return errors;
 }
 
+export function validateSigns(list, { imageExists = () => true } = {}) {
+  if (!Array.isArray(list) || list.length === 0) return ['signs: expected a non-empty array'];
+  const errors = [];
+  const seen = new Set();
+  list.forEach((raw, i) => {
+    const s = raw ?? {};
+    const fail = (msg) => errors.push(`sign[${i}]${s.id ? ` (${s.id})` : ''}: ${msg}`);
+    if (!isText(s.id)) fail('missing id');
+    else if (seen.has(s.id)) fail('duplicate id');
+    else seen.add(s.id);
+    if (!isText(s.nombre)) fail('missing nombre');
+    if (!isText(s.categoria)) fail('missing categoria');
+    if (!(isText(s.imagen) && imageExists(s.imagen))) fail(`image not found: ${s.imagen}`);
+  });
+  return errors;
+}
+
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const root = new URL('../', import.meta.url);
   const read = (p) => JSON.parse(readFileSync(new URL(p, root), 'utf8'));
   const chapters = read('content/libro/index.json');
-  const errors = validateQuestions(read('data/preguntas.json'), {
-    imageExists: (p) => existsSync(new URL(p, root)),
-    chapterSlugs: chapters.map((c) => c.slug),
-  });
+  const imageExists = (p) => existsSync(new URL(p, root));
+  const errors = [
+    ...validateQuestions(read('data/preguntas.json'), { imageExists, chapterSlugs: chapters.map((c) => c.slug) }),
+    ...validateSigns(read('data/senales.json'), { imageExists }),
+  ];
   if (errors.length) {
     console.error(errors.join('\n'));
     process.exit(1);

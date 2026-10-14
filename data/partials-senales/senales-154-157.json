@@ -1,0 +1,805 @@
+[
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Angostamiento a ambos lados",
+  "bbox": [
+   91,
+   158,
+   250,
+   290
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Angostamiento a la derecha",
+  "bbox": [
+   282,
+   158,
+   442,
+   290
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Angostamiento a la izquierda",
+  "bbox": [
+   474,
+   158,
+   633,
+   290
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Puente angosto",
+  "bbox": [
+   665,
+   158,
+   824,
+   290
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Ensanchamiento a ambos lados",
+  "bbox": [
+   856,
+   158,
+   1016,
+   290
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Ensanchamiento a la derecha",
+  "bbox": [
+   91,
+   383,
+   250,
+   515
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Ensanchamiento a la izquierda",
+  "bbox": [
+   282,
+   383,
+   442,
+   515
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Peso máximo",
+  "bbox": [
+   474,
+   383,
+   633,
+   515
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Altura máxima",
+  "bbox": [
+   665,
+   383,
+   824,
+   515
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Ancho máximo",
+  "bbox": [
+   856,
+   383,
+   1016,
+   515
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Largo máximo",
+  "bbox": [
+   91,
+   609,
+   250,
+   741
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Inicio de mediana",
+  "bbox": [
+   282,
+   609,
+   442,
+   741
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Proximidad de cables de alta tensión",
+  "bbox": [
+   474,
+   609,
+   633,
+   741
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Resalto",
+  "bbox": [
+   665,
+   609,
+   824,
+   741
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Ubicación resalto",
+  "bbox": [
+   856,
+   609,
+   1016,
+   741
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Resaltos sucesivos",
+  "bbox": [
+   91,
+   847,
+   250,
+   979
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Badén",
+  "bbox": [
+   282,
+   847,
+   442,
+   979
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Proyección de gravilla",
+  "bbox": [
+   474,
+   847,
+   633,
+   979
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Zona de avalancha",
+  "bbox": [
+   665,
+   847,
+   824,
+   979
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Peligro",
+  "bbox": [
+   856,
+   847,
+   1016,
+   979
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Barreras",
+  "bbox": [
+   91,
+   1073,
+   250,
+   1205
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Señal fin mediana",
+  "bbox": [
+   282,
+   1073,
+   442,
+   1205
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruce ferroviario a nivel sin barreras",
+  "bbox": [
+   474,
+   1073,
+   633,
+   1205
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruce ferroviario a nivel con barreras",
+  "bbox": [
+   665,
+   1073,
+   824,
+   1205
+  ]
+ },
+ {
+  "page": 154,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruce de San Andrés",
+  "bbox": [
+   856,
+   1073,
+   1016,
+   1205
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Proximidad rotonda",
+  "bbox": [
+   91,
+   158,
+   250,
+   290
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruces bifurcaciones y convergencias",
+  "bbox": [
+   282,
+   158,
+   442,
+   290
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruces bifurcaciones y convergencias",
+  "bbox": [
+   474,
+   158,
+   633,
+   290
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruces bifurcaciones y convergencias",
+  "bbox": [
+   665,
+   158,
+   824,
+   290
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruces bifurcaciones y convergencias",
+  "bbox": [
+   856,
+   158,
+   1016,
+   290
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruces bifurcaciones y convergencias",
+  "bbox": [
+   91,
+   399,
+   250,
+   531
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruces bifurcaciones y convergencias",
+  "bbox": [
+   282,
+   399,
+   442,
+   531
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruces bifurcaciones y convergencias",
+  "bbox": [
+   474,
+   399,
+   633,
+   531
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruces bifurcaciones y convergencias",
+  "bbox": [
+   665,
+   399,
+   824,
+   531
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruces bifurcaciones y convergencias",
+  "bbox": [
+   856,
+   399,
+   1016,
+   531
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Dos sentidos de tránsito",
+  "bbox": [
+   91,
+   642,
+   250,
+   774
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Ciclistas en la vía",
+  "bbox": [
+   282,
+   642,
+   442,
+   774
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Maquinaria agrícola",
+  "bbox": [
+   474,
+   642,
+   633,
+   774
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Carretelas en la vía",
+  "bbox": [
+   665,
+   642,
+   824,
+   774
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Animales en la vía",
+  "bbox": [
+   856,
+   642,
+   1016,
+   774
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Animales en la vía",
+  "bbox": [
+   91,
+   869,
+   250,
+   1001
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Zona de peatones",
+  "bbox": [
+   282,
+   869,
+   442,
+   1001
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Proximidad de paso de cebra",
+  "bbox": [
+   474,
+   869,
+   633,
+   1001
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Zona de escuela",
+  "bbox": [
+   665,
+   869,
+   824,
+   1001
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Niños jugando",
+  "bbox": [
+   856,
+   869,
+   1016,
+   1001
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Proximidad de semáforo",
+  "bbox": [
+   91,
+   1096,
+   250,
+   1228
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Proximidad de señal “Ceda el paso”",
+  "bbox": [
+   282,
+   1096,
+   442,
+   1228
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Proximidad de señal “Pare”",
+  "bbox": [
+   474,
+   1096,
+   633,
+   1228
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Cruce ciclista",
+  "bbox": [
+   665,
+   1096,
+   824,
+   1228
+  ]
+ },
+ {
+  "page": 155,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Salida carro bomberos",
+  "bbox": [
+   856,
+   1096,
+   1016,
+   1228
+  ]
+ },
+ {
+  "page": 156,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Zona de derrumbes",
+  "bbox": [
+   91,
+   158,
+   250,
+   290
+  ]
+ },
+ {
+  "page": 156,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Pavimento resbaladizo",
+  "bbox": [
+   282,
+   158,
+   442,
+   290
+  ]
+ },
+ {
+  "page": 156,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Desnivel severo",
+  "bbox": [
+   474,
+   158,
+   633,
+   290
+  ]
+ },
+ {
+  "page": 156,
+  "categoria": "Señales Informativas",
+  "nombre": "Ruta alternativa",
+  "bbox": [
+   92,
+   561,
+   300,
+   750
+  ]
+ },
+ {
+  "page": 156,
+  "categoria": "Señales Informativas",
+  "nombre": "Salida inmediata",
+  "bbox": [
+   332,
+   561,
+   541,
+   750
+  ]
+ },
+ {
+  "page": 156,
+  "categoria": "Señales Informativas",
+  "nombre": "Balizas de acercamiento",
+  "bbox": [
+   571,
+   561,
+   780,
+   750
+  ]
+ },
+ {
+  "page": 156,
+  "categoria": "Señales Informativas",
+  "nombre": "Nombre y numeración de calle",
+  "bbox": [
+   805,
+   561,
+   1014,
+   750
+  ]
+ },
+ {
+  "page": 156,
+  "categoria": "Señales Informativas",
+  "nombre": "De confirmación",
+  "bbox": [
+   92,
+   844,
+   300,
+   1005
+  ]
+ },
+ {
+  "page": 156,
+  "categoria": "Señales Informativas",
+  "nombre": "De dirección",
+  "bbox": [
+   332,
+   844,
+   541,
+   1005
+  ]
+ },
+ {
+  "page": 156,
+  "categoria": "Señales Informativas",
+  "nombre": "De localización",
+  "bbox": [
+   571,
+   844,
+   780,
+   1005
+  ]
+ },
+ {
+  "page": 156,
+  "categoria": "Señales Informativas",
+  "nombre": "Escudo numeración de caminos",
+  "bbox": [
+   805,
+   844,
+   1014,
+   1005
+  ]
+ },
+ {
+  "page": 157,
+  "categoria": "Señales Informativas · Servicios",
+  "nombre": "Aeropuerto",
+  "bbox": [
+   92,
+   234,
+   251,
+   366
+  ]
+ },
+ {
+  "page": 157,
+  "categoria": "Señales Informativas · Servicios",
+  "nombre": "Alimentación restaurant",
+  "bbox": [
+   283,
+   234,
+   442,
+   366
+  ]
+ },
+ {
+  "page": 157,
+  "categoria": "Señales Informativas · Servicios",
+  "nombre": "Alojamiento",
+  "bbox": [
+   474,
+   234,
+   634,
+   366
+  ]
+ },
+ {
+  "page": 157,
+  "categoria": "Señales Informativas · Servicios",
+  "nombre": "Teléfono público",
+  "bbox": [
+   666,
+   234,
+   825,
+   366
+  ]
+ },
+ {
+  "page": 157,
+  "categoria": "Señales Informativas · Servicios",
+  "nombre": "Primeros auxilios hospital",
+  "bbox": [
+   857,
+   234,
+   1017,
+   366
+  ]
+ },
+ {
+  "page": 157,
+  "categoria": "Señales Informativas · Servicios",
+  "nombre": "Servicios higiénicos",
+  "bbox": [
+   92,
+   460,
+   251,
+   592
+  ]
+ },
+ {
+  "page": 157,
+  "categoria": "Señales Informativas · Atractivo turístico",
+  "nombre": "Acantilado",
+  "bbox": [
+   283,
+   460,
+   442,
+   592
+  ]
+ },
+ {
+  "page": 157,
+  "categoria": "Señales Informativas · Atractivo turístico",
+  "nombre": "Casino",
+  "bbox": [
+   474,
+   460,
+   634,
+   592
+  ]
+ },
+ {
+  "page": 157,
+  "categoria": "Señales Informativas · Atractivo turístico",
+  "nombre": "Cabalgata",
+  "bbox": [
+   666,
+   460,
+   825,
+   592
+  ]
+ },
+ {
+  "page": 157,
+  "categoria": "Señales Informativas · Atractivo turístico",
+  "nombre": "Artesanía",
+  "bbox": [
+   857,
+   460,
+   1017,
+   592
+  ]
+ },
+ {
+  "page": 157,
+  "categoria": "Señales Informativas · Atractivo turístico",
+  "nombre": "Buseo",
+  "bbox": [
+   92,
+   685,
+   251,
+   817
+  ]
+ },
+ {
+  "page": 157,
+  "categoria": "Señales Informativas · Atractivo turístico",
+  "nombre": "Canopy/tirolesa",
+  "bbox": [
+   283,
+   685,
+   442,
+   817
+  ]
+ }
+]

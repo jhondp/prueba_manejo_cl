@@ -67,13 +67,13 @@ main { flex: 1; min-width: 0; padding: 1.5rem 1.25rem 6rem; }
 @media (min-width: 900px) {
   .nav { position: sticky; top: 0; height: 100vh; width: 240px; flex-direction: column; padding: 1.5rem 1rem; }
   main { padding-bottom: 3rem; }
-  .stats { grid-template-columns: repeat(4, 1fr); }
+  .stats { grid-template-columns: repeat(5, 1fr); }
 }
 /* Phone: bottom tabs */
 @media (max-width: 899px) {
   body { flex-direction: column; }
   .nav { position: fixed; inset: auto 0 0 0; z-index: 10; justify-content: space-around; padding: .4rem .5rem calc(.4rem + env(safe-area-inset-bottom)); }
   .nav .brand { display: none; }
-  .nav a { padding: .6rem .5rem; font-size: .8rem; text-align: center; flex: 1; }
+  .nav a { padding: .6rem .2rem; font-size: .72rem; text-align: center; flex: 1; }
 }
 @media (prefers-reduced-motion: no-preference) { .btn, .option, .card { transition: background .15s, border-color .15s; } }

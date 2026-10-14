@@ -2,22 +2,23 @@ import { h } from './dom.js';
 import { startRouter } from './router.js';
 import { createStore, idbBackend, memoryBackend, safeBackend } from './store.js';
 import { homeView } from './views/home.js';
-import { cardsView } from './views/cards.js';
+import { cardsView, signsView } from './views/cards.js';
 import { quizView } from './views/quiz.js';
 import { resultsView } from './views/results.js';
 import { bookView } from './views/book.js';
 import { settingsView } from './views/settings.js';
 
-const NAV = [['inicio', 'Inicio'], ['tarjetas', 'Tarjetas'], ['quiz', 'Quiz'], ['resultados', 'Resultados'], ['libro', 'Libro']];
-const VIEWS = { inicio: homeView, tarjetas: cardsView, quiz: quizView, resultados: resultsView, libro: bookView, ajustes: settingsView };
+const NAV = [['inicio', 'Inicio'], ['tarjetas', 'Tarjetas'], ['senales', 'Señales'], ['quiz', 'Quiz'], ['resultados', 'Resultados'], ['libro', 'Libro']];
+const VIEWS = { inicio: homeView, tarjetas: cardsView, senales: signsView, quiz: quizView, resultados: resultsView, libro: bookView, ajustes: settingsView };
 
 async function boot() {
-  const [questions, chapters] = await Promise.all([
+  const [questions, signs, chapters] = await Promise.all([
     fetch('data/preguntas.json').then((r) => r.json()),
+    fetch('data/senales.json').then((r) => r.json()),
     fetch('content/libro/index.json').then((r) => r.json()),
   ]);
   const backend = safeBackend(idbBackend(), memoryBackend());
-  const ctx = { questions, chapters, store: createStore(backend), now: () => Date.now(), degraded: () => backend.degraded };
+  const ctx = { questions, signs, chapters, store: createStore(backend), now: () => Date.now(), degraded: () => backend.degraded };
 
   const main = h('main', { id: 'main', tabindex: '-1' });
   const nav = h('nav', { class: 'nav', 'aria-label': 'Principal' },

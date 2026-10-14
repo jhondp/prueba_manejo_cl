@@ -1,0 +1,905 @@
+[
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Pare",
+  "bbox": [
+   93,
+   551,
+   253,
+   685
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Ceda el paso",
+  "bbox": [
+   285,
+   551,
+   444,
+   685
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Pare niños",
+  "bbox": [
+   474,
+   551,
+   633,
+   685
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "No entrar",
+  "bbox": [
+   665,
+   551,
+   825,
+   685
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "No virar izquierda",
+  "bbox": [
+   856,
+   551,
+   1016,
+   685
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "No virar derecha",
+  "bbox": [
+   92,
+   776,
+   252,
+   907
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "No virar en U",
+  "bbox": [
+   284,
+   776,
+   443,
+   907
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "No adelantar",
+  "bbox": [
+   475,
+   776,
+   634,
+   907
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "No cambiar de pista",
+  "bbox": [
+   667,
+   776,
+   827,
+   907
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Preferencia ciclistas al virar derecha",
+  "bbox": [
+   858,
+   776,
+   1017,
+   907
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Preferencia ciclistas al virar izquierda",
+  "bbox": [
+   91,
+   1017,
+   250,
+   1148
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Preferencia ciclistas al cambiar de pista",
+  "bbox": [
+   282,
+   1017,
+   441,
+   1148
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Preferencia ciclistas al cambiar de pista",
+  "bbox": [
+   474,
+   1017,
+   633,
+   1148
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Prohibida circulación de vehículos de carga",
+  "bbox": [
+   664,
+   1017,
+   824,
+   1148
+  ]
+ },
+ {
+  "page": 150,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Prohibida circulación de vehículos motorizados",
+  "bbox": [
+   858,
+   1017,
+   1017,
+   1148
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Prohibida circulación de carros de mano",
+  "bbox": [
+   90,
+   158,
+   250,
+   288
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Prohibida circulación de buses",
+  "bbox": [
+   281,
+   158,
+   441,
+   288
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Prohibida circulación de bicicletas",
+  "bbox": [
+   473,
+   158,
+   632,
+   288
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Prohibida circulación de motocicletas",
+  "bbox": [
+   664,
+   158,
+   823,
+   288
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Prohibida circulación de maquinaria agrícola",
+  "bbox": [
+   855,
+   158,
+   1015,
+   288
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Prohibida circulación de vehículos de tracción animal",
+  "bbox": [
+   90,
+   417,
+   250,
+   547
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Silencio",
+  "bbox": [
+   281,
+   417,
+   441,
+   547
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "No bloquear cruce",
+  "bbox": [
+   473,
+   417,
+   632,
+   547
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Prohibido estacionar y detenerse",
+  "bbox": [
+   664,
+   417,
+   823,
+   547
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Prohibido estacionar",
+  "bbox": [
+   855,
+   417,
+   1015,
+   547
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Prohibido estacionar",
+  "bbox": [
+   90,
+   677,
+   250,
+   809
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "No peatones",
+  "bbox": [
+   281,
+   677,
+   441,
+   809
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Velocidad máxima",
+  "bbox": [
+   473,
+   677,
+   632,
+   809
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Velocidad mínima",
+  "bbox": [
+   664,
+   677,
+   823,
+   809
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Velocidad máxima zona 30",
+  "bbox": [
+   855,
+   677,
+   1015,
+   809
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Largo máximo",
+  "bbox": [
+   90,
+   903,
+   250,
+   1036
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Peso máximo permitido",
+  "bbox": [
+   281,
+   903,
+   441,
+   1036
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Peso máximo por eje",
+  "bbox": [
+   473,
+   903,
+   632,
+   1036
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Altura máxima",
+  "bbox": [
+   664,
+   903,
+   823,
+   1036
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Ancho máximo",
+  "bbox": [
+   855,
+   903,
+   1015,
+   1036
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Fin prohibición o restricción",
+  "bbox": [
+   90,
+   1128,
+   250,
+   1259
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Solo televía o sistema complementario",
+  "bbox": [
+   281,
+   1128,
+   441,
+   1259
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Tránsito en un solo sentido",
+  "bbox": [
+   473,
+   1128,
+   632,
+   1259
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Tránsito en ambos sentidos",
+  "bbox": [
+   664,
+   1128,
+   823,
+   1259
+  ]
+ },
+ {
+  "page": 151,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Tránsito peatonal",
+  "bbox": [
+   855,
+   1128,
+   1015,
+   1259
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Tránsito de peatones",
+  "bbox": [
+   90,
+   165,
+   250,
+   296
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Mantenga su derecha",
+  "bbox": [
+   281,
+   165,
+   441,
+   296
+  ],
+  "duda": "Caption printed as MATENGA (typo for Mantenga); kept verbatim"
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Vehículo pesado mantenga su derecha",
+  "bbox": [
+   473,
+   165,
+   632,
+   296
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Dirección obligada",
+  "bbox": [
+   664,
+   165,
+   823,
+   296
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Preferencia al sentido contrario",
+  "bbox": [
+   855,
+   165,
+   1015,
+   296
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Circulación en ambos sentidos",
+  "bbox": [
+   90,
+   405,
+   250,
+   537
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Minirrotonda",
+  "bbox": [
+   281,
+   405,
+   441,
+   537
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Paso obligado derecha",
+  "bbox": [
+   473,
+   405,
+   632,
+   537
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Paso obligado izquierda",
+  "bbox": [
+   664,
+   405,
+   823,
+   537
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Paso vértice",
+  "bbox": [
+   855,
+   405,
+   1015,
+   537
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Control",
+  "bbox": [
+   90,
+   630,
+   250,
+   762
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Uso obligatorio de cadenas",
+  "bbox": [
+   281,
+   630,
+   441,
+   762
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Luces encendidas",
+  "bbox": [
+   473,
+   630,
+   632,
+   762
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Solo motocicletas",
+  "bbox": [
+   664,
+   630,
+   823,
+   762
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Vía segregada buses",
+  "bbox": [
+   855,
+   630,
+   1015,
+   762
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Vía segregada buses",
+  "bbox": [
+   90,
+   856,
+   250,
+   987
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Solo transporte público",
+  "bbox": [
+   281,
+   856,
+   441,
+   987
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Superficie segregada motorizados - ciclos",
+  "bbox": [
+   473,
+   856,
+   632,
+   987
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Superficie segregada peatones-ciclos",
+  "bbox": [
+   664,
+   856,
+   823,
+   987
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Reservado",
+  "bbox": [
+   855,
+   856,
+   1015,
+   987
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Permitido virar derecha con luz roja",
+  "bbox": [
+   90,
+   1113,
+   250,
+   1245
+  ]
+ },
+ {
+  "page": 152,
+  "categoria": "Señales Reglamentarias",
+  "nombre": "Permitido virar izquierda con luz roja",
+  "bbox": [
+   281,
+   1113,
+   441,
+   1245
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Curva a la derecha",
+  "bbox": [
+   90,
+   314,
+   250,
+   446
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Curva a la izquierda",
+  "bbox": [
+   281,
+   314,
+   441,
+   446
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Curva cerrada a la derecha",
+  "bbox": [
+   473,
+   314,
+   632,
+   446
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Curva cerrada a la izquierda",
+  "bbox": [
+   664,
+   314,
+   823,
+   446
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Zona de curvas a la derecha",
+  "bbox": [
+   855,
+   314,
+   1015,
+   446
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Zona de curvas a la izquierda",
+  "bbox": [
+   90,
+   539,
+   250,
+   672
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Curva y contracurva a la derecha",
+  "bbox": [
+   281,
+   539,
+   441,
+   672
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Curva y contracurva a la izquierda",
+  "bbox": [
+   473,
+   539,
+   632,
+   672
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Curva y contracurva cerrada a la derecha",
+  "bbox": [
+   664,
+   539,
+   823,
+   672
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Curva y contracurva cerrada a la izquierda",
+  "bbox": [
+   855,
+   539,
+   1015,
+   672
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Curva muy cerrada a la derecha",
+  "bbox": [
+   90,
+   802,
+   250,
+   933
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Curva muy cerrada a la izquierda",
+  "bbox": [
+   281,
+   802,
+   441,
+   933
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Pendiente fuerte en bajada",
+  "bbox": [
+   473,
+   802,
+   632,
+   933
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Pendiente fuerte en bajada",
+  "bbox": [
+   664,
+   802,
+   823,
+   933
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Proximidad de túnel",
+  "bbox": [
+   855,
+   802,
+   1015,
+   933
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Pendiente fuerte en subida",
+  "bbox": [
+   90,
+   1026,
+   250,
+   1158
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Pendiente fuerte en subida",
+  "bbox": [
+   281,
+   1026,
+   441,
+   1158
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Ribera sin protección",
+  "bbox": [
+   473,
+   1026,
+   632,
+   1158
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Aeropuerto o aeródromo",
+  "bbox": [
+   664,
+   1026,
+   823,
+   1158
+  ]
+ },
+ {
+  "page": 153,
+  "categoria": "Señales de Advertencia de Peligro",
+  "nombre": "Viento lateral",
+  "bbox": [
+   855,
+   1026,
+   1015,
+   1158
+  ]
+ }
+]
