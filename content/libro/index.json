@@ -1,0 +1,212 @@
+[
+  {
+    "slug": "libro-presentacion",
+    "title": "Presentación",
+    "file": "10-presentacion.md"
+  },
+  {
+    "slug": "libro-cap1-siniestros-de-transito",
+    "title": "Los siniestros de tránsito",
+    "file": "11-los-siniestros-de-transito.md"
+  },
+  {
+    "slug": "libro-cap2-funcionamiento-del-automovil",
+    "title": "Los principios de la conducción: Funcionamiento del automóvil",
+    "file": "12-funcionamiento-del-automovil.md"
+  },
+  {
+    "slug": "libro-cap2-energia-y-leyes-fisicas",
+    "title": "Los principios de la conducción: La energía y las leyes físicas",
+    "file": "13-energia-y-leyes-fisicas.md"
+  },
+  {
+    "slug": "libro-cap2-elementos-de-seguridad",
+    "title": "Los principios de la conducción: Elementos de seguridad",
+    "file": "14-elementos-de-seguridad.md"
+  },
+  {
+    "slug": "libro-cap3-convivencia-vial",
+    "title": "Convivencia Vial",
+    "file": "15-convivencia-vial.md"
+  },
+  {
+    "slug": "la-persona-en-el-transito",
+    "title": "La persona en el tránsito",
+    "file": "20-la-persona-en-el-transito.md"
+  },
+  {
+    "slug": "equilibrio-emocional",
+    "title": "La conducción segura requiere equilibrio emocional",
+    "file": "21-equilibrio-emocional.md"
+  },
+  {
+    "slug": "conductas-que-implican-riesgos",
+    "title": "Conductas que implican riesgos",
+    "file": "22-conductas-que-implican-riesgos.md"
+  },
+  {
+    "slug": "alcohol-en-la-conduccion",
+    "title": "Sobre el alcohol en la conducción",
+    "file": "23-alcohol-en-la-conduccion.md"
+  },
+  {
+    "slug": "drogas-y-estupefacientes",
+    "title": "Las drogas y estupefacientes",
+    "file": "24-drogas-y-estupefacientes.md"
+  },
+  {
+    "slug": "enfermedades-en-la-conduccion",
+    "title": "Enfermedades que pueden afectar a la conducción",
+    "file": "25-enfermedades-en-la-conduccion.md"
+  },
+  {
+    "slug": "medicamentos-y-conduccion",
+    "title": "Medicamentos que pueden afectar a la conducción",
+    "file": "26-medicamentos-y-conduccion.md"
+  },
+  {
+    "slug": "cansancio-sueno-y-fatiga",
+    "title": "Cansancio, sueño y fatiga",
+    "file": "27-cansancio-sueno-y-fatiga.md"
+  },
+  {
+    "slug": "usuarios-vulnerables",
+    "title": "Las y los usuarios vulnerables",
+    "file": "28-usuarios-vulnerables.md"
+  },
+  {
+    "slug": "ninas-y-ninos-en-el-automovil",
+    "title": "Niñas y niños en el automóvil",
+    "file": "29-ninas-y-ninos-en-el-automovil.md"
+  },
+  {
+    "slug": "normas-de-circulacion",
+    "title": "Normas de circulación",
+    "file": "30-normas-de-circulacion.md"
+  },
+  {
+    "slug": "los-semaforos",
+    "title": "Los semáforos",
+    "file": "31-los-semaforos.md"
+  },
+  {
+    "slug": "senales-de-transito",
+    "title": "Señales de tránsito",
+    "file": "32-senales-de-transito.md"
+  },
+  {
+    "slug": "las-reglas-del-transito",
+    "title": "Las reglas del tránsito",
+    "file": "33-las-reglas-del-transito.md"
+  },
+  {
+    "slug": "la-velocidad",
+    "title": "La velocidad",
+    "file": "34-la-velocidad.md"
+  },
+  {
+    "slug": "encuentros-y-adelantamientos",
+    "title": "Encuentros y adelantamientos",
+    "file": "35-encuentros-y-adelantamientos.md"
+  },
+  {
+    "slug": "estacionamiento-y-detencion",
+    "title": "Estacionamiento y detención",
+    "file": "36-estacionamiento-y-detencion.md"
+  },
+  {
+    "slug": "cruces-ferroviarios",
+    "title": "Cruces ferroviarios",
+    "file": "37-cruces-ferroviarios.md"
+  },
+  {
+    "slug": "conduccion-en-la-oscuridad",
+    "title": "Conducción en la oscuridad",
+    "file": "40-conduccion-en-la-oscuridad.md"
+  },
+  {
+    "slug": "conduccion-con-carga",
+    "title": "Conducción con carga",
+    "file": "41-conduccion-con-carga.md"
+  },
+  {
+    "slug": "conduccion-en-autopistas",
+    "title": "Conducción en autopistas",
+    "file": "42-conduccion-en-autopistas.md"
+  },
+  {
+    "slug": "conduccion-en-distintas-condiciones-climaticas",
+    "title": "Conducción en distintas condiciones climáticas",
+    "file": "43-conduccion-en-distintas-condiciones-climaticas.md"
+  },
+  {
+    "slug": "conduccion-eficiente",
+    "title": "Conducción eficiente",
+    "file": "44-conduccion-eficiente.md"
+  },
+  {
+    "slug": "recomendaciones-antes-de-partir-tu-viaje",
+    "title": "Recomendaciones antes de partir tu viaje",
+    "file": "45-recomendaciones-antes-de-partir-tu-viaje.md"
+  },
+  {
+    "slug": "recomendaciones-para-aplicar-durante-tu-trayecto",
+    "title": "Recomendaciones para aplicar durante tu trayecto",
+    "file": "46-recomendaciones-para-aplicar-durante-tu-trayecto.md"
+  },
+  {
+    "slug": "seguridad-y-conduccion-eficiente",
+    "title": "Seguridad",
+    "file": "47-seguridad-y-conduccion-eficiente.md"
+  },
+  {
+    "slug": "como-comportarse-en-caso-de-siniestro",
+    "title": "Cómo comportarse en caso de siniestro",
+    "file": "48-como-comportarse-en-caso-de-siniestro.md"
+  },
+  {
+    "slug": "disposiciones-aplicables-a-los-vehiculos",
+    "title": "Disposiciones aplicables a los vehículos",
+    "file": "49-disposiciones-aplicables-a-los-vehiculos.md"
+  },
+  {
+    "slug": "responsabilidad-de-la-persona-conductora",
+    "title": "Responsabilidad de la persona conductora",
+    "file": "50-responsabilidad-de-la-persona-conductora.md"
+  },
+  {
+    "slug": "senales-de-transito-verticales",
+    "title": "Señales de tránsito verticales",
+    "file": "50-senales-de-transito-verticales.md"
+  },
+  {
+    "slug": "glosario",
+    "title": "Glosario",
+    "file": "51-glosario.md"
+  },
+  {
+    "slug": "recomendaciones-para-frenadas-fuertes",
+    "title": "Recomendaciones para frenadas fuertes",
+    "file": "51-recomendaciones-para-frenadas-fuertes.md"
+  },
+  {
+    "slug": "referencias",
+    "title": "Referencias",
+    "file": "52-referencias.md"
+  },
+  {
+    "slug": "transito-y-medio-ambiente",
+    "title": "Tránsito y medio ambiente",
+    "file": "52-transito-y-medio-ambiente.md"
+  },
+  {
+    "slug": "conduccion-de-un-vehiculo-electrico",
+    "title": "Conducción de un vehículo eléctrico",
+    "file": "53-conduccion-de-un-vehiculo-electrico.md"
+  },
+  {
+    "slug": "proceso-obtencion-licencia-de-conducir",
+    "title": "Proceso de obtención de Licencia de Conducir",
+    "file": "53-proceso-de-obtencion-de-licencia-de-conducir.md"
+  }
+]

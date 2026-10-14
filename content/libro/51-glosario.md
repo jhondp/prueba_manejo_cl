@@ -1,0 +1,52 @@
+---
+title: Glosario
+slug: glosario
+order: 51
+---
+
+- **Acera:** Parte de una vía destinada al uso de peatones.
+- **Adelantamiento:** Maniobra efectuada por el costado izquierdo del eje de la calzada, mediante la cual un vehículo se sitúa adelante de otro u otros que le antecedían.
+- **Avenida o calle:** Vía urbana destinada a la circulación de las y los peatones, de los vehículos y de los animales.
+- **Berma:** Faja lateral, pavimentada o no, adyacente a la calzada de un camino.
+- **Calzada:** Parte de una vía destinada al uso de vehículos y animales.
+- **Camino:** Vía rural destinada al uso de peatones, vehículos y animales.
+- **Ciclo:** Vehículo no motorizado de una o más ruedas, propulsado por una o más personas situadas en él, tales como bicicletas, triciclos, entre otros. También se consideran ciclos aquellos vehículos de una o más ruedas que cuenten con un motor auxiliar eléctrico, de una potencia nominal continua máxima de 250 watts, en los que la alimentación es reducida o interrumpida cuando el vehículo alcanza una velocidad máxima de 25 km/h o antes si la persona ciclista termina de pedalear o propulsarlo, los que se considerarán para los efectos de la ley como vehículos no motorizados.
+- **Ciclovía:** Espacio destinado al uso exclusivo de ciclos, que puede estar segregado física o visualmente.
+- **Conductora/conductor:** Toda persona que conduce, maneja o tiene control físico de un vehículo motorizado en la vía pública; que controla o maneja un vehículo remolcado por otro; o que dirige, maniobra o está a cargo del manejo directo de cualquier otro vehículo, de un animal de silla, de tiro o de arreo de animales.
+- **Cruce:** La unión de una calle o camino con otros, aunque no los atraviese. Comprende todo el ancho de la calle o camino entre las líneas de edificación o deslindes en su caso.
+- **Cruce de ferrocarriles:** Intersección de una calle o camino con una vía férrea por la cual existe tráfico regular de trenes.
+- **Cruce regulado:** Cruce en que existe un semáforo funcionando normalmente, excluyendo la intermitencia, o donde está Carabineros dirigiendo el tránsito.
+- **Cuneta:** En calles, el ángulo formado por la calzada y el plano vertical producido por diferencia de nivel entre calzada y acera. En los caminos, el foso lateral de poca profundidad.
+- **Demarcación:** Símbolo, palabra o marca, de preferencia longitudinal o transversal, sobre la calzada, para guía del tránsito de vehículos y peatones.
+- **Derecho preferente de paso:** Prerrogativa de un peatón o persona conductora de un vehículo para proseguir su marcha.
+- **Detención:** Paralización a que obligan los dispositivos de señalización del tránsito o las órdenes de las o los funcionarios encargados de su regulación, como asimismo, la paralización breve de un vehículo para recibir o dejar pasajeros, pero sólo mientras dure esta maniobra.
+- **Eje de calzada:** La línea longitudinal a la calzada, demarcada o imaginaria, que determinará las áreas con sentido de tránsito opuesto de la misma; al ser imaginaria, la división es en dos partes iguales.
+- **Esquina:** Vértice del ángulo que forman las líneas de edificación o deslinde convergentes, según sea el caso.
+- **Estacionar:** Paralizar un vehículo en la vía pública con o sin la persona conductora, por un período mayor que el necesario para dejar o recibir pasajeros.
+- **Intersección:** Área común de calzadas que se cruzan o convergen.
+- **Línea de detención adelantada:** Línea transversal a la calzada demarcada conforme al reglamento, antes de un cruce regulado con semáforo, que determina el inicio de la zona de espera especial para personas conductoras de ciclos o motocicletas.
+- **Línea de detención de vehículos:** Línea transversal a la calzada, demarcada o imaginaria, antes de una intersección o un paso para peatones, que no debe ser sobrepasada por los vehículos que deban detenerse. Si no estuviera demarcada, se entiende que está:
+- En cruces regulados y pasos para peatones, a no menos de un metro antes de estos.
+- En otros cruces, justo antes de la intersección.
+- **Luz baja:** Luz proyectada por los focos delanteros del vehículo en que el borde superior del haz luminoso es paralelo a la calzada y cuya potencia permite visualizar obstáculos a una distancia no inferior a 50 metros.
+- **Luz alta:** Luz proyectada por los focos delanteros del vehículo en forma paralela a la calzada, cuya potencia permite visualizar obstáculos a una distancia no inferior a 150 metros.
+- **Luz de estacionamiento:** Luz continua o intermitente que permite identificar un vehículo estacionado.
+- **Padrón o permiso de circulación:** Documento otorgado por la autoridad, destinado a individualizar al vehículo y a su dueño o dueña con el objeto de que pueda circular por las vías públicas.
+- **Paso para peatones:** Senda de seguridad en la calzada, señalizada conforme al reglamento. En cruces regulados no demarcados, corresponderá a la franja formada por la prolongación imaginaria de las aceras.
+- **Pista de circulación:** Faja demarcada o imaginaria destinada al tránsito de una fila de vehículos.
+- **Pista de uso exclusivo:** Espacio de la calzada debidamente señalizado, destinado únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente.
+- **Placa patente:** Distintivo que permite individualizar al vehículo.
+- **Platabanda:** Espacio de la acera, reservado principalmente a la contención de áreas verdes y arbolado urbano, así como también a la instalación de equipamiento, redes de servicios eléctricos y de telecomunicaciones, iluminación, señales de tránsito, mobiliario urbano, estacionamiento de ciclos, quioscos y, en general, a toda función permitida en la acera y autorizada por la autoridad respectiva, complementaria al uso y tránsito de peatones.
+- **Semáforo:** Dispositivo luminoso mediante el cual se regula la circulación de vehículos y peatones.
+- **Señal de tránsito:** Dispositivos, signos y demarcaciones oficiales, de mensaje permanente o variable, instalados por la autoridad con el objetivo de regular, advertir o encauzar el tránsito.
+- **Sobrepasar:** Maniobra mediante la cual un vehículo pasa a otro u otros que circulan en el mismo sentido sin traspasar el eje de la calzada.
+- **Triciclo motorizado de carga:** Vehículo motorizado de tres ruedas destinado exclusivamente al transporte de carga. La capacidad de carga de estos vehículos no podrá superar los 300 kilogramos de peso.
+- **Vehículo de emergencia:** El perteneciente a Carabineros de Chile e Investigaciones, al Cuerpo de Bomberos y las ambulancias de las instituciones fiscales o de los establecimientos particulares que tengan el respectivo permiso otorgado por la autoridad competente.
+- **Vehículo de locomoción colectiva:** Vehículo motorizado, destinado al uso público, para el transporte remunerado de personas, exceptuados los taxis que no efectúen servicio colectivo.
+- **Vehículo para el transporte escolar:** Vehículo motorizado construido para transportar más de siete personas sentadas y destinado al transporte de escolares desde o hacia el colegio o relacionado con cualquiera otra actividad.
+- **Vía:** Calle, camino u otro lugar destinado al tránsito.
+- **Vía exclusiva:** Calzada debidamente señalizada, destinada únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente.
+- **Zona de espera especial:** Área señalizada conforme al reglamento, que permite a las personas conductoras de ciclos o motocicletas detenerse y reiniciar su marcha adelante de otros vehículos motorizados, en un cruce regulado con semáforo.
+- **Zona de Tránsito Calmado:** Vía o conjunto de vías emplazadas en zonas urbanas, definidas dentro de una determinada área geográfica, en las que a través de condiciones físicas u operacionales de las vías se establecen velocidades máximas de circulación inferiores a las establecidas en la ley, pudiendo estas ser de 40 km/h, 30 km/h o 20 km/h.
+- **Zona rural:** Área geográfica que excluye las zonas urbanas.
+- **Zona urbana:** Área geográfica cuyos límites, para los efectos de esta ley, deben estar determinados y señalizados por las Municipalidades.
