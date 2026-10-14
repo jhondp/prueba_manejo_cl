@@ -1,4 +1,5 @@
-import { copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { execFileSync } from 'node:child_process';
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 
 export function mergePartials(partials) {
@@ -14,7 +15,7 @@ export function mergePartials(partials) {
       const q = { id, ...rest };
       if (imageRef) {
         q.imagen = `assets/img/${id}.png`;
-        imageCopies.push({ id, page: imageRef.page, index: imageRef.index, to: q.imagen });
+        imageCopies.push({ id, page: imageRef.page, bbox: imageRef.bbox, to: q.imagen });
       }
       questions.push(q);
       if (duda) revision.push({ id, page, duda });
@@ -30,17 +31,15 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const partials = names.map((f) => JSON.parse(readFileSync(at(`data/partials/${f}`), 'utf8')));
   const { questions, revision, imageCopies } = mergePartials(partials);
 
-  // pdfimages -png -p names files im-<page>-<n>.png; group them by page, ordered by <n>.
-  const byPage = {};
-  for (const f of readdirSync(at('scratch/img')).sort()) {
-    const m = f.match(/^im-(\d+)-(\d+)\.png$/);
-    if (m) (byPage[Number(m[1])] ??= []).push(f);
-  }
+  // The embedded PDF images are whole card screenshots (they show the marked answer), so the
+  // question picture is cropped from the rendered page: bbox = [x0, y0, x1, y1] in page pixels.
   mkdirSync(at('assets/img'), { recursive: true });
-  for (const { page, index, to, id } of imageCopies) {
-    const file = byPage[page]?.[index];
-    if (!file) throw new Error(`${id}: no image #${index} on page ${page}`);
-    copyFileSync(at(`scratch/img/${file}`), at(to));
+  for (const { id, page, bbox, to } of imageCopies) {
+    const [x0, y0, x1, y1] = bbox;
+    if (!(x1 > x0 && y1 > y0)) throw new Error(`${id}: invalid bbox ${JSON.stringify(bbox)}`);
+    const src = at(`scratch/pages/p-${String(page).padStart(3, '0')}.jpg`);
+    if (!existsSync(src)) throw new Error(`${id}: missing page image ${src}`);
+    execFileSync('magick', [src, '-crop', `${x1 - x0}x${y1 - y0}+${x0}+${y0}`, '+repage', at(to)]);
   }
 
   writeFileSync(at('data/preguntas.json'), `${JSON.stringify(questions, null, 2)}\n`);
