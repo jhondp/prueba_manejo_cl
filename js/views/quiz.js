@@ -1,4 +1,4 @@
-import { h } from '../dom.js';
+import { h, fill } from '../dom.js';
 import { quizSet } from '../deck.js';
 import { review, newState } from '../scheduler.js';
 import { localIsoDate } from '../streak.js';
@@ -10,7 +10,7 @@ const LETTERS = 'ABCD';
 export async function quizView(ctx) {
   const root = h('section', { class: 'view' });
 
-  const intro = () => root.replaceChildren(
+  const intro = () => fill(root, 
     h('h1', {}, 'Quiz'),
     h('p', { class: 'lead' }, ctx.questions.length ? 'Elige cuántas preguntas al azar quieres responder.' : 'No hay preguntas disponibles.'),
     h('div', { class: 'actions' }, ctx.questions.length ? SIZES.map((n) => h('button', { class: 'btn', onclick: () => run(quizSet(ctx.questions, {}, n)) }, `${n} preguntas`)) : []));
@@ -45,7 +45,7 @@ export async function quizView(ctx) {
     const draw = () => {
       const q = set[i];
       const done = answered !== null;
-      root.replaceChildren(
+      fill(root, 
         h('p', { class: 'progress' }, `Pregunta ${i + 1} de ${set.length} · ${score} correctas`),
         h('h2', {}, q.enunciado),
         q.imagen && h('img', { class: 'qimg', src: q.imagen, alt: 'Imagen de la pregunta' }),

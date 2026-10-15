@@ -1,4 +1,4 @@
-import { h } from '../dom.js';
+import { h, fill } from '../dom.js';
 import { cardDeck } from '../deck.js';
 import { review, newState } from '../scheduler.js';
 import { localIsoDate } from '../streak.js';
@@ -22,14 +22,14 @@ async function studySession(ctx, items, toCard, { newLimit, emptyHref, emptyLabe
 
   const draw = () => {
     if (index >= deck.length) {
-      root.replaceChildren(
+      fill(root, 
         h('h1', {}, deck.length ? 'Sesión completa' : 'Todo al día'),
         h('p', { class: 'lead' }, deck.length ? 'Las que fallaste volverán hoy mismo.' : 'No tienes tarjetas pendientes. Vuelve mañana o haz un quiz.'),
         h('a', { class: 'btn', href: emptyHref }, emptyLabel));
       return;
     }
     const card = toCard(deck[index]);
-    root.replaceChildren(
+    fill(root, 
       h('p', { class: 'progress' }, `${index + 1} de ${deck.length}`),
       h('button', { class: `card${flipped ? ' is-flipped' : ''}`, onclick: () => { flipped = !flipped; draw(); } },
         h('span', { class: 'tag' }, card.tag),

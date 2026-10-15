@@ -10,3 +10,8 @@ export function h(tag, attrs = {}, ...children) {
   el.append(...children.flat().filter((c) => c != null && c !== false));
   return el;
 }
+
+// replaceChildren stringifies false/undefined, so drop empty children first.
+export function fill(parent, ...children) {
+  parent.replaceChildren(...children.flat().filter((c) => c != null && c !== false));
+}

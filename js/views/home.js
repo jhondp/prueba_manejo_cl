@@ -1,6 +1,7 @@
 import { h } from '../dom.js';
 import { stats } from '../deck.js';
 
+const pending = (n) => `${n} pendiente${n === 1 ? '' : 's'}`;
 const stat = (label, value) => h('div', { class: 'stat' }, h('b', {}, String(value)), h('span', {}, label));
 
 export async function homeView(ctx) {
@@ -17,8 +18,8 @@ export async function homeView(ctx) {
       stat('Para repasar hoy', s.due), stat('Nuevas', s.new),
       stat('Dominadas', `${s.mastered}/${s.total}`), stat('Señales dominadas', `${sg.mastered}/${sg.total}`), stat('Racha', `${streak.count} d`)),
     h('div', { class: 'actions' },
-      h('a', { class: 'btn', href: '#/tarjetas' }, s.due ? `Repasar ${s.due} pendientes` : 'Estudiar tarjetas'),
-      h('a', { class: 'btn ghost', href: '#/senales' }, sg.due ? `Señales (${sg.due} pendientes)` : 'Estudiar señales'),
+      h('a', { class: 'btn', href: '#/tarjetas' }, s.due ? `Repasar ${pending(s.due)}` : 'Estudiar tarjetas'),
+      h('a', { class: 'btn ghost', href: '#/senales' }, sg.due ? `Señales (${pending(sg.due)})` : 'Estudiar señales'),
       h('a', { class: 'btn ghost', href: '#/quiz' }, 'Hacer un quiz'),
       h('a', { href: '#/ajustes' }, 'Ajustes')),
     h('p', { class: 'lead' }, 'Confirma siempre con la edición vigente del libro oficial.'));
