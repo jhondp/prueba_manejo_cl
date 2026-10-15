@@ -37,3 +37,9 @@ test('validateSigns rejects empty, duplicate ids, blank fields and missing image
   assert.match(validateSigns([sign()], { imageExists: () => false }).join('\n'), /image not found/);
   assert.ok(validateSigns([null]).length > 0);
 });
+
+test('flags signs whose picture already prints their name', () => {
+  const { signs } = buildSigns([[item(), item({ nombre: 'Cede el paso' })]], ['s-002']);
+  assert.equal(signs[0].conTexto, undefined);
+  assert.equal(signs[1].conTexto, true);
+});

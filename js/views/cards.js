@@ -34,7 +34,9 @@ async function studySession(ctx, items, toCard, { newLimit, emptyHref, emptyLabe
       h('button', { class: `card${flipped ? ' is-flipped' : ''}`, onclick: () => { flipped = !flipped; draw(); } },
         h('span', { class: 'tag' }, card.tag),
         card.image && h('img', { class: 'qimg', src: card.image, alt: card.imageAlt }),
-        h('span', { class: 'card-text' }, flipped ? card.back : card.front),
+        h('span', { class: 'card-text' }, flipped && card.back ? card.back : card.front),
+        card.options && h('ol', { class: 'card-options' }, card.options.map((o, k) =>
+          h('li', { class: flipped ? (o.correct ? 'is-correct' : 'is-dim') : '' }, h('span', { class: 'letter' }, 'ABCD'[k]), o.text))),
         flipped && card.extra && h('span', {}, card.extra),
         h('span', { class: 'card-hint' }, flipped ? 'Toca para volver a la pregunta' : 'Toca para ver la respuesta')),
       flipped && h('div', { class: 'grade' },
@@ -50,7 +52,7 @@ export const cardsView = (ctx) => studySession(ctx, ctx.questions, (q) => ({
   image: q.imagen,
   imageAlt: 'Imagen de la pregunta',
   front: q.enunciado,
-  back: q.opciones[q.correcta],
+  options: q.opciones.map((text, k) => ({ text, correct: k === q.correcta })),
   extra: q.explicacion,
 }), { newLimit: 10, emptyHref: '#/quiz', emptyLabel: 'Hacer un quiz' });
 

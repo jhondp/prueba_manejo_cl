@@ -3,7 +3,8 @@
     "id": "s-001",
     "categoria": "Señales Reglamentarias",
     "nombre": "Pare",
-    "imagen": "assets/signs/s-001.png"
+    "imagen": "assets/signs/s-001.png",
+    "conTexto": true
   },
   {
     "id": "s-002",
@@ -15,7 +16,8 @@
     "id": "s-003",
     "categoria": "Señales Reglamentarias",
     "nombre": "Pare niños",
-    "imagen": "assets/signs/s-003.png"
+    "imagen": "assets/signs/s-003.png",
+    "conTexto": true
   },
   {
     "id": "s-004",
@@ -51,31 +53,36 @@
     "id": "s-009",
     "categoria": "Señales Reglamentarias",
     "nombre": "No cambiar de pista",
-    "imagen": "assets/signs/s-009.png"
+    "imagen": "assets/signs/s-009.png",
+    "conTexto": true
   },
   {
     "id": "s-010",
     "categoria": "Señales Reglamentarias",
     "nombre": "Preferencia ciclistas al virar derecha",
-    "imagen": "assets/signs/s-010.png"
+    "imagen": "assets/signs/s-010.png",
+    "conTexto": true
   },
   {
     "id": "s-011",
     "categoria": "Señales Reglamentarias",
     "nombre": "Preferencia ciclistas al virar izquierda",
-    "imagen": "assets/signs/s-011.png"
+    "imagen": "assets/signs/s-011.png",
+    "conTexto": true
   },
   {
     "id": "s-012",
     "categoria": "Señales Reglamentarias",
     "nombre": "Preferencia ciclistas al cambiar de pista",
-    "imagen": "assets/signs/s-012.png"
+    "imagen": "assets/signs/s-012.png",
+    "conTexto": true
   },
   {
     "id": "s-013",
     "categoria": "Señales Reglamentarias",
     "nombre": "Preferencia ciclistas al cambiar de pista",
-    "imagen": "assets/signs/s-013.png"
+    "imagen": "assets/signs/s-013.png",
+    "conTexto": true
   },
   {
     "id": "s-014",
@@ -87,7 +94,8 @@
     "id": "s-015",
     "categoria": "Señales Reglamentarias",
     "nombre": "Prohibida circulación de vehículos motorizados",
-    "imagen": "assets/signs/s-015.png"
+    "imagen": "assets/signs/s-015.png",
+    "conTexto": true
   },
   {
     "id": "s-016",
@@ -159,7 +167,8 @@
     "id": "s-027",
     "categoria": "Señales Reglamentarias",
     "nombre": "No peatones",
-    "imagen": "assets/signs/s-027.png"
+    "imagen": "assets/signs/s-027.png",
+    "conTexto": true
   },
   {
     "id": "s-028",
@@ -171,13 +180,15 @@
     "id": "s-029",
     "categoria": "Señales Reglamentarias",
     "nombre": "Velocidad mínima",
-    "imagen": "assets/signs/s-029.png"
+    "imagen": "assets/signs/s-029.png",
+    "conTexto": true
   },
   {
     "id": "s-030",
     "categoria": "Señales Reglamentarias",
     "nombre": "Velocidad máxima zona 30",
-    "imagen": "assets/signs/s-030.png"
+    "imagen": "assets/signs/s-030.png",
+    "conTexto": true
   },
   {
     "id": "s-031",
@@ -213,13 +224,15 @@
     "id": "s-036",
     "categoria": "Señales Reglamentarias",
     "nombre": "Fin prohibición o restricción",
-    "imagen": "assets/signs/s-036.png"
+    "imagen": "assets/signs/s-036.png",
+    "conTexto": true
   },
   {
     "id": "s-037",
     "categoria": "Señales Reglamentarias",
     "nombre": "Solo televía o sistema complementario",
-    "imagen": "assets/signs/s-037.png"
+    "imagen": "assets/signs/s-037.png",
+    "conTexto": true
   },
   {
     "id": "s-038",
@@ -267,7 +280,8 @@
     "id": "s-045",
     "categoria": "Señales Reglamentarias",
     "nombre": "Preferencia al sentido contrario",
-    "imagen": "assets/signs/s-045.png"
+    "imagen": "assets/signs/s-045.png",
+    "conTexto": true
   },
   {
     "id": "s-046",
@@ -303,13 +317,15 @@
     "id": "s-051",
     "categoria": "Señales Reglamentarias",
     "nombre": "Control",
-    "imagen": "assets/signs/s-051.png"
+    "imagen": "assets/signs/s-051.png",
+    "conTexto": true
   },
   {
     "id": "s-052",
     "categoria": "Señales Reglamentarias",
     "nombre": "Uso obligatorio de cadenas",
-    "imagen": "assets/signs/s-052.png"
+    "imagen": "assets/signs/s-052.png",
+    "conTexto": true
   },
   {
     "id": "s-053",
@@ -321,25 +337,29 @@
     "id": "s-054",
     "categoria": "Señales Reglamentarias",
     "nombre": "Solo motocicletas",
-    "imagen": "assets/signs/s-054.png"
+    "imagen": "assets/signs/s-054.png",
+    "conTexto": true
   },
   {
     "id": "s-055",
     "categoria": "Señales Reglamentarias",
     "nombre": "Vía segregada buses",
-    "imagen": "assets/signs/s-055.png"
+    "imagen": "assets/signs/s-055.png",
+    "conTexto": true
   },
   {
     "id": "s-056",
     "categoria": "Señales Reglamentarias",
     "nombre": "Vía segregada buses",
-    "imagen": "assets/signs/s-056.png"
+    "imagen": "assets/signs/s-056.png",
+    "conTexto": true
   },
   {
     "id": "s-057",
     "categoria": "Señales Reglamentarias",
     "nombre": "Solo transporte público",
-    "imagen": "assets/signs/s-057.png"
+    "imagen": "assets/signs/s-057.png",
+    "conTexto": true
   },
   {
     "id": "s-058",
@@ -357,19 +377,22 @@
     "id": "s-060",
     "categoria": "Señales Reglamentarias",
     "nombre": "Reservado",
-    "imagen": "assets/signs/s-060.png"
+    "imagen": "assets/signs/s-060.png",
+    "conTexto": true
   },
   {
     "id": "s-061",
     "categoria": "Señales Reglamentarias",
     "nombre": "Permitido virar derecha con luz roja",
-    "imagen": "assets/signs/s-061.png"
+    "imagen": "assets/signs/s-061.png",
+    "conTexto": true
   },
   {
     "id": "s-062",
     "categoria": "Señales Reglamentarias",
     "nombre": "Permitido virar izquierda con luz roja",
-    "imagen": "assets/signs/s-062.png"
+    "imagen": "assets/signs/s-062.png",
+    "conTexto": true
   },
   {
     "id": "s-063",
@@ -609,7 +632,8 @@
     "id": "s-102",
     "categoria": "Señales de Advertencia de Peligro",
     "nombre": "Peligro",
-    "imagen": "assets/signs/s-102.png"
+    "imagen": "assets/signs/s-102.png",
+    "conTexto": true
   },
   {
     "id": "s-103",
@@ -777,7 +801,8 @@
     "id": "s-130",
     "categoria": "Señales de Advertencia de Peligro",
     "nombre": "Proximidad de señal “Pare”",
-    "imagen": "assets/signs/s-130.png"
+    "imagen": "assets/signs/s-130.png",
+    "conTexto": true
   },
   {
     "id": "s-131",
@@ -819,7 +844,8 @@
     "id": "s-137",
     "categoria": "Señales Informativas",
     "nombre": "Salida inmediata",
-    "imagen": "assets/signs/s-137.png"
+    "imagen": "assets/signs/s-137.png",
+    "conTexto": true
   },
   {
     "id": "s-138",
@@ -981,61 +1007,71 @@
     "id": "s-164",
     "categoria": "Señales Informativas · Otras informaciones",
     "nombre": "Parada mixta",
-    "imagen": "assets/signs/s-164.png"
+    "imagen": "assets/signs/s-164.png",
+    "conTexto": true
   },
   {
     "id": "s-165",
     "categoria": "Señales Informativas · Otras informaciones",
     "nombre": "Pista solo buses",
-    "imagen": "assets/signs/s-165.png"
+    "imagen": "assets/signs/s-165.png",
+    "conTexto": true
   },
   {
     "id": "s-166",
     "categoria": "Señales Informativas · Otras informaciones",
     "nombre": "Control fotográfico",
-    "imagen": "assets/signs/s-166.png"
+    "imagen": "assets/signs/s-166.png",
+    "conTexto": true
   },
   {
     "id": "s-167",
     "categoria": "Señales Informativas · Otras informaciones",
     "nombre": "Control con cámara",
-    "imagen": "assets/signs/s-167.png"
+    "imagen": "assets/signs/s-167.png",
+    "conTexto": true
   },
   {
     "id": "s-168",
     "categoria": "Señales Informativas · Otras informaciones",
     "nombre": "Zona espera especial ciclos",
-    "imagen": "assets/signs/s-168.png"
+    "imagen": "assets/signs/s-168.png",
+    "conTexto": true
   },
   {
     "id": "s-169",
     "categoria": "Señales Informativas · Otras informaciones",
     "nombre": "Zona espera especial ciclos",
-    "imagen": "assets/signs/s-169.png"
+    "imagen": "assets/signs/s-169.png",
+    "conTexto": true
   },
   {
     "id": "s-170",
     "categoria": "Señales Informativas · Otras informaciones",
     "nombre": "Zona de espera adelantada motos",
-    "imagen": "assets/signs/s-170.png"
+    "imagen": "assets/signs/s-170.png",
+    "conTexto": true
   },
   {
     "id": "s-171",
     "categoria": "Señales Informativas · Otras informaciones",
     "nombre": "Zona de espera adelantada motos",
-    "imagen": "assets/signs/s-171.png"
+    "imagen": "assets/signs/s-171.png",
+    "conTexto": true
   },
   {
     "id": "s-172",
     "categoria": "Señales Informativas · Ciclistas",
     "nombre": "Zona 30",
-    "imagen": "assets/signs/s-172.png"
+    "imagen": "assets/signs/s-172.png",
+    "conTexto": true
   },
   {
     "id": "s-173",
     "categoria": "Señales Informativas · Ciclistas",
     "nombre": "Fin zona 30",
-    "imagen": "assets/signs/s-173.png"
+    "imagen": "assets/signs/s-173.png",
+    "conTexto": true
   },
   {
     "id": "s-174",
@@ -1059,7 +1095,8 @@
     "id": "s-177",
     "categoria": "Señales Informativas · Ciclistas",
     "nombre": "Fin ciclovía",
-    "imagen": "assets/signs/s-177.png"
+    "imagen": "assets/signs/s-177.png",
+    "conTexto": true
   },
   {
     "id": "s-178",
@@ -1083,13 +1120,15 @@
     "id": "s-181",
     "categoria": "Señales Informativas · Ciclistas",
     "nombre": "Zona espera especial ciclos",
-    "imagen": "assets/signs/s-181.png"
+    "imagen": "assets/signs/s-181.png",
+    "conTexto": true
   },
   {
     "id": "s-182",
     "categoria": "Señales Informativas · Ciclistas",
     "nombre": "Zona espera especial ciclos",
-    "imagen": "assets/signs/s-182.png"
+    "imagen": "assets/signs/s-182.png",
+    "conTexto": true
   },
   {
     "id": "s-183",
@@ -1101,7 +1140,8 @@
     "id": "s-184",
     "categoria": "Señales Transitorias",
     "nombre": "Fin trabajos en la vía",
-    "imagen": "assets/signs/s-184.png"
+    "imagen": "assets/signs/s-184.png",
+    "conTexto": true
   },
   {
     "id": "s-185",
@@ -1155,24 +1195,28 @@
     "id": "s-193",
     "categoria": "Señales Transitorias",
     "nombre": "Peligro",
-    "imagen": "assets/signs/s-193.png"
+    "imagen": "assets/signs/s-193.png",
+    "conTexto": true
   },
   {
     "id": "s-194",
     "categoria": "Señales Transitorias",
     "nombre": "Desvío",
-    "imagen": "assets/signs/s-194.png"
+    "imagen": "assets/signs/s-194.png",
+    "conTexto": true
   },
   {
     "id": "s-195",
     "categoria": "Señales Transitorias",
     "nombre": "Proximidad de desvío",
-    "imagen": "assets/signs/s-195.png"
+    "imagen": "assets/signs/s-195.png",
+    "conTexto": true
   },
   {
     "id": "s-196",
     "categoria": "Señales Transitorias",
     "nombre": "Fin de desvío",
-    "imagen": "assets/signs/s-196.png"
+    "imagen": "assets/signs/s-196.png",
+    "conTexto": true
   }
 ]
