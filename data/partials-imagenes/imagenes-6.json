@@ -1,0 +1,60 @@
+[
+ {
+  "id": "q-0278",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "decorative photo of driver drinking; answerable from text"
+ },
+ {
+  "id": "q-0280",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "street photo, no handbook equivalent"
+ },
+ {
+  "id": "q-0281",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "decorative child seats photo; answerable from text"
+ },
+ {
+  "id": "q-0283",
+  "fuente": "senal",
+  "senales": [
+   "s-063",
+   "s-069",
+   "s-068"
+  ],
+  "nota": "curve right, curve+countercurve right, zone of curves left"
+ },
+ {
+  "id": "q-0289",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "yellow box junction photo, no handbook equivalent"
+ },
+ {
+  "id": "q-0292",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "decorative road photo; answerable from text"
+ },
+ {
+  "id": "q-0300",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "labelled crosswalk photo points A,B,C"
+ },
+ {
+  "id": "q-0303",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "street photo with cyclist, no handbook equivalent"
+ },
+ {
+  "id": "q-0306",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "T junction diagram, no handbook equivalent"
+ }
+]

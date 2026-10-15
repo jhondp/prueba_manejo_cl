@@ -1,0 +1,86 @@
+[
+ {
+  "id": "q-0243",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative car on a curve photo; question answerable from text"
+ },
+ {
+  "id": "q-0246",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative photo of car and cyclist; answerable from text"
+ },
+ {
+  "id": "q-0251",
+  "fuente": "senal",
+  "senales": [
+   "s-156"
+  ],
+  "nota": "Exit sign, handbook Salida lateral derecha"
+ },
+ {
+  "id": "q-0255",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Question refers to the pictured parked car and signage; no handbook equivalent"
+ },
+ {
+  "id": "q-0260",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative photo of two drivers; answerable from text"
+ },
+ {
+  "id": "q-0262",
+  "fuente": "libro",
+  "libro": {
+   "page": 118,
+   "bbox": [
+    915,
+    932,
+    1003,
+    1092
+   ]
+  },
+  "nota": "100 m baliza de acercamiento, page 118 figure"
+ },
+ {
+  "id": "q-0264",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Intersection scene with red/yellow vehicles; no identical handbook figure"
+ },
+ {
+  "id": "q-0265",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Photo of vehicle merging from dirt road; no handbook equivalent"
+ },
+ {
+  "id": "q-0268",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative photo of parked car on shoulder; answerable from text"
+ },
+ {
+  "id": "q-0270",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative photo of smiling driver; answerable from text"
+ },
+ {
+  "id": "q-0274",
+  "fuente": "senal",
+  "senales": [
+   "s-119"
+  ],
+  "nota": "Ciclistas en la vía warning sign"
+ },
+ {
+  "id": "q-0276",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative photo of older driver; answerable from text"
+ }
+]

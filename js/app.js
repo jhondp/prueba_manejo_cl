@@ -20,11 +20,13 @@ const NAV = [['inicio', 'Inicio'], ['tarjetas', 'Tarjetas'], ['senales', 'Señal
 const VIEWS = { inicio: homeView, tarjetas: cardsView, senales: signsView, quiz: quizView, resultados: resultsView, libro: bookView, ajustes: settingsView };
 
 async function boot() {
-  const [questions, allSigns, chapters] = await Promise.all([
+  const [allQuestions, allSigns, chapters] = await Promise.all([
     fetch('data/preguntas.json').then((r) => r.json()),
     fetch('data/senales.json').then((r) => r.json()),
     fetch('content/libro/index.json').then((r) => r.json()),
   ]);
+  // Questions whose picture is not in the handbook cannot be studied without it.
+  const questions = allQuestions.filter((q) => !q.excluida);
   // Signs whose picture already prints their name would give the answer away.
   const signs = allSigns.filter((sign) => !sign.conTexto);
   const backend = safeBackend(idbBackend(), memoryBackend());

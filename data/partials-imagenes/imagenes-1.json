@@ -1,0 +1,90 @@
+[
+ {
+  "id": "q-0001",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Street scene photo; no equivalent handbook figure."
+ },
+ {
+  "id": "q-0003",
+  "fuente": "senal",
+  "senales": [
+   "s-133"
+  ],
+  "nota": "Falling rocks sign identical to s-133 (Zona de derrumbes)."
+ },
+ {
+  "id": "q-0005",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Photo of vehicle approaching pedestrians; no equivalent handbook figure."
+ },
+ {
+  "id": "q-0014",
+  "fuente": "senal",
+  "senales": [
+   "s-002"
+  ],
+  "nota": "Yield triangle identical to s-002 (Ceda el paso)."
+ },
+ {
+  "id": "q-0043",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Photo of ball in street; no handbook equivalent."
+ },
+ {
+  "id": "q-0061",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Pedestrian at median crossing illustration; handbook has no figure of this situation."
+ },
+ {
+  "id": "q-0062",
+  "fuente": "senal",
+  "senales": [
+   "s-118"
+  ],
+  "nota": "Two-way traffic sign identical to s-118."
+ },
+ {
+  "id": "q-0063",
+  "fuente": "senal",
+  "senales": [
+   "s-116"
+  ],
+  "nota": "Junction with side road joining from lower right, identical to s-116."
+ },
+ {
+  "id": "q-0064",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Diagram of yellow car on hatched zone; handbook has no such figure."
+ },
+ {
+  "id": "q-0065",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Yellow-hatched intersection diagram; no handbook figure."
+ },
+ {
+  "id": "q-0066",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Rear-end collision photo is decorative; answerable from text."
+ },
+ {
+  "id": "q-0067",
+  "fuente": "libro",
+  "libro": {
+   "page": 118,
+   "bbox": [
+    722,
+    586,
+    1022,
+    896
+   ]
+  },
+  "nota": "Handbook figure of deceleration lane with wider dashed line, exit sign."
+ }
+]

@@ -23,10 +23,11 @@ test('collects doubts for the review file', () => {
   assert.deepEqual(revision, [{ id: 'q-0002', page: 7, duda: 'respuesta ilegible' }]);
 });
 
-test('maps image crop references to asset paths', () => {
+test('marks questions that had a source picture and crops it to scratch only', () => {
   const { questions, imageCopies } = mergePartials([[item({ imageRef: { page: 4, bbox: [10, 20, 110, 220] } })]]);
-  assert.equal(questions[0].imagen, 'assets/img/q-0001.png');
-  assert.deepEqual(imageCopies, [{ id: 'q-0001', page: 4, bbox: [10, 20, 110, 220], to: 'assets/img/q-0001.png' }]);
+  assert.equal(questions[0].conImagen, true);
+  assert.equal('imagen' in questions[0], false);
+  assert.deepEqual(imageCopies, [{ id: 'q-0001', page: 4, bbox: [10, 20, 110, 220], to: 'scratch/ext-img/q-0001.png' }]);
 });
 
 test('drops exact repeats of the same question across exams', () => {

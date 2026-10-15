@@ -1,0 +1,84 @@
+[
+ {
+  "id": "q-0068",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Photo of a car with pavement arrow; handbook has no equivalent figure"
+ },
+ {
+  "id": "q-0069",
+  "fuente": "senal",
+  "senales": [
+   "s-125"
+  ],
+  "nota": "Identical yellow diamond, pedestrian on crosswalk"
+ },
+ {
+  "id": "q-0070",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Rural curve photo; no handbook equivalent; question refers to the image"
+ },
+ {
+  "id": "q-0071",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Option A is a traffic light with red and green left arrow, not available as a handbook picture"
+ },
+ {
+  "id": "q-0094",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Blank yellow diamond; no handbook equivalent"
+ },
+ {
+  "id": "q-0095",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Diagram with points A, B, C; no handbook equivalent"
+ },
+ {
+  "id": "q-0098",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Diagram of parking near a corner; question answerable from text (10 m)"
+ },
+ {
+  "id": "q-0102",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "T-junction diagram with red car; no handbook equivalent"
+ },
+ {
+  "id": "q-0103",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Circle-only no-car sign; handbook s-015 has extra panel and text, not identical"
+ },
+ {
+  "id": "q-0107",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Blue panel with car and taxi-like vehicle; handbook bus-lane signs differ"
+ },
+ {
+  "id": "q-0110",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Orange roadwork lane-end panel; no handbook counterpart"
+ },
+ {
+  "id": "q-0114",
+  "fuente": "libro",
+  "libro": {
+   "page": 21,
+   "bbox": [
+    255,
+    412,
+    368,
+    524
+   ]
+  },
+  "nota": "Handbook blue high-beam testigo icon (caption excluded)"
+ }
+]

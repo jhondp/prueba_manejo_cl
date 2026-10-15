@@ -50,8 +50,9 @@ export function mergePartials(partials) {
     const { imageRef, duda, page, ...rest } = item;
     const q = { id, ...rest };
     if (imageRef) {
-      q.imagen = `assets/img/${id}.png`;
-      imageCopies.push({ id, page: imageRef.page, bbox: imageRef.bbox, to: q.imagen });
+      // The source picture is not published: it is only a reference for matching a handbook image.
+      q.conImagen = true;
+      imageCopies.push({ id, page: imageRef.page, bbox: imageRef.bbox, to: `scratch/ext-img/${id}.png` });
     }
     questions.push(q);
     if (q.opciones.length < 3) {
@@ -73,7 +74,7 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
 
   // The embedded PDF images are whole card screenshots (they show the marked answer), so the
   // question picture is cropped from the rendered page: bbox = [x0, y0, x1, y1] in page pixels.
-  mkdirSync(at('assets/img'), { recursive: true });
+  mkdirSync(at('scratch/ext-img'), { recursive: true });
   for (const { id, page, bbox, to } of imageCopies) {
     const [x0, y0, x1, y1] = bbox;
     if (!(x1 > x0 && y1 > y0)) throw new Error(`${id}: invalid bbox ${JSON.stringify(bbox)}`);

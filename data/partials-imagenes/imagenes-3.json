@@ -1,0 +1,90 @@
+[
+ {
+  "id": "q-0116",
+  "fuente": "senal",
+  "senales": [
+   "s-178"
+  ],
+  "nota": "Ciclocalle sign; same symbol and shape (source image is desaturated)"
+ },
+ {
+  "id": "q-0125",
+  "fuente": "libro",
+  "libro": {
+   "page": 86,
+   "bbox": [
+    439,
+    958,
+    674,
+    1133
+   ]
+  },
+  "nota": "Arm bent up at right angle = right turn, page 86"
+ },
+ {
+  "id": "q-0127",
+  "fuente": "senal",
+  "senales": [
+   "s-163"
+  ],
+  "nota": "Plaza de peaje"
+ },
+ {
+  "id": "q-0130",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Ski tourist sign not in handbook; question refers to the figure"
+ },
+ {
+  "id": "q-0131",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Options refer to lanes A/B labels; handbook figure unlabelled"
+ },
+ {
+  "id": "q-0134",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative photo of child in seat"
+ },
+ {
+  "id": "q-0137",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative fog photo"
+ },
+ {
+  "id": "q-0143",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative photo of driver"
+ },
+ {
+  "id": "q-0147",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Photo of bus at stop; question refers to the situation in the photo"
+ },
+ {
+  "id": "q-0154",
+  "fuente": "senal",
+  "senales": [
+   "s-053"
+  ],
+  "nota": "Luces encendidas"
+ },
+ {
+  "id": "q-0156",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative photo of driver"
+ },
+ {
+  "id": "q-0159",
+  "fuente": "senal",
+  "senales": [
+   "s-100"
+  ],
+  "nota": "Proyeccion de gravilla"
+ }
+]

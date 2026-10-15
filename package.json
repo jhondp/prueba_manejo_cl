@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "test": "node --test",
-    "validate": "node scripts/validate-data.mjs"
+    "validate": "node scripts/validate-data.mjs",
+    "data": "node scripts/merge-questions.mjs && node scripts/build-signs.mjs && node scripts/apply-book-images.mjs"
   }
 }

@@ -12,7 +12,7 @@
       "40 km/h"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0001.png"
+    "excluida": true
   },
   {
     "id": "q-0002",
@@ -70,7 +70,7 @@
       "Reducir su velocidad y continuar conduciendo"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0005.png"
+    "excluida": true
   },
   {
     "id": "q-0006",
@@ -604,7 +604,7 @@
       "Disminuir la velocidad y estar preparado para detenerse porque pueden salir peatones o niños a buscar la pelota"
     ],
     "correcta": 2,
-    "imagen": "assets/img/q-0043.png"
+    "excluida": true
   },
   {
     "id": "q-0044",
@@ -857,7 +857,7 @@
       "Indicarle con la mano al peatón termine de cruzar rápidamente"
     ],
     "correcta": 0,
-    "imagen": "assets/img/q-0061.png"
+    "excluida": true
   },
   {
     "id": "q-0062",
@@ -902,7 +902,7 @@
       "No, porque la vía presenta mucho tránsito y dicha maniobra podría ocasionar un accidente"
     ],
     "correcta": 0,
-    "imagen": "assets/img/q-0064.png"
+    "excluida": true
   },
   {
     "id": "q-0065",
@@ -917,7 +917,7 @@
       "Cuando en la salida del cruce exista espacio suficiente para no quedar detenido en él"
     ],
     "correcta": 2,
-    "imagen": "assets/img/q-0065.png"
+    "excluida": true
   },
   {
     "id": "q-0066",
@@ -931,8 +931,7 @@
       "II y III",
       "I, II y III"
     ],
-    "correcta": 2,
-    "imagen": "assets/img/q-0066.png"
+    "correcta": 2
   },
   {
     "id": "q-0067",
@@ -962,7 +961,7 @@
       "Sí, porque no hay ningún semáforo ni disco pare que le obligue a detenerse"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0068.png"
+    "excluida": true
   },
   {
     "id": "q-0069",
@@ -992,7 +991,7 @@
       "I, II y III"
     ],
     "correcta": 2,
-    "imagen": "assets/img/q-0070.png"
+    "excluida": true
   },
   {
     "id": "q-0071",
@@ -1007,7 +1006,7 @@
       "Ilustración C"
     ],
     "correcta": 2,
-    "imagen": "assets/img/q-0071.png"
+    "excluida": true
   },
   {
     "id": "q-0072",
@@ -1329,8 +1328,8 @@
       "Para advertir acerca de peligros en la vía"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0094.png",
-    "incompleta": true
+    "incompleta": true,
+    "excluida": true
   },
   {
     "id": "q-0095",
@@ -1345,7 +1344,7 @@
       "El conductor del vehículo rojo estimará que el punto de encuentro será en el punto C"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0095.png"
+    "excluida": true
   },
   {
     "id": "q-0096",
@@ -1387,8 +1386,7 @@
       "A 5 metros",
       "A 10 metros"
     ],
-    "correcta": 2,
-    "imagen": "assets/img/q-0098.png"
+    "correcta": 2
   },
   {
     "id": "q-0099",
@@ -1445,7 +1443,7 @@
       "Avanzar lentamente e ingresar a la otra pista"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0102.png"
+    "excluida": true
   },
   {
     "id": "q-0103",
@@ -1460,7 +1458,7 @@
       "Que está prohibida la circulación de vehículos a motor"
     ],
     "correcta": 2,
-    "imagen": "assets/img/q-0103.png"
+    "excluida": true
   },
   {
     "id": "q-0104",
@@ -1517,7 +1515,7 @@
       "Que los taxis deben circular por la pista izquierda"
     ],
     "correcta": 0,
-    "imagen": "assets/img/q-0107.png"
+    "excluida": true
   },
   {
     "id": "q-0108",
@@ -1560,7 +1558,7 @@
       "Indica que más adelante la pista derecha se encuentra cerrada"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0110.png"
+    "excluida": true
   },
   {
     "id": "q-0111",
@@ -1845,7 +1843,7 @@
       "No es una señal de tránsito"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0130.png"
+    "excluida": true
   },
   {
     "id": "q-0131",
@@ -1860,7 +1858,7 @@
       "Que el conductor de la pista B puede realizar un adelantamiento"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0131.png"
+    "excluida": true
   },
   {
     "id": "q-0132",
@@ -1902,8 +1900,7 @@
       "II y III",
       "I, II y III"
     ],
-    "correcta": 1,
-    "imagen": "assets/img/q-0134.png"
+    "correcta": 1
   },
   {
     "id": "q-0135",
@@ -1945,8 +1942,7 @@
       "II y III",
       "Solo III"
     ],
-    "correcta": 0,
-    "imagen": "assets/img/q-0137.png"
+    "correcta": 0
   },
   {
     "id": "q-0138",
@@ -2030,8 +2026,7 @@
       "II y III",
       "I y II"
     ],
-    "correcta": 1,
-    "imagen": "assets/img/q-0143.png"
+    "correcta": 1
   },
   {
     "id": "q-0144",
@@ -2088,7 +2083,7 @@
       "Prepararse para actuar, porque el bus podría ponerse en marcha"
     ],
     "correcta": 2,
-    "imagen": "assets/img/q-0147.png"
+    "excluida": true
   },
   {
     "id": "q-0148",
@@ -2215,8 +2210,7 @@
       "I y III",
       "II y III"
     ],
-    "correcta": 0,
-    "imagen": "assets/img/q-0156.png"
+    "correcta": 0
   },
   {
     "id": "q-0157",
@@ -2302,7 +2296,7 @@
       "Fotografía C"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0162.png"
+    "excluida": true
   },
   {
     "id": "q-0163",
@@ -2485,7 +2479,7 @@
       "Fotografía C"
     ],
     "correcta": 0,
-    "imagen": "assets/img/q-0175.png"
+    "excluida": true
   },
   {
     "id": "q-0176",
@@ -2500,7 +2494,7 @@
       "Punto C, donde un peatón está comenzando a cruzar la calzada"
     ],
     "correcta": 2,
-    "imagen": "assets/img/q-0176.png"
+    "excluida": true
   },
   {
     "id": "q-0177",
@@ -2781,7 +2775,7 @@
       "Que se debe conducir a un máximo de 70 kilómetros por hora, excepto al adelantar por la izquierda situación en la que se puede aumentar la velocidad en un 10%"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0196.png"
+    "excluida": true
   },
   {
     "id": "q-0197",
@@ -2852,7 +2846,7 @@
       "Ilustración C"
     ],
     "correcta": 2,
-    "imagen": "assets/img/q-0201.png"
+    "excluida": true
   },
   {
     "id": "q-0202",
@@ -2908,8 +2902,7 @@
       "II y III",
       "I, II y III"
     ],
-    "correcta": 2,
-    "imagen": "assets/img/q-0205.png"
+    "correcta": 2
   },
   {
     "id": "q-0206",
@@ -2979,8 +2972,7 @@
       "II y IV",
       "III"
     ],
-    "correcta": 1,
-    "imagen": "assets/img/q-0210.png"
+    "correcta": 1
   },
   {
     "id": "q-0211",
@@ -3092,8 +3084,7 @@
       "II y III",
       "I, II y III"
     ],
-    "correcta": 1,
-    "imagen": "assets/img/q-0218.png"
+    "correcta": 1
   },
   {
     "id": "q-0219",
@@ -3219,8 +3210,7 @@
       "I y III",
       "I, II y III"
     ],
-    "correcta": 2,
-    "imagen": "assets/img/q-0227.png"
+    "correcta": 2
   },
   {
     "id": "q-0228",
@@ -3333,8 +3323,7 @@
       "I y III",
       "I, II y III"
     ],
-    "correcta": 2,
-    "imagen": "assets/img/q-0235.png"
+    "correcta": 2
   },
   {
     "id": "q-0236",
@@ -3447,8 +3436,7 @@
       "II y III",
       "I, II y III"
     ],
-    "correcta": 1,
-    "imagen": "assets/img/q-0243.png"
+    "correcta": 1
   },
   {
     "id": "q-0244",
@@ -3490,8 +3478,7 @@
       "I, II y III",
       "I, III y IV"
     ],
-    "correcta": 2,
-    "imagen": "assets/img/q-0246.png"
+    "correcta": 2
   },
   {
     "id": "q-0247",
@@ -3562,7 +3549,7 @@
       "Que es el fin de la autopista o autovía"
     ],
     "correcta": 0,
-    "imagen": "assets/img/q-0251.png"
+    "excluida": true
   },
   {
     "id": "q-0252",
@@ -3619,7 +3606,7 @@
       "Porque una señal expresamente indica que se puede estacionar"
     ],
     "correcta": 2,
-    "imagen": "assets/img/q-0255.png"
+    "excluida": true
   },
   {
     "id": "q-0256",
@@ -3689,8 +3676,7 @@
       "I, III y IV",
       "I, II y IV"
     ],
-    "correcta": 1,
-    "imagen": "assets/img/q-0260.png"
+    "correcta": 1
   },
   {
     "id": "q-0261",
@@ -3748,7 +3734,7 @@
       "El conductor del vehículo amarillo que se aproxima al cruce por la derecha"
     ],
     "correcta": 0,
-    "imagen": "assets/img/q-0264.png"
+    "excluida": true
   },
   {
     "id": "q-0265",
@@ -3763,7 +3749,7 @@
       "No tiene ninguna obligación, ya que el otro vehículo es quien debe cederle el paso"
     ],
     "correcta": 2,
-    "imagen": "assets/img/q-0265.png"
+    "excluida": true
   },
   {
     "id": "q-0266",
@@ -3805,8 +3791,7 @@
       "I y II",
       "I, II y III"
     ],
-    "correcta": 2,
-    "imagen": "assets/img/q-0268.png"
+    "correcta": 2
   },
   {
     "id": "q-0269",
@@ -3834,8 +3819,7 @@
       "I y II",
       "I, II y III"
     ],
-    "correcta": 1,
-    "imagen": "assets/img/q-0270.png"
+    "correcta": 1
   },
   {
     "id": "q-0271",
@@ -3920,8 +3904,7 @@
       "II y III",
       "I, II y III"
     ],
-    "correcta": 1,
-    "imagen": "assets/img/q-0276.png"
+    "correcta": 1
   },
   {
     "id": "q-0277",
@@ -3949,7 +3932,6 @@
       "I y III"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0278.png",
     "incompleta": true
   },
   {
@@ -3979,7 +3961,7 @@
       "Al tránsito en la intersección que hay más adelante"
     ],
     "correcta": 2,
-    "imagen": "assets/img/q-0280.png"
+    "excluida": true
   },
   {
     "id": "q-0281",
@@ -3993,8 +3975,7 @@
       "I y II",
       "I, II y III"
     ],
-    "correcta": 2,
-    "imagen": "assets/img/q-0281.png"
+    "correcta": 2
   },
   {
     "id": "q-0282",
@@ -4108,7 +4089,7 @@
       "Esperar en el mismo lugar hasta tener luz verde"
     ],
     "correcta": 0,
-    "imagen": "assets/img/q-0289.png"
+    "excluida": true
   },
   {
     "id": "q-0290",
@@ -4150,8 +4131,7 @@
       "Por cualquiera de las dos que rodean el refugio o la isleta",
       "Únicamente por la parte de la calzada que queda a la derecha del refugio o isleta"
     ],
-    "correcta": 1,
-    "imagen": "assets/img/q-0292.png"
+    "correcta": 1
   },
   {
     "id": "q-0293",
@@ -4264,7 +4244,7 @@
       "Punto C, donde un peatón está comenzando a cruzar la calzada"
     ],
     "correcta": 2,
-    "imagen": "assets/img/q-0300.png"
+    "excluida": true
   },
   {
     "id": "q-0301",
@@ -4307,7 +4287,7 @@
       "A irregularidades en la superficie de la calzada"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0303.png"
+    "excluida": true
   },
   {
     "id": "q-0304",
@@ -4350,7 +4330,7 @@
       "Avanzar lentamente e ingresar a la otra pista"
     ],
     "correcta": 1,
-    "imagen": "assets/img/q-0306.png"
+    "excluida": true
   },
   {
     "id": "q-0307",

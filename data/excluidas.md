@@ -1,0 +1,34 @@
+# Questions left out of study mode (their picture is not in the handbook)
+
+- q-0001: Street scene photo; no equivalent handbook figure.
+- q-0005: Photo of vehicle approaching pedestrians; no equivalent handbook figure.
+- q-0043: Photo of ball in street; no handbook equivalent.
+- q-0061: Pedestrian at median crossing illustration; handbook has no figure of this situation.
+- q-0064: Diagram of yellow car on hatched zone; handbook has no such figure.
+- q-0065: Yellow-hatched intersection diagram; no handbook figure.
+- q-0068: Photo of a car with pavement arrow; handbook has no equivalent figure
+- q-0070: Rural curve photo; no handbook equivalent; question refers to the image
+- q-0071: Option A is a traffic light with red and green left arrow, not available as a handbook picture
+- q-0094: Blank yellow diamond; no handbook equivalent
+- q-0095: Diagram with points A, B, C; no handbook equivalent
+- q-0102: T-junction diagram with red car; no handbook equivalent
+- q-0103: Circle-only no-car sign; handbook s-015 has extra panel and text, not identical
+- q-0107: Blue panel with car and taxi-like vehicle; handbook bus-lane signs differ
+- q-0110: Orange roadwork lane-end panel; no handbook counterpart
+- q-0130: Ski tourist sign not in handbook; question refers to the figure
+- q-0131: Options refer to lanes A/B labels; handbook figure unlabelled
+- q-0147: Photo of bus at stop; question refers to the situation in the photo
+- q-0162: Situational photos A-C; no handbook equivalent
+- q-0175: Situational photos A-C; no handbook equivalent
+- q-0176: Street photo with points A-C; no handbook equivalent
+- q-0196: Speed limit 70 sign not in handbook (only 50 present, s-028)
+- q-0201: Generic A/B/C sign shapes; no identical handbook set
+- q-0251: The handbook sign (exit arrow only) is not identical to the one in the question (adds the highway crossbar)
+- q-0255: Question refers to the pictured parked car and signage; no handbook equivalent
+- q-0264: Intersection scene with red/yellow vehicles; no identical handbook figure
+- q-0265: Photo of vehicle merging from dirt road; no handbook equivalent
+- q-0280: street photo, no handbook equivalent
+- q-0289: yellow box junction photo, no handbook equivalent
+- q-0300: labelled crosswalk photo points A,B,C
+- q-0303: street photo with cyclist, no handbook equivalent
+- q-0306: T junction diagram, no handbook equivalent

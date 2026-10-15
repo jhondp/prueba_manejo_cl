@@ -1,0 +1,84 @@
+[
+ {
+  "id": "q-0162",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Situational photos A-C; no handbook equivalent"
+ },
+ {
+  "id": "q-0175",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Situational photos A-C; no handbook equivalent"
+ },
+ {
+  "id": "q-0176",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Street photo with points A-C; no handbook equivalent"
+ },
+ {
+  "id": "q-0196",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Speed limit 70 sign not in handbook (only 50 present, s-028)"
+ },
+ {
+  "id": "q-0201",
+  "fuente": "ninguna",
+  "dependeDeImagen": true,
+  "nota": "Generic A/B/C sign shapes; no identical handbook set"
+ },
+ {
+  "id": "q-0205",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative photo of bottle"
+ },
+ {
+  "id": "q-0210",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative road photo; answerable from text"
+ },
+ {
+  "id": "q-0218",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative road photo; answerable from text"
+ },
+ {
+  "id": "q-0227",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative road photo; answerable from text"
+ },
+ {
+  "id": "q-0229",
+  "fuente": "senal",
+  "senales": [
+   "s-008"
+  ],
+  "nota": "No adelantar identical"
+ },
+ {
+  "id": "q-0235",
+  "fuente": "ninguna",
+  "dependeDeImagen": false,
+  "nota": "Decorative dashboard photo"
+ },
+ {
+  "id": "q-0238",
+  "fuente": "libro",
+  "libro": {
+   "page": 86,
+   "bbox": [
+    123,
+    958,
+    987,
+    1131
+   ]
+  },
+  "nota": "Handbook arm signals: horizontal, up, down in same order; third is slowing"
+ }
+]
